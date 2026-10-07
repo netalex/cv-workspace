@@ -115,29 +115,58 @@ def validate_app(folder, demo=False):
 
 
 def executable(name):
+    def console_path(path):
+        path = Path(path)
+        if sys.platform == 'win32' and name == 'soffice':
+            console = path.with_name('soffice.com')
+            if console.is_file():
+                return str(console)
+        return str(path)
+
     override = os.environ.get(name.upper() + '_PATH')
     if override:
         require(Path(override).is_file(), f'{name.upper()}_PATH non valido')
-        return override
-    found = shutil.which(name)
-    if found:
-        return found
+        return console_path(override)
+    names = ('soffice.com', 'soffice', 'libreoffice') if name == 'soffice' and sys.platform == 'win32' else (name,)
+    for candidate in names:
+        found = shutil.which(candidate)
+        if found:
+            return console_path(found)
     if name == 'soffice':
         found = shutil.which('libreoffice')
         if found:
-            return found
+            return console_path(found)
+        roots = []
         for env in ('PROGRAMFILES', 'PROGRAMFILES(X86)'):
             if os.environ.get(env):
-                p = Path(os.environ[env]) / 'LibreOffice/program/soffice.exe'
-                if p.is_file():
-                    return str(p)
+                roots.append(Path(os.environ[env]) / 'LibreOffice')
+        if sys.platform == 'win32':
+            scoop_roots = [Path(os.environ.get('SCOOP') or Path.home() / 'scoop')]
+            if os.environ.get('SCOOP_GLOBAL'):
+                scoop_roots.append(Path(os.environ['SCOOP_GLOBAL']))
+            elif os.environ.get('PROGRAMDATA'):
+                scoop_roots.append(Path(os.environ['PROGRAMDATA']) / 'scoop')
+            for root in scoop_roots:
+                current = root / 'apps/libreoffice/current'
+                roots.extend((current / 'LibreOffice', current))
+        for root in roots:
+            for filename in ('soffice.com', 'soffice.exe'):
+                path = root / 'program' / filename
+                if path.is_file():
+                    return console_path(path)
     raise ValueError(f'{name} non trovato. Aggiungerlo al PATH o impostare {name.upper()}_PATH.')
 
 
 def run(cmd):
     result = subprocess.run([str(x) for x in cmd], capture_output=True, text=True, timeout=120)
     require(result.returncode == 0, f'Comando fallito: {cmd[0]}\n{result.stderr}\n{result.stdout}')
-    return result.stdout.strip()
+    return (result.stdout or result.stderr).strip()
+
+
+def tool_version(exe):
+    output = run([exe, '--version'])
+    lines = output.splitlines()
+    return lines[0] if lines else 'Versione non disponibile (output vuoto)'
 
 
 def digest(path):
@@ -184,8 +213,8 @@ def build(args):
         shutil.copy2(folder / 'application.yaml', out / 'application-at-build.yaml')
         files = {p.name: digest(p) for p in out.iterdir() if p.is_file()}
         manifest = dict(created_utc=stamp, demo=args.demo, inputs=inputs(folder, profile, sources), outputs=files,
-                        tools={'pandoc': run([pandoc, '--version']).splitlines()[0],
-                               'soffice': run([soffice, '--version']).splitlines()[0]})
+                        tools={'pandoc': tool_version(pandoc),
+                               'soffice': tool_version(soffice)})
         (out / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
         target = base / stamp
         out.rename(target)
@@ -253,7 +282,7 @@ def main():
         if args.command == 'doctor':
             print(f'Python {sys.version.split()[0]} | PyYAML {yaml.__version__}')
             for name in ('pandoc','soffice'):
-                exe = executable(name); print(run([exe,'--version']).splitlines()[0])
+                exe = executable(name); print(tool_version(exe))
             require((ROOT/'templates/reference.docx').is_file(), 'Modello Word mancante')
         elif args.command == 'new': new_app(args)
         elif args.command == 'validate':
@@ -272,3 +301,4 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
+

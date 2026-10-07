@@ -77,4 +77,53 @@ class WorkflowTests(unittest.TestCase):
     def test_path_escape_rejected(self):
         with self.assertRaises(ValueError):cv.app_path('../')
 
+
+
+class LibreOfficeTests(unittest.TestCase):
+    def test_empty_version_is_reported(self):
+        from unittest.mock import patch
+        with patch.object(cv, 'run', return_value=''):
+            self.assertEqual(cv.tool_version('soffice'), 'Versione non disponibile (output vuoto)')
+
+    def test_version_on_stderr_is_supported(self):
+        from unittest.mock import patch
+        import subprocess
+        result = subprocess.CompletedProcess([], 0, '', 'LibreOffice test\n')
+        with patch.object(cv.subprocess, 'run', return_value=result):
+            self.assertEqual(cv.tool_version('soffice'), 'LibreOffice test')
+
+    def test_failed_version_is_still_an_error(self):
+        from unittest.mock import patch
+        import subprocess
+        result = subprocess.CompletedProcess([], 1, '', 'failed')
+        with patch.object(cv.subprocess, 'run', return_value=result):
+            with self.assertRaises(ValueError): cv.tool_version('soffice')
+
+    def test_windows_override_prefers_adjacent_console(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as tmp:
+            exe=Path(tmp)/'soffice.exe'; exe.touch()
+            console=Path(tmp)/'soffice.com'; console.touch()
+            with patch.object(cv.sys,'platform','win32'), patch.dict(cv.os.environ,{'SOFFICE_PATH':str(exe)},clear=True):
+                self.assertEqual(cv.executable('soffice'),str(console))
+
+    def test_windows_scoop_nested_layout(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as tmp:
+            console=Path(tmp)/'apps/libreoffice/current/LibreOffice/program/soffice.com'
+            console.parent.mkdir(parents=True); console.touch()
+            with patch.object(cv.sys,'platform','win32'), patch.dict(cv.os.environ,{'SCOOP':tmp},clear=True), patch.object(cv.shutil,'which',return_value=None):
+                self.assertEqual(cv.executable('soffice'),str(console))
+
+    def test_invalid_override_does_not_fall_back(self):
+        from unittest.mock import patch
+        with tempfile.TemporaryDirectory() as tmp:
+            with patch.dict(cv.os.environ,{'SOFFICE_PATH':str(Path(tmp)/'missing')},clear=True):
+                with self.assertRaisesRegex(ValueError,'non valido'): cv.executable('soffice')
+
+    def test_linux_path_is_unchanged(self):
+        from unittest.mock import patch
+        with patch.object(cv.sys,'platform','linux'), patch.dict(cv.os.environ,{},clear=True), patch.object(cv.shutil,'which',return_value='/usr/bin/soffice'):
+            self.assertEqual(cv.executable('soffice'),'/usr/bin/soffice')
+
 if __name__=='__main__':unittest.main()

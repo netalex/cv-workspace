@@ -1,0 +1,22 @@
+schema_version: 1
+identity:
+  name: Persona Esempio
+  email: persona@example.com
+  location: Città Esempio
+sources:
+  - id: src-demo
+    path: examples/demo/source.md
+    note: Fonte interamente fittizia
+experiences:
+  - id: exp-demo
+    label: Sviluppo interfacce per catalogo interno
+    status: confirmed
+    source_ids: [src-demo]
+    employer: Azienda Dimostrativa
+    role: Sviluppatore frontend
+    start: "2023"
+    end: "2025"
+projects: []
+skills: []
+education: []
+languages: []

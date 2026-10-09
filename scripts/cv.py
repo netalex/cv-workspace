@@ -116,9 +116,8 @@ def validate_app(folder, demo=False):
 
 def executable(name):
     def console_path(path):
-        path = Path(path)
         if sys.platform == 'win32' and name == 'soffice':
-            console = path.with_name('soffice.com')
+            console = Path(path).with_name('soffice.com')
             if console.is_file():
                 return str(console)
         return str(path)

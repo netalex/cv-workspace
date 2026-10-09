@@ -126,4 +126,12 @@ class LibreOfficeTests(unittest.TestCase):
         with patch.object(cv.sys,'platform','linux'), patch.dict(cv.os.environ,{},clear=True), patch.object(cv.shutil,'which',return_value='/usr/bin/soffice'):
             self.assertEqual(cv.executable('soffice'),'/usr/bin/soffice')
 
+
+    def test_linux_path_ignores_host_path_flavour(self):
+        from unittest.mock import patch
+        from pathlib import PureWindowsPath
+        with patch.object(cv.sys, 'platform', 'linux'), patch.dict(cv.os.environ, {}, clear=True), patch.object(cv.shutil, 'which', return_value='/usr/bin/soffice'), patch.object(cv, 'Path', PureWindowsPath):
+            self.assertEqual(cv.executable('soffice'), '/usr/bin/soffice')
+
+
 if __name__=='__main__':unittest.main()

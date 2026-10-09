@@ -1,0 +1,142 @@
+                                       Esperienza
+
+
+                                   Sviluppatore Front End                                      2018 - 2024
+                                   THINKOPEN
+
+                                   ICCREA (In remoto): Manutenzione e aggiornamento di
+                                   un’applicazione interna per un istituto bancario che consente
+                                   il caricamento massivo di file CSV contenenti dati contrattuali
+                                   per mutui e prestiti
+
+  Alessandro                       GFT (In remoto): Strumento di dashboard centralizzato per le
+                                   filiali di una grande compagnia assicurativa
+
+
+     Aprile
+                                   Engineering (In remoto): Sviluppo di una sezione front end
+                                   del portale CRM per il Ministero della Difesa italiano - Marina
+                                   militare
+    Front End developer            GFT (In remoto): Contribuito alla fase di avanzamento e
+                                   manutenzione del software
+                                   NextIP (In sede): Front End React per un CRM all-in-one per
+                                   call center
+    Contatti                       Abstract/luxottica (In remoto): Suite di app mobile e web per
+                                   il processo decisionale aziendale
+                                   Engineering/A-Ice (In sede/In remoto): Software di gestione
+                                   della manutenzione per aeromobili
+   3200625543
+                                   Intesi/Deuthebank       Milano    (In    sede):   Sviluppo di
+                                   un’interfaccia di gestione degli accessi bancari PSD2
+   aprile.alessandro@gmail.com
+                                   Spindox/amplifonMilano (In sede): Interfaccia web per il
+                                   sistema di vendita al dettaglio integrato di dispositivi medici.
+   via Domenico Berra 17 Milano
+
+
+                                   Sviluppatore Front End (AngularJS)
+                                   ABB PowerOne Arezzo Toscana                                        2017
+   Skills
+                                   Interfaccia Front End per un'app di controllo intelligente per
+                                   solar farm, costruzione e test di funzioni e componenti
+                                   specifici.
+
+Angular/AngularJs - React -        Sviluppatore Front End (AngularJS)
+                                   3Wlab Milano/Roma                                            2015- 2017
+React-native - Redux/RxJs -
+                                   Sviluppo di un sistema integrato di gestione documentale per
+TypeScript/JavaScript - webRtc -   il settore pubblico
+                                   vanilla JavaScrip Roma (In sede) Sviluppo di un framework di
+Ionic/PhoneGap/Cordova -           intelligenza artificiale P.A./ chat-bot per POC
+                                   Avanade - Milano (In sede) Sviluppatore HTML
+jasmine - jquery - html5/css3 -
+                                   Sviluppatore Front End (AngularJS)
+                                                                                                      2015
+Sass/Scss - Bootstrap - Angular    Winga - Milano
+                                   Microfrontend angular su portale velocity per casinò online.
+Material - PrimeNG - JSON -
+
+webSql - SQL - Oracle - Node -     Sviluppatore Front End (vanilla JavaScript)                   2014-2015
+                                   S Group Milano
+MongoDB - Express.js - OAUTH2 -
+                                   Sviluppo di un CMS mobile cross-platform basato sul
+                                   paradigma delle app ibride: Personalizzazione dell'interfaccia
+JWT - KeyCloack/Openshift -
+                                   HTML5 di un framework ibrido per la distribuzione di
+                                   contenuti specifici per il cliente che implementa una replica
+jhipster - ambiente .NET -         locale del backend Java sui dispositivi mobili
+
+botpress - chatScrip -
+
+Metodologia Agile
+                                                             Sviluppatore Front End (html/JavaScript)
+                                                            CERVED Milano                                                           2014
+
+                                                             App web per la gestione del portafoglio finanziario e del
+                                                             rating, applicazione pratica Agile.
+
+                                                             Sviluppatore di app ibride (PhoneGap)                          2013 - 2014
+
+                                                            FORGE Replay Milano
+                                                             Sviluppo di     un'app    ibrida   di   redeem    (riscatto)   della
+                                                             gamification.
+
+                                                            Sviluppatore PL/SQL e JavaScript                                2008-2013
+                                                             AreaTC Milano
+       Su di me                                              AreaTC Sviluppatore JavaScript junior (In sede)
+                                                             TelCo Sviluppatore PL/SQL (In sede)
+
+
+
+                                                            Supporto IT                                                     2000-2010
+Front End developer con più di 11 anni
+di    esperienza       nello      sviluppo     in              Istruzione e formazione
+javascript e più di 24 nell'IT. Assisto le
+aziende nella creazione di interfacce
+                                                             Apprendimento continuo sull’IA nella
+utente accattivanti a partire dalla
+                                                             programmazione, LLM e le loro applicazioni
+concettualizzazione del software.
+                                                             nello sviluppo frontend
+Ho una comprovata esperienza nella
+realizzazione     di    software        di    alta           Corsi di Fabio Biondi
+qualità   nei     tempi       e   nei   budget
+                                                             Architetture Enterprise in Angular 9 & NGRX 9 - online - 2019
+previsti. Sono appassionato del mio                                                                                   2018 - 2019
+                                                             Mastering Angular 2gg - In sede - Roma - 2018
+lavoro,   laborioso       e       orientato     ai           Training “ANGULAR & TYPESCRIPT CORE CONCEPTS (Angular
+risultati. Lavoro bene in team dove so                       Fundamentals)” - online e In sede - Firenze 2gg - 2018
+
+creare un’ottima sinergia per ottenere
+                                                                                                                            2017- 2019
+i risultati migliori. Sono sempre alla
+                                                             LinkMe "Mean Milan
+ricerca di nuove sfide e in costante
+aggiornamento.                                              LOG.ED - AngularJS Intermediate” 8h e “AngularJs Quickstart ‘B’” -
+                                                            Coworking “Login” - Milano - In sede - 2015
+
+
+
+
+                                                             Corso JavaScript One-to-one
+                                                                                                                               2013
+                                                             Istituto “FOR”/Prometheo
+
+
+       Skills
+
+                                                             Diploma di maturità classica
+     Pensiero analitico
+
+     Creatività
+
+     Lavoro in team
+
+     Negoziazione                                    Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi dell’art. 13 d.
+                                                     lgs. 30 giugno 2003 n. 196 - “Codice in materia di protezione dei dati personali” e
+     Pensiero critico                                dell’art. 13 GDPR 679/16 - “Regolamento europeo sulla protezione dei dati
+                                                     personali”.Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi
+     Leadership                                      dell’art. 13 d. lgs. 30 giugno 2003 n. 196 - “Codice in materia di protezione dei dati
+                                                     personali” e dell’art. 13 GDPR 679/16 - “Regolamento europeo sulla protezione dei dati
+                                                     personali”.
+

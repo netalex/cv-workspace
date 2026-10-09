@@ -1,0 +1,97 @@
+Alessandro APRILE
+PERSONAL INFORMATION
+Place of birth Sesto San Giovanni (MI), Date of birth 01 / 07 / 1977
+Address Via volontari del sangue, 182 – 20099 Sesto San Giovanni (MI)
+Telephone +39 - 320 / 06.25.543
+Civil Status single
+E-mail aprile.alessandro@gmail.com
+PROFILE
+IT, software and web developer
+I have been dealing with various aspects of computer science since almost 15 years, led by a strong personal interest.
+I studied in depth the most innovative aspects of software development, especially web/HTML5 and mobile development.
+I have been involved in projects based on in-house and opensource CMS platforms, dealing with both operational testing and project design and report, as well as with technical customizations.
+Thanks to my web design and communicative skills, I can autonomously manage a web project..
+My skills as a software developer allowed me to grasp the conceptual leap from traditional html to HTML5/Ajax/JS as well as the idea of WebApp as a full-fledged software project.
+Just to take some examples, I applied the Cordova framework to tackle the convergence and management of different technologies such as java, javascript, hybrid WebApps, and the local management of external services like Google api.
+I have been alternating continuous training in the field of web design, which I am interested in on an extracurricular basis too, and traditional training, from a multimedia operator course taken in the very first years of modern web to the most recent tailor-made training on javascript and html5. Moreover, whenever possible I take a “responsive” approach – as regards both technologies and human interaction – even in the most traditional working environments (OracleDB support, PL/SQL development, project analysis, testing, Vertical application and CMS maintenance and customization…)
+I further strengthened my skills in the fields of technical, business and creative writing, so as to be able engage in drafting both non-technical and technical documents, also in english and french, in professional direct and written communication, and in training. With this in mind, I also worked in the field of HR recruitment.
+During my professional experience I could face and manage a number of different situations.
+I dealt with the working groups organization and management, with customer relationships management, and with short but strategic and prompt interventions not only in the fields of analysis, development and system management, but also of hw and sw testing, monitoring and problem solving.
+I have always been looking for new opportunities for professional growth and for learning new skills, and hence I have a strong preference for non-repetitive and stimulating tasks, assignments abroad included.
+mobile webapp/hybrid app related notable references
+Angular.Js Basic training c/o Coworking Login, Milano
+Javascript Advanced training c\o Prometheo
+Javascript tailor-made training (one-to-one)
+Android native java dialect (Dalvik) and android development basic study
+many years’ experience in sql query analysis
+MultiMedia Operator IFTS training
+NOTEWORTHY PROFESSIONAL EXPERIENCES
+from 2013 
+Software developer
+Gambling online web portal front end maintenance, integration, refactoring and feature upgrade concerning html5\js code, aimed to optimize web and mobile access.
+c/o Gambling online agency, Milano
+Javascript development on an in-house multiplatform mobile CMS, hybrid-app model based.
+c/o software House – Milano
+Js development in an in-house team on a tomcat based web application for financial portfolio management – Agile methodology, front end developer. c/o Information Provider/rating agency – Milano
+specifics web/js multiplatform Android/iOS development projects.
+c/o IT company – Milano
+Personal customer’s projects in web/js area, Android platform.
+consultancy, north Italy
+from 2005 to 2013 
+Software developer
+web/js Software developer, Android platform.
+c/o IT company – Milano
+from December 2007 to october2012 
+IT Provisioning supervisor
+OLO Provisioning supervisor;
+Network Inventory, customer base consistency and customer activation tracks towards telecom italia (incumbent);
+Vendor on field SLA verification, access management access logical configuration verification.
+network inventory PL/SQL first level technical support
+ c/o Fastweb – Milano
+from 2007 to 2008 
+IT consultant
+Mainly SQL, trade mission c/o clients: EnelGas,
+LocatRent, Sky, ALD Automotive, Lombardia Servizi
+c/o IT consulting company – Milano
+from 2000 
+IT technician
+hardware inventory management (in charge of a work group) - Milano
+on-site sw installation – lombardia, all client branches
+on site hardware test fiber optic wall mount termination boxes – Tokyo
+SKILLS
+Languages
+English: Fluent, written and spoken
+French: Fluent, written and spoken
+Professional Skills
+HTML5/CSS3 Hybrid web app aimed at mobile devices
+Proficient in HTML, Javascript, SQL; Basic knowledge in PHP, Java
+
+SQL tools knowledge, ire. Postgre SQL, Toad, Oracle.
+Development knowledge on Android Developement tools (ADT), cordova/phonegap, jquery, Jquery Mobile, ripple emulator, GenyMotion, oracle vmplayer, Bluestack Player.
+Digital publishing basic knowledge (EPUB editing, ebook publishing workflow) - main operating systems knowledge (Windows, Linux, OS X). office automation software.
+screenplay writing tools(i.e. Scrivener).
+Additional skills
+Trade fair exhibition arrangement expertise.
+Expertise in artistic and cultural event’s management, communication and promotion 
+Promotional material editing
+EDUCATION
+High school leaving qualification in classical studies
+c/o Liceo Scientifico “Parco Nord”, Cinisello Balsamo (MI)
+C\Unix programming course – regional
+c/o Centro di Formazione Professionale Pepe – Milano
+IFTS course n° 22, “Operatore Multimediale” and internship – Milano
+FormaTemp course “DB Oracle in ambiente Linux” (OracleDB on Linux)
+c/o c/o IT consulting company, Cernusco Sul Naviglio (MI)
+Javascript personalized One-to-One training
+c/o FOR Institute - Prometheo Milano Centro
+Angular, Javascript courses – continuing education
+c/o Coworking Login and others, Milano
+INTEREST
+IT, particularly Open Source
+now my personal studies concern the M.E.A.N stack
+Photography, Industrial Design, Art and Architecture
+Narrative, RPG, Cinema, comics and animations
+Motorcycle, skating, Ski
+OTHER
+Interested in abroad sojourn, or even transfer.
+Autorizzo l’utilizzo dei dati personali contenuti nel curriculum ai sensi del D.LGS. 196/2003

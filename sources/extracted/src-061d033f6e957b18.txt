@@ -1,0 +1,164 @@
+Alessandro Aprile
+
+Web Designer, Developer
+
+aprile.alessandro@gmail.com
+
+(+39) - 3200625543
+
+Profilo
+
+Mi occupo a vario titolo di informatica a livello professionale da circa 12 anni, a partire da un forte interesse personale. ho approfondito gli aspetti più attuali e innovativi dello sviluppo software, in particolare lo sviluppo web/HTML5 e mobile. ho partecipato a progetti basati su piattaforme CMS in-house e opensource, occupandomi di volta in volta del testing operativo come della stesura dei documenti di progetto, oltre che delle customizzazioni tecniche. Le mie competenze di web design ma anche comunicative mi mettono perfettamente in grado di gestire un progetto web in autonomia. Le competenze da sviluppatore invece mi hanno permesso di cogliere il salto concettuale tra html tradizionale e HTML5/Ajax/JS e di far mio il concetto di WebApp come di progetto software a tutto tondo. In particolare con il framework Cordova ho affrontato la convergenza e la gestione di tecnologie differenti come java, javascript, la struttura di WebApp e la gestione locale di servizi esterni come le google api, solo per portare qualche esempio. Oltre alla formazione continua in un ambito, quello dell web design, che mi è sempre appartenuto anche al di fuori delle necessità lavorative, e a momenti di formazione più tradizionale (dal corso op. multimediale già nei primi anni del web moderno all’ultima formazione personalizzata avanzata su javascript e HTML5) quando possibile sono solito portare un approccio “responsive e web”, come tecnologie e come approccio umano alla condivisione e operatività, anche in ambiti piu tradizionali in cui mi sono trovato ad operare (supporto OracleDB, sviluppo PL/SQL, analisi di progetto, testing, customizzzazione e manutenzione CMS e applicazioni verticali…) Ho recentemente rafforzato ulteriormente le mie competenze approfondendo scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire con competenza attività come la redazione di documenti e la stesura di documentazione tecnica e non, anche in lingua francese e inglese, la gestione della comunicazione diretta e scritta all'interno dell'ambito lavorativo, la formazione. In quest'ottica mi sono occupato anche di selezione del personale. Nel corso della mia attività ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate. Ho affrontato problematiche come gestione e organizzazione di gruppi di lavoro, il contatto diretto coll'utente, la gestione di interventi brevi ma strategici e puntuali, sia in ambiti di analisi e sviluppo che di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving. Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz'altro attività sul territorio e missioni all'estero.
+
+Tecniche
+
+-   Tecnologie
+
+-   HTML
+
+-   HTML5/CSS3
+
+-   Javascript
+
+-   Java
+
+-   SQL
+
+-   PHP
+
+-   Visual Basic
+
+-   Librerie
+
+-   cordova/phonegap
+
+-   jquery
+
+-   Jasmine.js
+
+-   AngularJS
+
+-   HTML5 Boilerplate e H5BP Mobile
+
+-   JUnit
+
+-   Tool
+
+-   Eclipse
+
+-   Android Developement tools (ADT)
+
+-   Ant
+
+-   ripple emulator
+
+-   androVM
+
+-   oracle vmplayer
+
+-   Bluestack Player
+
+-   Toad
+
+-   Applicativi
+
+-   OracleDB
+
+-   NodeJS
+
+-   Tomcat
+
+-   LAMP
+
+-   androVM
+
+-   Postgre SQL
+
+-   CMS
+
+-   Joomla!
+
+-   WordPress
+
+-   Oracle Application Express
+
+-   Linguistiche
+
+-   Inglese: fluente, scritto e parlato!
+
+-   Francese: a livello scolastico, scritto e parlato
+
+-   Altro
+
+-   competenze di editoria elettronica (EPUB editing e formattazione, conoscenza workflow ebook publishing)
+
+-   Utilizzo dei principali sistemi operativi ( Windows, Linux, OS X)
+
+-   Utilizzo dei principali software per la stesura di sceneggiature in ambito teatrale (es. Scrivener)
+
+-   Esperienza nella realizzazione di allestimenti fieristici
+
+-   Esperienza come editor di sceneggiature teatrali
+
+Esperienze Professionali
+
+Area Consulting & altre
+
+Senior Interface Designer
+
+2011-2013
+
+Sviluppatore software in ambito web/js su piattaforma Android. Realizzazione di applicativi di feed reading customizzati in base alle esigenze dei clienti. Analisi funzionale e progettazione, scelta delle tecnologie, realizzazione del design della struttura dati.
+
+Dettaglio: Analisi e realizzazione di una toolchain per lo sviluppo di App ibride su piattaforma Android, con particolare attenzione per le seguenti teconologie:
+
+-   automatizzazione del deploy con Ant
+-   sviluppo in java su eclipse
+-   unit testing in java e javascript
+-   sviluppo specifico android con Android Developement tools (ADT)
+-   sviluppo javascript e librerie specifiche (jquery)
+-   uso toolchain cordova\phonegap per android
+-   sviluppo misto java\js
+-   sviluppo WebApp HTML5/CSS3
+-   utilizzo Google API
+-   uso emulatori specifici software e web (ripple).
+
+Scopo finale dell’attività era la realizzazione di un feed reader per specifici blog, nella fase iniziale pensato per il blog aiendale.
+
+altre attività in ambito web/sviluppo:
+
+Sviluppatore Software/tecnico informatico
+
+2005-2012
+
+varie attività per medesima azienda e\o presso clienti
+
+-   realizzazione e manutenzione progetti web per clienti diretti basati su CMS joomla!
+-   Supporto tecnico allo start-up del blog aziendale in WordPress
+-   Testing applicativo software verticali web\intranet Banca Intesa durante fusione San Paolo IMI
+-   Redazione documentazione interna su Oracle Application Express
+-   Riesame e manutenzione documentazione sw interno aziendale basato su Tomcat e Java (prodotti venduti anche a clienti come fastweb ed altri)
+-   Attività presso EnelGas - gruppo di sviluppo interno (mi occupavo di sviluppo PL/SQL in un gruppo Java ben avviato sulle metodologie Agile)
+-   Riesame completo del codice per software gestione Casse Auchan
+
+Formazione
+
+Liceo Scientifico "Parco Nord" di Cinisello Balsamo (MI)
+
+Diploma di maturità classica
+
+Centro di Formazione Professionale Pepe - Milano
+
+Corso Regionale di programmazione C in ambiente Unix
+
+Corso IFTS no 22, “Operatore Multimediale” e stage in azienda - Milano
+
+Area Solutions, Cernusco Sul Naviglio (MI)
+
+Corso FormaTemp “DB Oracle in ambiente Linux”
+
+FOR Institute - Prometheo Milano Centro
+
+corso di Javascript personalizzato (20h con docenza personale)
+
+Alessandro Aprile — aprile.alessandro@gmail.com — (+39) - 3200625543

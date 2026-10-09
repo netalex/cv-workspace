@@ -1,0 +1,7 @@
+--- layout: default ---
+
+{{ page.title }}
+
+{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}
+
+{{ content }}

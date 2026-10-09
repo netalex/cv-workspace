@@ -1,0 +1,231 @@
+INFORMAZIONI PERSONALI
+Alessandro Aprile
+Via Domenico Berra 17, 20123 Milano
+ Alessandro.aprile@alkemy.com
+Sesso Maschile | Data di nascita 01/07/1977| Nazionalità Italiana 
+occupazione PER LA QUALE SI CONCORRE
+Profilo Professionale: Programmatore Front End
+competenze e responsabilità
+Pluriennale esperienza nello sviluppo front-end e progettazione software su diverse piattaforme e tecnologie dal 2000, spesso su grandi clienti (privati e PA). 
+Competenze e responsabilità acquisite:
+	Sviluppo e specializzazione in tecnologie front-end, con focus su Angular, React e sviluppo mobile ibrido; 
+	Analisi, progettazione, sviluppo e manutenzione di applicazioni web e mobile, inclusi CMS e WebApp; 
+	Implementazione di metodologie agili, peer programming e condivisione di conoscenze all'interno del team; 
+	Redazione di documentazione tecnica e di progetto, anche in contesti certificati ISO; 
+	Gestione di gruppi di lavoro, formazione del personale e supporto diretto ai clienti; 
+	Adattabilità a diverse tecnologie e ruoli, dalla programmazione al supporto sistemistico e al testing.
+ESPERIENZA PROFESSIONALE
+2024
+Sviluppatore Front End
+Sviluppatore Front End (Angular) - ICCREA (In remoto)
+Consulente informatico in ruolo di programmatore in ambito JAVA e Tech/Team Leader
+Clienti:
+ICCREA
+- Manutenzione e aggiornamento di un'applicazione interna per un istituto bancario che consente il caricamento massivo di file CSV contenenti dati contrattuali per mutui e prestiti
+   - Miglioramento e ottimizzazione del codice, ottenendo un notevole aumento delle prestazioni del front-end
+    - Implementazione di nuove funzionalità entro scadenze estremamente ristrette, mantenendo la coerenza funzionale e di design
+    - Integrazione di Git hooks per una distribuzione continua a prova di errore
+Tecnologie usate Angular
+2023
+Sviluppatore Front End
+Sviluppatore Front End - GFT
+Strumento di dashboard centralizzato per le filiali di una grande compagnia assicurativa
+Clienti:
+GFT
+Strumento di dashboard centralizzato per le filiali di una grande compagnia assicurativa
+Test del Front End, raggiungendo una copertura dell'80% in una base di codice di circa 116.000 righe
+Mentoring degli sviluppatori junior attraverso sessioni di pair programming e supporto costante, riducendo il tempo di inserimento del 50%
+Integrazione dell'editor WYSIWYG di PrimeNG in un componente personalizzato altamente specializzato
+Tecnologie usate Angular, PrimeNG
+2022
+Sviluppatore Front End
+Sviluppatore Front End (Angular) - Engineering (In remoto)
+Sviluppo di una sezione front end del portale CRM per il Ministero della Difesa italiano - Marina militare
+Clienti:
+Ministero della Difesa  - Marina militare
+Integrazione della libreria JavaScript puro "Ace.js editor" come componente Angular personalizzato
+onboard degli sviluppatori junior attraverso il pair programming, supportandone l'inserimento e l'autonomia
+Impostazione del framework agile, garantendo efficienza durante tutto il progetto
+Perfezionamento dei requisiti in un team interfunzionale di 10 persone tra sviluppatori Front End/Back End e specialisti di database
+Gestione di una base di codice di almeno 8000 righe per il rilascio iniziale
+Tecnologie usate: Angular
+2022
+Sviluppatore Front End in ambto A&M (assistenza e manutenzione) 
+GFT (In remoto)
+Manutenzione di applicativo assicurativo in deploy a partire dalle issue utenti
+Clienti:
+GFT
+Tecnologie usate: Angular
+2022
+Sviluppatore Front End (React) - NextIP Milano (In sede)
+Front End React per un CRM all-in-one per call center
+Clienti per cui ho lavorato:
+NEXTIP
+Front End React per un CRM all-in-one per call center
+Trasformazione di parte del Front End da una vecchia applicazione web PHP monolitica a React, aumentando la velocità del 20%
+Tecnologie usate: React
+2020-2022
+Sviluppatore Front End (React) - Abstract (In remoto)
+Suite di app mobile e web per il processo decisionale aziendale
+Clienti per cui ho lavorato:
+Abstract
+Redazione di oltre 50 pagine di documentazione tecnica, migliorando l'inserimento
+Manutenzione degli sviluppi post-rilascio come membro più anziano del team
+Scrittura del codice per tutte le app, ciascuna accresciuta fino a 10.000 righe in più
+Tecnologie utilizzate: react, react native
+2020
+Sviluppatore Front End (Angular) - Engineering/A-Ice (In sede/In remoto)
+Software di gestione della manutenzione per aeromobili
+Clienti per cui ho lavorato:
+Engineering/A-Ice
+Ristrutturazione di questa applicazione legacy come SPA Angular, aumentando la velocità del 20%
+Tecnologie utilizzate: Angular
+2020
+Sviluppatore Front End (Angular) - EmmeLibri Milano (In sede)
+Front End ERP per la distribuzione di libri B2B
+Clienti per cui ho lavorato:
+EmmeLibri
+Manutenzione del codice e implementazione delle richieste di modifica, riducendo i bug del 50%
+Formazione dei colleghi su Angular, riducendo i tempi di inattività per onboarding del 25%
+Tecnologie utilizzate: Angular
+2018-2020
+Sviluppatore Front End (Angular) - Intesi Milano (In sede)
+Sviluppo di un'interfaccia di gestione degli accessi bancari PSD2
+Clienti per cui ho lavorato:
+Deutsche Bank
+Progettazione del flusso dell'applicazione in base alle specifiche architetturali
+Produzione della documentazione di analisi funzionale per una partenza chiara
+Istruzione e formazione di 4 sviluppatori junior, rispettando tutte le scadenze fino alla consegna definitiva
+2019
+Sviluppatore Front End (Angular) - Spindox Milano (In sede)
+Interfaccia web per il sistema di vendita al dettaglio integrato di dispositivi medici audioprotesici
+Clienti per cui ho lavorato:
+Spindox
+Formazione di uno sviluppatore junior per un passaggio di consegne rapido e indolore da 0 esperienza Angular in soli 2 mesi
+Revisione dei documenti DEI suggerendo implementazioni e miglioramenti del Front End
+Tecnologie utilizzate: Angular
+2018
+Sviluppatore Front End (Angular) - Vittoria Assicurazioni Milano (In sede)
+Manutenzione software assicurativo
+Clienti per cui ho lavorato:
+Vittoria Assicurazioni
+manutenzione software interno
+Tecnologie utilizzate: Angular
+2018
+Sviluppatore Front End (Angular) - Lutech Milano (In sede)
+Sviluppo di un’app web IVD LIS per laboratori clinici
+Clienti per cui ho lavorato:
+Lutech
+Sviluppo dell’interfaccia in Angular e PrimeNG
+Produzione della documentazione del progetto, SDS e TP, secondo ISO 13485:2012
+Tecnologie utilizzate: Angular
+2017
+Sviluppatore Front End (AngularJS) - ABB PowerOne Arezzo Toscana (In sede)
+Interfaccia Front End per un’app di controllo intelligente per solar farm
+Clienti per cui ho lavorato:
+ABB PowerOne
+Costruzione e test di funzioni e componenti specifici
+2015-2017
+Sviluppatore Front End (AngularJS) - (In remoto)
+Sviluppo di un sistema integrato di gestione documentale per il settore trasporto pubblico
+Clienti per cui ho lavorato:
+Trenitalia
+Progettazione e implementazione autonoma della struttura frontend per la prima demo
+Coordinamento di esperti HTML e grafici
+Tecnologie utilizzate: AngularJS
+2017
+Sviluppatore Front End (vanilla JavaScript) - Roma (In sede)
+Sviluppo di un framework di intelligenza artificiale P.A./ chat-bot per POC - (In sede) - 2017
+Clienti per cui ho lavorato:
+3Wlab – Polizia di stato
+Ricerca e selezione di componenti open-source per creare un’interfaccia Chatbots in NodeJs. L’obiettivo era una webchat POC con funzionalità di intelligenza artificiale come pagina FAQ
+Tecnologie utilizzate: Javascript, nodeJs, botpress
+2016
+Sviluppatore HTML - Avanade - Milano (In sede)
+Creazione di landing page con standard moderni per nuovo brand telco
+Clienti per cui ho lavorato:
+wind
+Creazione di landing page con standard moderni
+Tecnologie utilizzate: HTML, CSS
+2015
+Sviluppatore Front End (AngularJS) - Winga - Milano (In sede)
+microfrontend angular su portale velocity per casinò online
+Clienti per cui ho lavorato:
+winga
+Tecnologie utilizzate: AngularJS, Velocity
+2014-2015
+Sviluppatore Front End (vanilla JavaScript) - DS Group Milano (In sede)
+App proprietaria di shop online con struttura be\fe replicata su mobile - combenia
+2014
+Sviluppatore Front End (html/JavaScript) - CERVED Milano (In sede)
+App web per la gestione del portafoglio finanziario e del rating
+Clienti per cui ho lavorato:
+Cerved
+Semplificazione dello sviluppo del Front End, sfruttando le best practice come unico sviluppatore Front End
+Apprendimento di Agile
+Tecnologie utilizzate: HTML, Javascript, agile
+2013-2014
+Sviluppatore di app ibride (PhoneGap) - FORGE Replay Milano (In sede)
+Sviluppo di un’app ibrida di redeem (riscatto) della gamification
+Clienti per cui ho lavorato:
+FORGE Replay
+Formazione del team su PhoneGap/Cordova
+Gestione delle API social e dell’integrazione di servizi di monetizzazione esterni
+Configurazione dell’ambiente di sviluppo multipiattaforma
+Tecnologie utilizzate: HTML, Javascript, PhoneGap, Cordova
+2013-2014
+Sviluppatore di app ibride (Vanilla JavaScript) - FREELANCE (In remoto)
+App per la gestione di materiale biologico per Android, piattaforma ibrida
+Clienti per cui ho lavorato:
+freelance
+Ideazione di un’app PhoneGap per checklist con scansione di codici a barre come sviluppatore unico. Utilizzo offline in uno stoccaggio di materiale biologico deperibile isolato dalla rete
+Tecnologie utilizzate: HTML, Javascript, Cordova
+2008-2013
+Sviluppatore PL/SQL e JavaScript - AreaTC Milano/ (In remoto/In sede)
+Supporto NetDB telCo
+Clienti per cui ho lavorato:
+varie TelCO
+Analisi in tempo reale PL/SQL e risoluzione dei problemi del net-db nel settore delle telecomunicazioni
+Ideazione di query SQL pure su sistemi Oracle in produzione per risolvere problemi sul net-db
+2000-2010
+Supporto IT - (In remoto/In sede/all’estero)
+Test hardware borchie fibra ottica – supporto telefonico clienti finali pc hp\compaq - censimento pc telco
+ISTRUZIONE E FORMAZIONE
+1999
+Luglio 1999
+Diploma di maturità classica presso Liceo Classic Scientifico Casiraghi Bresso MI
+COMPETENZE PERSONALI
+Lingua madre
+Italiano
+Altre lingue
+COMPRENSIONE
+PARLATO
+PRODUZIONE SCRITTA
+Ascolto
+Lettura
+Interazione
+Produzione orale
+inglese
+B1
+B1
+B1
+B1
+B1
+francese
+B1
+B1
+B1
+B1
+B1
+Livelli: A1 e A2: Utente base - B1 e B2: Utente autonomo - C1 e C2: Utente avanzato
+Quadro Comune Europeo di Riferimento delle Lingue 
+Competenze comunicative
+Sono un comunicatore efficace, in grado di coordinare team multidisciplinari, formare colleghi junior, redigere documentazione tecnica dettagliata e interagire con clienti in italiano, inglese e francese fluentemente.
+Competenze organizzative e gestionali
+Ho consolidata esperienza nella gestione di progetti front-end complessi, all’interno team interfunzionali, implementando metodologie agili e garantendo consegne puntuali in ambienti ad alta pressione e con scadenze rigorose.
+Competenze  professionali
+Sono uno sviluppatore front-end senior con oltre 20 anni di esperienza, specializzato in Angular e React, con una solida conoscenza di tecnologie web moderne, sviluppo mobile ibrido e metodologie agili, capace di gestire l'intero ciclo di vita dello sviluppo software, dalla progettazione al deployment.
+Autorizzo il trattamento dei miei dati personali presenti nel cv ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 “Codice in materia di protezione dei dati personali” e del GDPR (Regolamento UE 2016/679).
+					Pagina 2 / 4 
+					Pagina 5 / 4 
+	Curriculum vitae                                                                                                A. Aprile

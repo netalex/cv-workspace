@@ -1,0 +1,14 @@
+{
+  "name": "gulptest",
+  "version": "0.0.1",
+  "description": "test di una pagina web prodotta con gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^4.0.1"
+  }
+}

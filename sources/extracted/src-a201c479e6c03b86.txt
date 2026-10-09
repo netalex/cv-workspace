@@ -1,0 +1,193 @@
+Alessandro Aprile
+Front End developer
+aprile.alessandro@gmail.com +393200625543 https://github.com/netalex Linkedin - based in Italy
+Skills
+Front-end Development: Angular / AngularJs - React - React-native - Redux - Typescript - webRtc - “vanilla” js - Javascript - Ionic - PhoneGap / Cordova - jasmine - jquery - html / css - jhipster - RxJs - Sass - Scss - Bootstrap - Angular Material - PrimeNG - Quill editor - WYSIWYG editor - Template engine client side (mustache, dot.js) - Agile methodology - Jasmine - Front-end Unit Testing - MSW Mock Service Worker library - JSON
+Back-end Development (indirect knowledge): SQL - Oracle - Node - PHP - Laravel - Professional tomcat-based CMS (LifeRay) and server-side template engine (Apache Velocity, FreeMarker) - M.E.A.N Stack - MongoDB - Express.js - Agile methodology
+Work Experience
+2023 - Branch dashboard for centralized registry tool for a large insurance company - Front-end Developer - ThinkOpen/GFT (Remote)
+Writing FE Unit tests (minimum 80% coverage)
+Planning and executing new integration into the project
+Peer programming with junior FE figures to support their onboarding.
+Integration of PrimeNG’s wysiwyg editor based on Quill editor to achieve a highly specialized custom component
+Angular material, Jasmine, MSW, PrimeNG, Quill Editor.
+2022 - Angular FE development for a CRM portal section for Ministry of Defense - Front-end Developer - ThinkOpen/Engineering (Remote)
+Integration and customization of “ace.js editor” library within the Angular app’s structure as a component, used in the relevant section and replicated for the twin team’s section
+Peer programming with junior FE figures
+Agile development: Contributed to setting up the agile framework at the team’s start-up.
+Constant contribution to requirement analysis in collaboration with BE and DB dev.
+Agile development, Angular v13.
+2022 - A&M and new features development in a high-profile Loan management system for a banking group - Front-end Developer - ThinkOpen/GFT (Remote)
+A&M incident management,
+bugfixing and new features
+React.
+2022 - React frontend for an all-in-one CRM for call centers - Front-end Developer - ThinkOpen/NextIP (Presence)
+rewriting the frontend in React from a a legacy monolithic PHP webapp version
+React, PHP, asterisk.
+2020/2022 - Mobile and web app’s suite for corporate decision-making management - Front-end Developer - ThinkOpen/Abstract (Remote)
+development
+Writing technical documentation
+Fixes and post-release development maintenance
+Monitoring execution activities in production.
+React / React-native, Typescript, RxJs, Java, MongoDB.
+2020 - Aircraft maintenance management software - Front-end Developer - ThinkOpen/Engineering/A-Ice (Presence)
+Design and rewrite in SPA technology (angular) of a legacy aircraft management application for airports. Modular structure, starting from the de-icing module. Project suspended in the initial phase due to COVID.
+Angular, Custom angular components for tabular visualization.
+2020 - B2B Books distribution ERP Front End - Front-end Developer - ThinkOpen/EmmeLibri (Presence)
+Code maintenance and implementation of change requests;
+Colleague training on Angular and the project.
+Angular.
+2018/2020 - PSD2 Bank access management interface - Front-end Developer - ThinkOpen/Intesi (Presence)
+complete flow developed from scratch
+Initial project documentation (functional analysis) creating a foundation for detailed development
+Angular development
+Support for junior front-end developers
+Angular 6, OAUTH2, JWT, Reactive programming (RxJS), java Spring Boot, KeyCloack/Openshift, jhipster.
+2019 - Web interface for medical devices integrated retail sales system - Front-end Developer - ThinkOpen/Spindox (Presence)
+deployed worldwide, for the world industry-leading company
+Coaching and training on Angular to a junior member of the FE team
+Building the application from scratch
+Reviewing DEI documents
+Angular, BE in c#.
+2018 - IVD LIS web app for clinical laboratories - Front-end Developer - Lutech (Presence)
+Project documents writing: SDS and TP according to ISO 13485:2012
+Angular development
+Testing the developed code based on the TP
+Angular 6, C# backend.
+2018 - - Front-end Developer - ThinkOpen/Vittoria Assicurazioni (Presence)
+Insurance branch registry.
+Angular 6.
+2017 - Frontend interface for a smart controller app for solar farms - Front-end Developer - ABB PowerOne (Presence)
+Building and testing specific functions and components for the release, at Arezzo headquarters and remotely.
+Defining and testing remote work methods
+AngularJS ^1.5 version, grunt.
+2015/2017 - Integrated document management system for the public sector - Front-end Developer - 3Wlab (remote)
+Single Frontend Developer
+Selecting and testing necessary Angular components
+Personally designing the structure of the first functional demo
+Coordinating HTML experts and graphic designers
+Managing contact with the client’s technical referee In the subsequent production phase, I was responsible for:
+Aligning the development team
+Testing server-side APIs and suggesting implementations
+AngularJs, js/jquery, scss, gulp/grunt, html5 canvas.
+2015/2017 - Integrated document management system for the public sector - Twin project - 3Wlab (remote)
+Personally designing the frontend structure
+Coordinating HTML experts and graphic designers
+stack same as twin project
+2016 HTML development in the TLC sector - Front end Developer - Avanade (Presence)
+Creating portal page structures for a TLC brand for a new brand’s homepage and landing page, later integrated into the client’s SAP Hybris portal.
+Organizing a remote team (client based in Rome, activities in Milan)
+Collaboration with the custom CMS development team
+Make assets from provided PSDs
+Writing HTML/CSS from scratch
+Integrating the CMS frontend
+Gradual introduction of command-line integration tools (scss) into the team workflow
+html5/css, js/jquery, scss/Sass, javascript/jquery
+2015 Online gambling portal: frontend maintenance and refactoring - Winga (Presence)
+Maintenance, integration, refactoring, and expansion of the online gambling portal’s html5/js frontend for web and mobile access, based on Apache Velocity for a custom Tomcat/LifeRay platform. The portal, deployed and active, required:
+Maintenance support
+Legacy code refactoring in anticipation of a portal rewrite
+Preparation for the mobile app version of the games supported by the portal.
+Refactoring of frontend javascript functionalities in a modular form, following the portal’s rewrite
+Managing daily update deploy tickets for portal content
+Assisting in setting up the game app templates planned for development
+javascript, jquery, Apache Velocity template engine, sass via compass, SVN
+2014/2015 - Cross-platform mobile CMS on hybrid app paradigm - Front-end Developer - DS Group (Presence)
+JS development over a proprietary cross-platform mobile CMS environment project. in-house customizable framework for client-specific content delivery. It involved duplicating a Java backend locally on mobile devices, both structurally and in terms of data, in a hybrid multi-platform approach based on a native framework.
+Responsible for customizing the HTML5 interface of the hybrid framework (for a specific beta client)
+Involved in refactoring the Java backend
+Vanilla JS.
+2013/2014 - Redeem app - Forge Replay (Presence)
+Hybrid app development within a gamification context, accessing social networks REST APIs Training the team on Phonegap/Cordova technology
+Setting up the multi-platform development environment for Phonegap projects
+Researching and verifying required Cordova plugins
+Feasibility analysis of HTML5 video embedding on Android 2.x/4.x and iOS
+Structural architecture development for data management and application workflow
+Local data management mechanics development
+Server data flow management development
+REST interface verification to the server and technical contacts with server-side developers
+Technical contacts in English with a third-party data analysis tool provider (MobileAppTracking)
+Technical contacts with an external consultant for the Facebook platform interface and code integration
+Phonegap, HTML5, dotJs, jQuery, REST, JavaScript
+2014 web application for financial portfolio and rating management - Cerved
+Creating an integrated application for financial and statistical rating reports about the Italian business market for private clients. JavaScript development in an internal team - Agile mode.
+responsible for Front-end HTML5/js development
+Agile methodology
+HTML5/CSS3, JavaScript, jQuery, Twitter Bootstrap (custom template)
+BE in with MongoDB - Java - SQL
+2013/2014 Biological material handling app in medical context - Mobile Developer - freelance
+Contractual development activity in web/JS on an Android platform.
+This independent project involved developing a Phonegap app for a specific Android device (Galaxy SIII mini) used by transporters to check off loading lists via barcode scanning. Offline mode for working in non cabled refrigerated cells for perishable biological material storage, without the need of network access.
+Preliminary feasibility analysis
+Application workflow development
+Remote collaboration with server developers to refine transmitted JSON
+Complete app development, including login management to offline mode
+Local persistence management via Local Storage
+App testing and debugging remotely and in person with server developers
+High-level HTML5 and jQuery Mobile interface design based on client-provided brand guidelines
+Handover of brand guidelines to HTML developer and final interface code integration
+Technologies: Phonegap for hardware access, Specific third-party “Barcode Scanner” plugin for handling the device’s integrated camera as a barcode reader, JavaScript, and a tech stack composed of Underscore.js, jQuery, jQuery Mobile and HTML5
+2010/2013 Junior PL/SQL Developer
+Real-time analysis and troubleshooting of net-db issues in the TelCo domain. Worked across various TelCo locations.
+pure SQL query on Oracle systems
+2000/2010 Various Activities in IT support
+I.E: - 2001/2007 technical help desk consumer level - 2000 technical test optical fiber hw devices in Tokyo
+Projects
+2017 Node app for resource scheduling (WordPress plugin POC) - Front end Developer - 3Wlab (Presence)
+Activities:
+Internal Calendar-Scheduler using NodeJs
+Developed a NodeJs app based on the jQuery fullcalendar plugin for visualizing the company’s human resource load. An internal project intended to be integrated into the intranet site as a WordPress plugin.
+Create the web app around the jQuery fullcalendar plugin
+Develop mock APIs on Node Js (json-server module)
+Configure it as a stand-alone Node Js application for POC
+Produce a strictly front-end version integrating with APIs to be developed on WordPress following the mock I created.
+Technologies:
+Vanilla JavaScript
+jQuery
+fullcalendar & fullcalendar-scheduler plugin
+NodeJs
+json-server module
+2017 A.I. P.A. Framework - Internal chatbot for POC - 3Wlab
+I searched for and selected open-source components to create a Chatbots interface NodeJs framework as company internal project. Goal was to present a Proof Of Concept webchat with artificial intelligence to a public administration entity as a replacement for their FAQ.
+Activities:
+Selecting and testing required software components
+Building technical expertise in NodeJs and ChatBot UI
+Producing the POC for presentation to the client
+Evaluated Technologies:
+HTML5/CSS
+NodeJs
+botpress
+Python
+chatScript
+2013 BlogFeed Reader - Junior Front end Developer - AreaTC
+Internal company project.
+Due to the then imminent google feed service’s closure, an app for feed reading (initially) for the Android platform was developed. It was linked to a specific blog but was customizable for various clients and expandable to multiple feed sources, as an advertising medium for the client.
+Project intended as a benefit to clients who purchase the technical blog/web App service from the producing company.
+Activities:
+Functional analysis
+Design
+Technology selection (libraries and languages)
+Data structure design (webSql)
+Application GUI design (jQueryMobile)
+Eclipse/ADT environment setup for development and testing
+Application development and testing
+Technologies:
+HTML5/CSS3
+JavaScript
+jQuery
+jQueryMobile
+webSql
+PhoneGap/Cordova v2.x
+Google services for feed syndication (Google Feed API, deprecated)
+Education
+Diploma in Classical Studies - Liceo Classico Leopardi (1990 - 1997)
+Languages
+Italian: Native
+English: Proficient
+French: Proficient
+2023 - Branch dashboard for centralized registry tool for a large insurance company - Front-end Developer
+Writing FE Unit tests (minimum 80% coverage)
+Planning and executing new integration into the project
+Peer programming with junior FE figures to support their onboarding.
+Integration of PrimeNG’s wysiwyg editor based on Quill editor to achieve a highly specialized custom component
+Angular material, Jasmine, MSW, PrimeNG, Quill Editor.

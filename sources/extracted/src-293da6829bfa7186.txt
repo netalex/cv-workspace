@@ -1,0 +1,52 @@
+DATI ANAGRAFICI
+Luogo e data di nascita:	Sesto San Giovanni – 1 Luglio 1977
+FORMAZIONE
+2015 ad oggi	Corsi Angular, Javascript, NODEjs - Formazione permanente
+2014	Corso di Javascript personalizzato con docenza personale 
+2008	Corso FormaTemp “DB Oracle in ambiente Linux” 
+2005	Corso IFTS n° 22, “Operatore Multimediale” e stage in azienda
+2003	Corso Regionale di programmazione C in ambiente Unix 
+1998	Diploma di maturità classica 
+LINGUE
+Inglese: fluente, scritto e parlato
+Francese: a livello scolastico, scritto e parlato
+CONOSCENZE TECNICHE
+Sistemi Operativi:
+Ottima conoscenza dell'utilizzo di Windows
+Discreta conoscenza dell’amministrazione di Unix (Linux)
+Linguaggi di programmazione:
+Buona conoscenza di Java (JSE, JEE, EJB, JSP, Servlet, JDBC, Spring, Hibernate, JAX-RPC, JAX-WS, JAXB, Axis, Swing)
+Discreta conoscenza delle tecnologie legate ai Web Services (SOAP, WSDL)
+Buona conoscenza di XML, HTML, CSS, Javascript, Ajax, JQuery
+Buona conoscenza di PL/SQL, comprese le caratteristiche Object Relational
+Discreta conoscenza di .Net (C#)
+Discreta conoscenza di C
+Buona conoscenza di Freemarker
+Ambienti di Sviluppo e Applicativi:
+Ottima conoscenza Eclipse
+Buona conoscenza di Maven
+Buona conoscenza di SVN, JUnit, XAMPP (Apache)
+Buona conoscenza di NetBeans, Visual Paradigm for UML, SQLDeveloper
+Discreta conoscenza di Oracle Document Capture
+
+Content Management Systems:
+Discreta conoscenza di Oracle Universal Content Management (UCM)
+Discreta conoscenza di Alfresco
+Database:
+Buona conoscenza dell'utilizzo di Oracle
+Discreta conoscenza dell'utilizzo di MySQL
+Buona conoscenza dell'utilizzo di SQLServer
+Buona conoscenza dell'utilizzo di PostgreSQL
+Application Server:
+Buona conoscenza di Tomcat
+Discreta conoscenza di Weblogic
+ESPERIENZE PROFESSIONALI
+Apr 2012 – ad oggi	Per Sensei presso System Integrator
+Ruolo di Progettista Software Java
+	Progettazione e Sviluppo di una web application destinata alla gestione delle cartelle cliniche dei pazienti in ambito ospedaliero, con realizzazione di web-services per facilitare l’utilizzo di alcune funzionalità basilari attraverso varie piattaforme mobili (JEE, JSP, Servlet, JSTL, JAXB, JAX-WS, Spring, HTML, XML, CSS, Javascript, Ajax, Jquery, DAO, Tomcat, Eclipse, Maven, SVN, JUnit, Hibernate, Oracle, SQLDeveloper)
+	Realizzazione di un prodotto per la visualizzazione real-time dei risultati delle elezioni Amministrative 2012 e della parte statica per la gestione dell'archivio delle elezioni precedenti presso un Media Broadcaster (JEE, Oracle, Eclipse, HTML, CSS, JQuery, Javascript, SVN, Freemarker, Alfresco)
+Mag 2011 – Mar 2012	Presso Sensei
+Ruolo di Progettista Software Java
+	Manutenzione evolutiva di vari prodotti in uso presso un Media Broadcaster (JEE, JDBC, Servlet, JSP, HTML, Javascript, Maven, SVN, WebLogic, Eclipse, Oracle)
+	Per una Società del Settore Energy, Progettazione e Sviluppo di un’applicazione batch per la dematerializzazione delle fatture. Modifiche al front-end custom utilizzato per la gestione delle fatture dematerializzate per soddisfare nuove richieste. (JEE, Servlet, JDBC, JSP, Maven, SVN, XML, Oracle DBMS, PL/SQL, Oracle Universal Content Management, Oracle Document Capture,  SQLDeveloper, IdocScript, librerie Content Integration Suite (CIS))
+		

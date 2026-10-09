@@ -1,0 +1,364 @@
+Alessandro APRILE
+
+                          Sviluppatore web Front End e Hybrid app
+
+                                                            DATI ANAGRAFICI
+ Nato a Sesto San Giovanni (MI), il
+01/07/1977                                                  Telefono +39 320 062 5543
+                                                            E-mail aprile.alessandro@gmail.com
+ Residente in
+       Via volontari del sangue, 182
+       20099 Sesto San Giovanni (MI)
+ Opero su Milano, Roma, Parigi.
+
+                                                                           PROFILO
+                                                         Sviluppatore web Front End
+ sviluppo in javascript                                                                                              quest’ottica mi sono occupato anche di selezione del
+         • app mobile ibride in tecnologia cordova                Argomento                ATTUALE                   personale.
+         • front end dinamico                                                                                          Nel corso della mia attività ho sperimentato e gestito
+                                                           Sto utilizzando il framework Angular con particolare
+                  • Single page Application (SPA) in attenzione alla versione 6.                                     situazioni lavorative e tecniche varie e diversificate. Ho
+                              • html5 e javascript                                                                   affrontato problematiche come gestione e
+                                                                                                                     organizzazione di gruppi di lavoro, il contatto diretto
+                              • framework avanzati                altro                                              coll’utente, la gestione di interventi brevi ma strategici e
+                                 (AngularJS, Angular)                                                                puntuali, sia in ambiti di analisi e sviluppo che di
+         • app nodeJs (fullstack)                          Sono attivo la scena devOps e meetUp del mondo            gestione sistemistica, di test hw e sw, di monitoraggio
+         • chatbot UI e frontend                         javascript, in cui mi interesso tra l’altro di intelligenza e problem solving.
+         • definizione di API REST                       Artificiale e chatbot.
+                                                                                                                       Sono sempre stato alla ricerca di occasioni di crescita e
+                                                           Ho rafforzato ulteriormente le mie competenze             di nuove competenze, prediligendo attività non ripetitive
+ utilizzando quando possibile devOps quali git, jira e e
+                                                         approfondendo scrittura creativa, tecnica e aziendale. e stimolanti dal punto di vista tecnico e personale,
+metodologie di lavoro agile per interagire con il team.
+                                                         Oltre alle capacità tecniche quindi sono in grado di        incluse senz’altro attività sul territorio e missioni
+                                                         gestire redazione di documenti e stesura di                 all’estero: Mi muovo infatti tra Milano e Roma con
+                                                         documentazione tecnica e non, anche in lingua               appoggi a Parigi e ho lavorato presso clienti anche in
+                                                         francese e inglese, gestione della comunicazione            Giappone (mitsui).
+                                                         diretta e scritta in ambito lavorativo, formazione. In
+
+
+                                                                  COMPETENZE
+                                                                       Toad, Oracle.
+       Linguistiche                                                •    Esperienza nello sviluppo tramite Android
+                                                                                                                             Altre
+        •    Inglese: fluente, scritto e parlato                       Developement tools (ADT),                              •     Sviluppo in metodologia Agile
+        •    Francese: a livello scolastico, scritto e                 cordova/phonegap, ionic, jquery, Jquery                •     Esperienza nella realizzazione di
+            parlato                                                    Mobile.                                                    allestimenti fieristici.
+                                                                   •    conoscenza basica di CMS L.A.M.P. based               •     Esperienza nella gestione, comunicazione e
+                                                                       (wordpress, joomla!, Drupal)
+       Professionali                                               •    esperienza lato frontend di CMS
+                                                                                                                                  promozione di eventi commerciali, culturali ed
+                                                                                                                                  artistici
+        •  Realizzazione di WebApp di tipo ibrido in                   professionali tomcat-based (LifeRay) e                 •     Editing di testi promozionali
+          HTML5/CSS3 per il mondo Mobile.                              template engine server side (Apache                    •     competenze di editoria elettronica (EPUB
+        • Framework javascript avanzati (angular,                      Velocity, FreeMarker)
+                                                                                                                                  editing e formattazione, conoscenza workflow
+          angularJs, ionic, NODE)                                  •    dimestichezza con lo stack M.E.A.N
+                                                                                                                                  ebook publishing).
+        • Conoscenza approfondita di HTML,                             (MongoDB, Express.js, AngularJs, Node.js)              •     Utilizzo dei principali software per la stesura
+          Javascript, SQL;                                         •    uso di template engine clientside
+                                                                                                                                  di sceneggiature in ambito
+        • conoscenza di tool SQL, come Postgre SQL,                    (mustache, dot.js)                                         teatrale/cinematografico (es. Scrivener)
+                                                 PERCORSO DI STUDI
+•  Diploma di maturità classica                                                              Presso FOR Institute - Centro Prometheo, Milano
+           presso il Liceo Scientifico “Parco Nord” di Cinisello Balsamo (MI)    •   Corsi Angular, Javascript, NODEjs - Formazione permanente
+           nel 1998.                                                                         Presso Coworking Login e Altri, Milano
+• Corso Regionale di programmazione C in ambiente Unix
+           presso Centro di Formazione Professionale Pepe - Milano
+                                                                                 •   Corso Intensivo in aula "Angular & Typescript core concepts" - Docente:
+ • Corso IFTS n° 22, “Operatore Multimediale” e stage in azienda - Milano
+                                                                                     Fabio Biondi
+•       Corso FormaTemp “DB Oracle in ambiente Linux”
+                Presso azienda informatica, Cernusco Sul Naviglio (MI)
+                                                                                 •   Corso Intensivo in aula "Mastering Angular" - Docente: Fabio Biondi
+•       Corso di Javascript personalizzato con docenza personale
+
+
+
+                            INTERESSI                                                     ALTRE INFORMAZIONI
+    •    Informatica, con particolare interesse per l’Open Source
+                                                                                     Disponibile a trasferte nazionali ed estere, anche di lungo periodo. Aree
+               • attualmente interessato ad approfondire il M.E.A.N stack e le
+                                                                                     privilegiate: Roma, Francia.
+                   interfacce basate su intelligenza artificiale (chatbot UI)
+    •    Fotografia, Industrial Design, Arte e Architettura
+    •    Narrativa, Giochi di Ruolo, Cinema, Fumetto e Animazione
+    •    Motociclismo, Pattinaggio, Sci
+                          ESPERIENZE PROFESSIONALI SALIENTI
+                              • dal 2013 ad oggi
+
+       Sviluppatore software
+ Sviluppatore Js\Ts per varie aziende e come free lance in ritenuta su progetti principalmente frontend e ibridi.
+
+IVD LIS per laboratori clinici
+ web app di IVD LIS per laboratori clinici
+Descrizione progetto                                      Attività                                                   Tecnologie e linguaggi utilizzati
+  re-implementazione in angular 6 su backend c# del         Mi sono occupato di:                                           •   Angular 6 (stack completo) e typescript
+frontend di una soluzione middleware IVD (In vitro              •    Estensione documenti
+diagnostics) per LIS (Laboratory information system) di
+dispositivi pre-analitici, analitici e post-analitici di             ◦ SDS (Software Design Specification)
+laboratori clinici, conforme ISO 13485:2012.                         ◦ TP (Test procedure)
+L'applicazione era originariamente sviluppata in delphi, il
+progetto ne è quindi una riscrittura completa.                       secondo il Sistema di Gestione Qualità per
+                                                                     Dispositivi Medici ISO 13485:2012
+                                                                •    Sviluppo moduli frontend in angular e
+                                                                     Typescript
+                                                                •    Testing del codice sviluppato a partire dalle
+                                                                     TP
+                                                                •    Verifica chiamate REST
+
+
+Frontend app per Solar farm controller
+ interfaccia di controller intelligente per solar farm
+Descrizione progetto                                      Attività                                                   Tecnologie e linguaggi utilizzati
+  per una multinazionale, presso la sede di Arezzo e in Mi sono occupato di:                                               •   AngularJS (ver ^1.5)
+remoto, all’interno di un progetto IoT per la produzione di   •  realizzazione e testing di componenti e di                •   grunt
+un sistema di gestione grid di solar farm, sono stato
+                                                                 funzioni specifiche della release
+inserito nel team di sviluppo del cliente dell’interfaccia di
+controllo in angularJs.                                       •  definizione e testing delle modalità di lavoro
+                                                                 remoto
+
+
+Node app di time scheduling risorse aziendali (POC per plugin Wordpess)
+ Calendario-Scheduler ad uso interno in nodeJs
+Descrizione progetto                                      Attività                                                   Tecnologie e linguaggi utilizzati
+  Realizzazione di una app nodeJs basata sul plugin         mi sono occupato di:                                           •  vanilla javascript
+jquery fullcalendar per la visualizzazione del carico           •    realizzare la webapp attorno al plugin jquery         •  jquery
+risorse umane aziendali - progetto interno aziendale da                                                                     • plugin fullcalendar & fullcalendar-scheduler
+                                                                     fullcalendar
+integrare nel sito intranet trasformandolo in un plugin per
+                                                                     realizzare il mock delle API su nodeJs                • nodeJs
+wordpress                                                       •
+                                                                     (modulo json-sever)                                    • modulo json-server
+                                                                •    configurarla come applicativo standalone
+                                                                     nodeJs per il POC
+                                                                •    produrre una versione strettamente frontend
+                                                                     che si integri con le API da produrre su
+                                                                     wordpress sul modello del mock da me
+                                                                     realizzato.
+
+
+POC ChatBot UI per P.A.
+ Framework di A.I. Chatbot interno aziendale per POC
+Descrizione progetto                                      Attività                                                   Tecnologie e linguaggi utilizzati
+  Mi sono occupato della ricerca e selezione dei          mi sono occupato di:                                 ho valutato l’impiego di varie tecnologie Node, tra cui
+componenti opensource per la realizzazione di un                 • selezionare e testare i componenti software       • html5/css
+framework per interfacce dialogiche intelligenti                                                                     • nodeJs
+                                                                    necessari
+(ChatBot) interno in ambito nodeJs. L’obiettivo è la
+                                                                 • creare la competenza tecnica in ambito            • botpress
+produzione ddi un POC di una webchat dotata di
+intelligenza artificiale da proporre come Proof Of                  nodeJs e sul tema delle ChatBot UI               • Python
+Concept ad un ente di P.A. in sostituzione delle loro            • produrre la POC per la presentazione al           • chatScript
+FAQ.                                                                cliente                                          • …
+Front end development in ambito P.A. (angular)
+ Riscrittura interfaccia di un prodotto documentale integrato come web app front end based in sostituzione parziale della preesistente interfaccia Backend based in java,
+per clienti finali nella P.A. e nelle partecipate statali
+Descrizione progetto                                        Attività                                                          • oltre alle normali attività specifiche
+  A partire da un documento di progetto e relative API       mi sono occupato di:                                               assegnate attraverso regolari riunioni scrum
+lato server in sviluppo parallelo, il progetto consiste in          • selezionare e testare i componenti angular                all’interno dello sprint, di cui consisteva lo
+una single page application in forma di dashboard                     necessari                                                 sviluppo in quanto tale.
+attiva dotata di tutte le funzioni C.R.U.D. per operare sui         • realizzare personalmente la struttura di          Tecnologie e linguaggi utilizzati
+protocolli documentali, la gestione di funzionalità
+                                                                      massima della prima demo funzionante                    • html5/css
+attraverso l’implementazione del drag&drop all’interno
+                                                                    • coordinare gli esperti di html e i grafici              • js/jquery
+dell’applicazione, la gestione di firma elettronica (PEC),
+upload e download dei documenti sul server e                        • tenere i contatti con il lato tecnico del cliente       • scss
+naturalmente sicurezza e permessi di accesso su più          Nella successiva fase di produzione mi sono occupato             • Angular 1
+utenze. Il progetto è realizzato come applicazione          di:                                                               • gulp/grunt
+Angular 1. Il progetto è stato realizzato in modalità               • Allineare il gruppo di sviluppo                         • html5 canvas
+remota su un gruppo distribuito utilizzando tecniche di                                                                       • specifiche tecnologie implementate da
+                                                                    • testare le API lato server e seguirne lo
+devOp (git, grunt, gulp) e strumenti agile (jira)
+                                                                      sviluppo suggerendo implementazioni                       plugin terzi (drag&drop, canvas…)
+
+Front end development in ambito P.A. - progetto gemello (angular)
+ Prodotto affine al precedente, con soluzioni miste backend e front end gestite in house
+Descrizione progetto                                       Attività                                                     Tecnologie e linguaggi utilizzati
+  Si è fornito al cliente una soluzione completa di SPA    mi sono occupato di:                                               •    html5/css
+front end inglobata in un backend dedicato autoprodotto        •    selezionare e testare i componenti angular                •    js/jquery
+(non di mia personale responsabilità) in grado di                   necessari                                                 •    bootstrap 3.5
+interfacciarsi alle strutture documentali del cliente in
+                                                               •    realizzare personalmente la struttura del front           •    scss
+modo trasparente per il front end. Il backend era
+sviluppato in asp.net e le richieste del cliente                    end                                                       •    Angular 1
+prevedevano il passaggio alla versione 4, il frontend è in     •    coordinare gli esperti di html e i grafici                •    gulp/grunt
+Angular 1.                                                                                                                    •    html5 canvas
+                                                               •    tenere i contatti con il lato tecnico del cliente
+                                                                                                                              •    specifiche tecnologie implementate da
+                                                                                                                                  plugin terzi (drag&drop, canvas…)
+
+Front end development in ambito TLC
+ Realizzazione struttura pagine portali di brand c/o TLC sede
+Descrizione progetto                                       Attività                                                      Tecnologie e linguaggi utilizzati
+  A partire da brief e psd del team UX cliente, in      mi sono occupato di:                                                  •    html5/css
+autonomia, - realizzazione dell’html statico homepage e     •    organizzazione gruppo di lavoro con elementi                 •    js/jquery
+landing page portale new brand - inserimento successivo                                                                            scss
+                                                                 in remoto (sede cliente Roma, attività su                    •
+su portale SAP Hybris
+                                                                 Milano)                                                      •    javascript/jquery
+                                                            •    relazioni con il gruppo sviluppo custom cms
+                                                                •     preparazione materiali da psd forniti
+                                                                •     stesura html/css da zero
+                                                                •     integrazione front end cms
+                                                                •     introduzione progressiva strumenti di
+                                                                      integrazione command line (scss) nel flusso
+                                                                      di lavoro
+
+
+Front end development in ambito automotive
+ Realizzazione struttura pagine portali di brand per gruppo automotive c/o system integrator
+Descrizione progetto                                       Attività                                                       librerie esterne
+ A partire da brief e psd di agenzia, su template basato    mi sono occupato di:                                  Tecnologie e linguaggi utilizzati
+su bower, gulp e sass, con framework css inuit,                   • stesura html snippet                                • toolchain bower-gulp-sass
+realizzazione dell’html statico da presentare per                 • verifica workflow gulp                              • css framework inuit
+approvazione e inserimento successivo su portale
+                                                                  • pulizia codice css                                  • javascript/jquery
+adobe QS5
+                                                                  • stesura funzionalità JS/jQuery e integrazione
+Online gambling portal: manutenzione e refactoring front-end
+ Manutenzione, integrazione, refactoring e ampliamento front end portale di online gambling per la parte html5/js in funzione di accesso web e mobile. Presso
+concessionaria gambling online, Milano
+Descrizione progetto                                           Attività                                                  Tecnologie e linguaggi utilizzati
+  All’interno di un portale web di gambling su piattaforma mi sono occupato di:                                                  •  javascript
+tomcat/LifeRay customizzata con front-end basato su            •    refactoring di funzionalità javascript del front-            •  jquery
+Apache Velocity, deployato e in attività, era necessario                                                                         •  Apache Velocity template engine
+                                                                    end in forma modulare, come falsariga della
+seguire                                                                                                                             sass via compass CSS Authoring
+                                                                    riscrittura del portale                                      •
+  supporto manutentivo                                                                                                             Framework
+                                                               •    gestione ticket di deploy di aggiornamento
+  refactoring del codice legacy in previsione di una                                                                             • SVN
+                                                                    quotidiano dei contenuti del portale
+riscrittura del portale
+                                                               •    supporto alla predisposizione del template
+  predisposizione della versione app mobile dei giochi
+                                                                    delle app di gioco previste in sviluppo
+supportati dal portale.
+
+Cms mobile multipiattaforma su paradigma dell’app ibrida
+ Sviluppo Js su piattaforma proprietaria di cms mobile multipiattaforma basata sul paradigma dell’app ibrida Presso software House (azienda di prodotto) – Milano
+Descrizione progetto                                           Attività                                                  Tecnologie e linguaggi utilizzati
+  Realizzazione framework in-house verticalizzabile per Ero:                                                                     •    vanilla js puro
+la veicolizzazione di contenuti custom clienti, strutturato  • responsabile customizzazioni interfaccia
+con un backend java duplicato in locale sui device
+                                                               html5 della parte ibrida del framework (in
+mobile, sia per quanto riguarda la struttura che per i dati,
+                                                               funzione di uno specifico cliente beta)
+in modalità ibrida multipiattaforma a partire da framework
+                                                             • coinvolto nello studio del refactoring del
+dalvik/objectiveC proprietario.
+                                                               backend java
+
+Web application tomcat based di gestione portafogli finanziari e rating
+ Sviluppo Js in team interno per web application tomcat based di gestione portafogli finanziari - modalità Agile, front end developer Presso Information Provider/rating
+agency - Milano
+Descrizione progetto                                                  •    front end developer                                   •    JavaScript
+ Realizzazione applicazione integrata di gestione                     •    responsabile front-end html5/js                       •    jQuery
+reportistica di rating finanziario e statistico sul mercato                                                                      •    Twitter Bootstrap (template custom)
+                                                               Tecnologie e linguaggi utilizzati:
+aziendale italiano per clienti privati                                                                                           •    mongoDB
+                                                                      •    modalità Agile
+Attività                                                                                                                         •    java
+                                                                      •    HTML5/CSS3
+ operavo in qualità di:                                                                                                          •    SQL
+
+App di redeem
+ Attività di sviluppo ibrido in ambito game con accesso alle REST Api dei social network, inserito in un team. presso game studio - Milano
+Descrizione progetto                                                  •      Analisi di fattibilità della gestione HTML5 del Tecnologie e linguaggi utilizzati:
+  Realizzazione di un’app per Android e iOS che                           video embedding su Android 2.x/4.x e su iOS              • Phonegap ( portabilità multipiattaforma e
+permetta di ricevere da un server dedicato un elenco di               •      Sviluppo architettura strutturale motore di             ’accesso ’hardware)
+task su social network (like e attività sociali similari per              gestione dati e workflow applicativo                     • HTML5 puro (front end)
+conto di clienti terzi) assegnati all’utente, registrarne             •      Sviluppo della gestione del flusso dati JSON          • JScroll per gestire lo scrolling di pagina dove
+l’esecuzione ed assegnare il corrispettivo in punti,                      ricevuto dal server                                        non implementabile in HTML5
+permettendo quindi di “spenderli” in cambio di beni o                 •      Sviluppo della meccanica di gestione dei              • doT.js (template engine)
+convertirli in denaro su uno store integrato nell’app                     dati in locale                                           • jQuery
+(funzione redeem).                                                    •      Sviluppo della gestione delle chiamate verso          • tecnologia REST per la trasmissione di dati
+Attività                                                                  il server                                                  JSON
+ Sono personalmente stato incaricato di:                              •      Verifica dell’interfaccia REST verso il server        • Javascript puro come linguaggio di sviluppo
+      • Formazione dei componenti del gruppo di                           e contatti con gli sviluppatori lato server                principale
+         lavoro sulla tecnologia adoperata (Phonegap/                 •      Contatti tecnici in lingua inglese con fornitore      • Ambienti di sviluppo:
+         Cordova)                                                         terzo del tool di analisi dati                            • Brackets, Sublime Text, Eclipse with
+      • Set-up dell’ambiente di sviluppo                                  (MobileAppTracking)                                           Android Developement Kit in ambiente PC
+         multipiattaforma per progetti Phonegap                       •      Contatti tecnici con sviluppatore esterno per          • Xcode in ambiente MAC.
+      • Ricerca e verifica dei plugin Cordova                             l’interfaccia verso piattaforma Facebook ed               • SVN per la condivisione del codice.
+         necessari                                                        integrazione codice prodotto
+                                                                                                                                    • device fisici per il testing
+App di movimentazione materiale biologico in ambito medicale
+ Sviluppo su commessa in ambito web/js su piattaforma Android. Consulenza in ritenuta d’acconto con clientela localizzata sul nord italia
+Descrizione progetto                                                   •     Collaborazione a distanza con gli                •   plugin specifico di terze parti
+  Il progetto, gestito in completa autonomia, prevedeva la                 sviluppatori del server per affinare il JSON         “BarcodeScanner” per la gestione della
+realizzazione di un’app phonegap per uno specifico                         trasmesso                                            telecamera integrata del device come lettore
+device Android in commercio (Galaxy SIIImini). Tale                    •     realizzazione completa dell’app, dalla             di codici a barre.
+device sarà fornito in dotazione ai trasportatori. Il                      gestione della login fino alla gestione della      • Javascript come linguaggio di sviluppo
+trasportatore sfrutterà l’app per effettuare l’operazione di               modalità offline.                                    principale
+spunta della bolla di carico attraverso lettura barcode.               •     Gestione della persistenza in locale via         • framework di librerie composto da
+L’operazione in mobilità, a partire da una lista di casse                  Local storage                                       • Underscore.js come template engine
+ottenuta dal server. L’app permette di navigare                              Testing applicativo e debugging a distanza e
+                                                                       •                                                       • jQueryMobile e HTML5
+attraverso una serie di richieste REST con un livello                      in presenza con gli sviluppatori del server         • jQuery
+progressivo di dettaglio all’interno delle attività di ritiro          •     Progettazione e sviluppo interfaccia di          • tecnologia REST per la trasmissione di dati
+fissate sul territorio nazionale, fino ad ottenere la lista di
+                                                                           massima in HTML5 e jQueryMobile,                     JSON
+casse da spuntare in bolla. L’app è in grado di gestire
+                                                                           seguendo direttive di immagine coordinata          • tecnologia Local Storage di Phonegap
+una modalità “offline” in previsione della situazione in
+                                                                           fornite dal cliente                                • Ambienti di sviluppo:
+cui il ritiro avvenga da celle frigorifere adatte allo
+                                                                       •     Contatto con sviluppatore HTML, passaggio
+stoccaggio di materiale biologico deperibile, in cui non è                                                                     • Brackets, Eclipse with Android
+possibile accedere alla rete.                                              di consegne immagine
+                                                                                                                                   Developement Kit in ambiente PC
+                                                                       •     coordinata e integrazione codice interfaccia
+Attività                                                                                                                      • SVN per la condivisione del codice.
+                                                                           definitivo
+ Sono personalmente stato incaricato di:                                                                                      • Cisco vpn network per accesso remoto
+                                                                 Tecnologie e linguaggi utilizzati                            • Oracle sql developer come Shell di accesso
+      • Analisi preliminare di fattibilità
+                                                                       •    Phonegap per l’accesso all’hardware                 al DB del server
+      • sviluppo workflow applicativo
+
+
+                              • dal 2005 al 2013
+
+        Sviluppatore Software
+           Sviluppatore software in ambito web/js su piattaforma Android. Presso AreaTc azienda informatica - Milano
+
+Blog Feed Reader
+Descrizione progetto                                         (librerie e linguaggi) - design della struttura dati (webSql)      per lo sviluppo di Rich Internet Applications
+  Progetto aziendale interno del cliente. in previsione      - progettazione interfaccia grafica applicativo                    (HTML5, jQueryMobile, tecniche Ajax)
+dell’allora imminente chiusura del servizio “google feed”, (jQueryMobile) - Configurazione ambiente Eclipse/ADT               • Framework per Hybrid app
+si è pensato di realizzare un’app di feed reading            per il workflow di sviluppo e testing - Sviluppo e testing        • PhoneGap/Cordova v2.x
+inizialmente - per piattaforma Android - legata ad uno applicazione                                                            • Architetture REST
+specifico blog ma strutturata per essere - ampiamente - Tecnologie e linguaggi utilizzati:                                     • Applicazioni sociali e mash-up tramite
+customizzabile in funzione del cliente - ampliabile a più            • tecnologie web lato client                                 servizi web
+fonti feed - in grado di essere veicolo pubblicitario per il
+                                                                      • HTML5/CSS3                                               • in particolare, accesso ai servizi google
+cliente - Il progetto è stato pensato come “benefit” da
+                                                                      • JavaScript                                                    per la feed syndacation (Google Feed
+fornire al - cliente che acquista il servizio di
+                                                                      • jQuery                                                        API(ad oggi
+webApp/tecnical blog presso - l’azienda produttrice.
+                                                                      • jQueryMobile                                                  deprecate)-https://developers.google.c
+Attività:                                                                                                                             om/feed/)
+                                                                      • webSql
+  Sono personalmente stato incaricato di: - Analisi                                                                              • Android (v4.1, API 16), Android SDK
+funzionale - progettazione - scelta delle tecnologie                  • Framework di programmazione lato client
+
+
+                              • Dal 2000 al 2005
+
+           Tecnico informatico generico
+           Attività di vario genere, tra cui server baby sitting, censimento hardware, hardware test all’estero, supporto tecnico di secondo livello onsite e offsite, consumer e
+           pro.
+
+
+
+
+                                    Alessandro Aprile – aprile.alessandro@gmail.com – +39 320 062 5543
+                                     Autorizzo l'utilizzo dei dati personali contenuti nel curriculum ai sensi del D.LGS. 196/2003
+             • ESPERIENZE PROFESSIONALI SALIENTI
+•   dal 2013 ad oggi
+

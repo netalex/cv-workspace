@@ -1,0 +1,51 @@
+ALESSANDRO APRILE
+SVILUPPATORE FRONT END
+
+      aprile.alessandro@gmail.com | +393200625543
+      github.com/netalex
+
+      linkedin.com/in/alessandro-aprile-0225106
+Residente in Italia (fuso orario CET), operante da remoto, su Milano e Roma
+
+COMPETENZE
+
+
+
+
+ Angular/AngularJs - React - React-native - Redux/RxJs - TypeScript/JavaScriptwebRtc - Ionic/PhoneGap/Cordova -
+ jasmine - jquery - html5/css3 - Sass/ScssBootstrap - Angular Material - PrimeNG - JSON - webSql - SQL - Oracle -
+ NodeMongoDB - Express.js - OAUTH2 - JWT - KeyCloack/Openshift - jhipsterambiente .NET - botpress - chatScrip
+ - Metodologia Agile
+
+
+ESPERIENZE PROFESSIONALI
+      Volo Consulting/Orangee S.r.l - 2024
+      Sviluppatore Front End (Angular) - ALKEMY
+      THINKOPEN Milano - 2018-2024
+      Vari ruoli di Sviluppatore Front End
+      3Wlab Milano/Roma - 2015-2017
+      Sviluppatore Front End/HTML
+      Winga Milano - 2015
+      Sviluppatore Front End (AngularJS)
+      DS Group Milano - 2014-2015
+      Sviluppatore Front End (vanilla JavaScript)
+      CERVED Milano - 2014
+      Sviluppatore Front End (html/JavaScript)
+      FORGE Replay Milano - 2013-2014
+      Sviluppatore di app ibride (PhoneGap)
+      FREELANCE - 2013-2014
+      Sviluppatore di app ibride (Vanilla JavaScript)
+      AreaTC Milano - 2008-2013
+      Sviluppatore PL/SQL e JavaScript
+      Varie Aziende - Milano - Tokyo - 2000-2010
+      Supporto IT - HW test
+ISTRUZIONE E APPRENDIMENTO CONTINUO
+
+       • Apprendimento continuo sull'IA nella programmazione
+       • Corsi con Fabio Biondi (Google Developer Expert, Microsoft MVP)
+       • Vari corsi e workshop su Angular, JavaScript e tecnologie correlate
+
+LINGUE
+
+                Italiano: Madrelingua                   Inglese: Fluente               Francese: Fluente
+

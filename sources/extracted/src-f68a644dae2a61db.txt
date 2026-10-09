@@ -1,0 +1,52 @@
+Alessandro Aprile - Front End developer
+aprile.alessandro@gmail.com +393200625543 github Linkedin - based in Italy
+Skills
+Front-end Development: Angular/AngularJs - React - React-native - Redux - Typescript - webRtc - Javascript - Ionic - PhoneGap/Cordova - jasmine - jquery - html5/css3 - RxJs - Sass/Scss - Bootstrap - Angular Material - PrimeNG - mustache, dot.js - MSW Mock Service Worker lib - JSON - webSql
+Back-end Development (indirect knowledge): SQL - Oracle - Node - PHP - Laravel – LifeRay CMS - Apache Velocity, FreeMarker - MongoDB - Express.js - OAUTH2 - JWT - java Spring Boot - KeyCloack/Openshift - jhipster - .NET - Velocity - botpress - chatScript
+various competences: - Agile Methodology: - Integration/Customization of libraries/tools within projects. - Testing/Quality Assurance: Code testing, API interface verification and testing. - Maintenance/Bugfixing: Incident management, bug fixing - Documentation/Analysis: Technical documentation writing, contributing to requirement analysis. - Project Management/Coordination:  of HTML experts, graphic designers, client technical contacts - Peer Programming/Mentorship  with junior colleagues for onboarding  - Training/Coaching: to colleagues on specific technologies - Remote Work: setting up remote development and testing environments - Multi-platform Development: Web and non-native mobile app development. Experience in Chatbot interface dev.
+Work Experience
+2023 - Branch dashboard for centralized registry tool for a large insurance company - Front-end Developer - ThinkOpen/GFT (Remote)
+2022 - Angular FE development for a CRM portal section for Ministry of Defense - Front-end Developer - ThinkOpen/Engineering (Remote)
+2022 - Assistance & Maintenance incident management to high-profile Loan management system for a banking group - Front-end Developer - ThinkOpen/GFT (Remote)
+2022 - React frontend for an all-in-one CRM for call centers - React Front-end Developer - ThinkOpen/NextIP (Presence)
+rewriting the frontend in React from a legacy monolithic PHP webapp version
+2020/2022 - Mobile and web app’s suite for corporate decision-making management - Front-end Developer - ThinkOpen/Abstract (Remote)
+2020 - Aircraft maintenance management software - Angular Front-end Developer - ThinkOpen/Engineering/A-Ice (Presence)
+Rewrite in angular SPA form of a legacy aircraft management application for airports, starting from the de-icing module.
+2020 - B2B Books distribution ERP Front End - Front-end Developer - ThinkOpen/EmmeLibri (Presence)
+2018/2020 - PSD2 Bank access management interface - Front-end Developer - ThinkOpen/Intesi (Presence)
+2019 - Web interface for medical devices integrated retail sales system - Front-end Developer - ThinkOpen/Spindox (Presence)
+deployed worldwide, for the world industry-leading company, application built from scratch
+2018 - IVD LIS web app for clinical laboratories - Front-end Developer - Lutech (Presence)
+2018 - Insurance branch registry - Angular Front-end Developer - ThinkOpen/Vittoria Assicurazioni (Presence)
+2017 - Frontend interface for a smart controller app for solar farms - Front-end Developer - ABB PowerOne (Presence/Remote)
+2015/2017 - Integrated document management system for the public sector - Front-end Developer and Twin project - 3Wlab (remote)
+Single Frontend Developer, Personally designing the structure of the first functional demo
+2016 HTML development in the TLC sector - Front end Developer - Avanade (Presence)
+Creating portal page structures for a TLC brand for a new brand’s homepage and landing page.
+2015 Online gambling portal: frontend maintenance and refactoring - Winga (Presence)
+Maintenance, integration, refactoring, and expansion of the online gambling portal’s html5/js frontend for web and mobile access
+2014/2015 - Cross-platform mobile CMS on hybrid app paradigm - Front-end Developer - DS Group (Presence)
+Proprietary cross-platform mobile CMS environment, customizable framework for client-specific content delivery. 
+2014 web application for financial portfolio and rating management - Cerved
+sole responsible for Front-end HTML5/js development in an agile team
+2013/2014 - Redeem app - Forge Replay (Presence)
+Hybrid app development within a gamification context, accessing social networks REST APIs
+2013/2014 Biological material handling app in medical context - JS/Mobile Developer - freelance (remote)
+Barcode scanning checklist Phonegap app for Android. Offline mode to operate in network-isolated perishable biological material storage.
+Feasibility analysis, ux/ui, fe architecture design, development, testing and deployment, Application workflow dev in complete autonomy.
+2008/2013 Junior PL/SQL Developer - AreaTC (Presence)
+Real-time analysis and troubleshooting of net-db issues in the TelCo domain across various TelCo.
+2000/2010 Various Activities in IT support
+I.E: 2001/2007 technical help desk consumer level - 2000 technical test optical fiber hw devices in Tokyo
+Projects
+2017 Node app for resource scheduling (WordPress plugin POC) - Front end Developer - 3Wlab (Presence)
+Internal Calendar-Scheduler using NodeJs based on the jQuery fullcalendar plugin for visualizing the company’s human resource load.
+2017 A.I. P.A. Framework - Internal chatbot for POC - 3Wlab
+Research and selected open-source components to create a Chatbots interface NodeJs framework. Goal was a POC webchat with AI features as a FAQ page replacement.
+2013 BlogFeed Reader - Junior Front end Developer - AreaTC
+Feed reading js mobile app, easily customizable and expandable. Developed in complete autonomy
+Education
+Diploma in Classical Studies - Liceo Classico Leopardi (1990 - 1997)
+Languages
+Italian: Native - English: Proficient - French: Proficient

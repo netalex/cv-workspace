@@ -1,0 +1,166 @@
+Alessandro Aprile
+Nato a Sesto San Giovanni (MI)
+il 01/07/1977
+Residente in Via Volontari del Sangue 182 
+20099 Sesto San Giovanni, Milano, Italy
+Telefono 3200625543
+E-mail aprile.alessandro@gmail.com
+
+Dettaglio di alcuni progetti realizzati
+App di redeem
+Descrizione progetto
+App per Android e iOS che permette di ricevere da un server dedicato un elenco di task su social network (like e attività sociali similari per conto di clienti terzi) assegnati all'utente, registrarne l'esecuzione ed assegnare il corrispettivo in punti, permettendo quindi di "spenderli" in cambio di beni o convertirli in denaro su uno store integrato nell'app (funzione redeem).
+Attività:
+Sono personalmente stato incaricato di:
+Formazione dei componenti del gruppo di lavoro sulla tecnologia adoperata (PhoneGap/Cordova)
+Set-up dell'ambiente di sviluppo multipiattaforma per progetti PhoneGap
+Ricerca e verifica dei plug-in Cordova necessari
+Analisi di fattibilità della gestione HTML5 del video embedding su Android 2.x/4.x e su iOS
+Sviluppo architettura strutturale motore di gestione dati e workflow applicativo
+Sviluppo della gestione del flusso dati JSON ricevuto dal server.
+Sviluppo della meccanica di gestione dei dati in locale
+Sviluppo della gestione delle chiamate verso il server
+Verifica dell'interfaccia REST verso il server e contatti con gli sviluppatori lato server
+Contatti tecnici in lingua inglese con fornitore terzo del tool di analisi dati (MobileAppTracking)
+Contatti tecnici con sviluppatore esterno per l'interfaccia verso piattaforma Facebook ed integrazione codice prodotto
+Tecnologie e linguaggi utilizzati:
+PhoneGap per la gestione della portabilità multipiattaforma e per l'accesso all'hardware
+HTML5 puro per la gestione dell'interfaccia grafica
+JScroll per gestire lo scrolling di pagina dove non implementabile in HTML5
+doT.js come template engine
+JQuery per gestione di AJAX e DOM manipulation
+tecnologia REST per la trasmissione di dati JSON
+Javascript puro come linguaggio di sviluppo principale
+Ambienti di sviluppo:
+Brackets, Sublime Text, Eclipse with Android Developement Kit in ambiente PC
+Xcode in ambiente MAC.
+SVN per la condivisione del codice.
+device fisici per il testing
+App di movimentazione materiale biologico in ambito medicale
+Descrizione progetto
+Realizzazione in completa autonomia di un'app PhoneGap per uno specifico device Android in commercio (Galaxy SIIImini). Tale device, fornito in dotazione ai trasportatori, sfrutterà l'app per effettuare la spunta della bolla di carico via barcode, presso il centro di raccolta, a partire da una lista di casse ottenuta dal server aziendale. L'app permette di navigare attraverso una serie di richieste REST con un livello progressivo di dettaglio all'interno delle attività di ritiro sul territorio nazionale, fino ad ottenere la lista di casse in bolla. L'app è in grado di gestire una modalità "offline" prevedendo che il ritiro possa avvenire all'interno di celle frigorifere per stoccaggio di materiale biologico deperibile, in cui non è possibile accedere alla rete.
+Attività:
+Sono personalmente stato incaricato di:
+Analisi preliminare di fattibilità
+sviluppo workflow applicativo
+Collaborazione a distanza con gli sviluppatori del server per affinare il JSON trasmesso
+realizzazione completa dell'app, dalla gestione della login fino alla gestione della modalità offline.
+Gestione della persistenza in locale via Localstorage
+Testing applicativo e debugging a distanza e in presenza con gli sviluppatori del server.
+Progettazione e sviluppo interfaccia di massima in HTML5 e JQueryMobile, seguendo direttive di immagine coordinata fornite dal cliente
+Contatto con sviluppatore HTML, passaggio di consegne immagine coordinata e integrazione codice interfaccia definitivo
+Tecnologie e linguaggi utilizzati:
+PhoneGap per l'accesso all'hardware
+plug-in di terze parti "BarcodeScanner" per la gestione della telecamera integrata del device come barcode reader.
+Javascript come linguaggio di sviluppo principale
+framework di librerie composto da
+Underscore.js come template engine
+JQueryMobile e HTML5 per l'interfaccia grafica
+JQuery per gestione di AJAX e DOM manipulation
+tecnologia REST per la trasmissione di dati JSON
+tecnologia Localstorage di PhoneGap
+Ambienti di sviluppo:
+Brackets, Eclipse with Android Developement Kit in ambiente PC
+SVN per la condivisione del codice.
+cisco vpn network per accesso remoto
+Oracle sql developer come shell di accesso al DB del server
+Blog Feed Reader
+Descrizione progetto
+Progetto interno del cliente. Per l'allora imminente chiusura del servizio "google feed", si realizza un'app inizialmente
+per piattaforma Android
+legata ad uno specifico blog
+ma strutturata per essere ampiamente
+customizzabile in funzione del cliente
+ampliabile a più fonti feed RSS
+in grado di essere veicolo pubblicitario per il cliente
+Il progetto è stato pensato come "benefit" da fornire al cliente che acquista il servizio di WebApp/technical blog presso l'azienda produttrice.
+Attività:
+Sono personalmente stato incaricato di:
+Analisi funzionale
+progettazione
+scelta delle tecnologie (librerie e linguaggi)
+design della struttura dati (webSql)
+progettazione interfaccia grafica applicativo (JQueryMobile)
+Configurazione ambiente Eclipse/ADT per il workflow di sviluppo e testing
+Sviluppo e testing applicazione
+Tecnologie e linguaggi utilizzati:
+tecnologie web lato client
+HTML5/CSS3
+JavaScript
+JQuery
+JQueryMobile
+webSql
+Framework di programmazione lato client per lo sviluppo di Rich Internet Application (HTML5, JQueryMobile, tecniche Ajax)
+Framework per Hybrid app
+PhoneGap/Cordova v2.x
+Architetture REST
+Applicazioni sociali e mash-up tramite servizi web
+in particolare, accesso ai servizi google per la feed syndacation (Google Feed API - https://developers.google.com/feed/)
+Android (v4.1, API 16), Android SDK
+testing toolchain:
+chromium
+ripple emulator
+AndroVm (emulatore Android ottimizzato x86)
+device fisico
+Altri riferimenti notevoli relativi allo sviluppo di mobile WebApp/Hybrid app
+Corso avanzato Javascript 
+corso di Javascript personalizzato (con docenza personale) Gestito da Prometheo
+studio del dialetto java nativo di Android (Dalvik) e della programmazione nativa Android
+esperienza pluriennale nell'analisi di query sql
+Corso IFTS di Operatore Multimediale
+
+Esperienze professionali salienti
+dal 2013
+Sviluppatore software
+Sviluppo in ambito web/js multipiattaforma Android/iOS per progetti puntuali. 
+Presso azienda informatica - Milano
+Sviluppo su commessa in ambito web/js su piattaforma Android. ConsulJQueryn ritenutaPhoneGaptoJQueryliJQuery localizzata sul nord italia
+dal 2005 al 2013
+Sviluppatore Software
+Sviluppatore software in ambito web/js su piattaforma Android. 
+Presso azienda informatica - Milano
+dal dicembre 2007 all’ottobre 2012
+Supervisore del Provisioning tecnico
+In missione presso Fastweb – Milano
+Supervisione delle attività di Provisioning tecnico in OLO; monitoraggio del sistema di Network Inventory, della consistenza della Customer Base, dei tracciati verso Telecom Italia per le attivazioni in centrale; verifica del rispetto degli SLA contrattuali da parte dei Vendor on field, verifica delle configurazioni logiche sugli apparati di accesso. 
+Supporto tecnico PL/SQL di primo livello sull'applicativo di network inventory.
+dal 2007 al 2008
+Consulente informatico
+Ambito prevalentemente SQL, in missione presso la sede dei clienti: EnelGas, LocatRent, Sky, ALD Automotive, Lombardia Servizi 
+Presso azienda informatica - Milano
+Competenze
+Linguistiche
+Inglese: fluente, scritto e parlato
+Francese: a livello scolastico, scritto e parlato
+Professionali
+Realizzazione di WebApp in HTML5/CSS3 per il mondo Mobile.
+Conoscenza approfondita di HTML, Javascript, PHP, SQL, Java, Visual Basic; Postgre SQL, Toad, Oracle.
+Esperienza nello sviluppo tramite Android Developement tools (ADT),(jquery),cordova/phonegap, jquery, Jquery Mobile, ripple emulator, androVM, oracle vmplayer, Bluestack Player.
+competenze di editoria elettronica (EPUB editing e formattazione, conoscenza workflow ebook publishing) Utilizzo dei principali sistemi operativi ( Windows, Linux, OS X ). Conoscenza approfondita del pacchetto Office ( Excel, Power Point, Word, Access, Visio ).
+Altre
+Esperienza nella realizzazione di allestimenti fieristici
+Competenze nell'organizzazione di eventi
+
+Percorso Scolastico
+Diploma di maturità classica
+presso il Liceo Scientifico "Parco Nord" di Cinisello Balsamo (MI) nel 1998.
+Corso Regionale di programmazione C in ambiente Unix
+presso Centro di Formazione Professionale Pepe - Milano
+Corso IFTS n° 22, “Operatore Multimediale” e stage in azienda
+presso enti vari - Milano
+Corso FormaTemp “DB Oracle in ambiente Linux”
+Presso azienda informatica, Cernusco Sul Naviglio (MI)
+corso di Javascript personalizzato con docenza personale
+Presso FOR Institute - Prometheo Milano Centro
+
+PROFILO
+Tecnico informatico, Sviluppatore software e web
+Mi occupo professionalmente di informatica, con un forte interesse personale, da circa 14 anni. ho approfondito gli aspetti più attuali e innovativi dello sviluppo software, in particolare lo sviluppo web/HTML5 e mobile. ho partecipato a progetti basati su piattaforme CMS in-house e opensource, occupandomi spesso anche di testing operativo, stesura dei documenti di progetto, customizzazioni tecniche. Le mie competenze di web design e comunicative mi permettono di gestire un progetto web in autonomia. Come sviluppatore invece ho colto il salto concettuale tra html tradizionale e HTML5/Ajax/JS e fatto mio il concetto di WebApp come progetto software a tutto tondo. In particolare con il framework Cordova\PhoneGap ho affrontato ad esempio la convergenza di java e javascript, la struttura di WebApp e la gestione locale di servizi esterni. 
+Curo la mia autoformazione continua e mi dedico sistematicamente a momenti di formazione più tradizionale.
+Ho approfondito scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire con competenza attività come la redazione di documentazione tecnica e non, anche in lingua francese e inglese, la gestione della comunicazione diretta e scritta all'interno dell'ambito lavorativo, la formazione. In quest'ottica mi sono occupato anche di selezione del personale.
+Nel corso della mia attività ho sperimentato e gestito situazioni varie e diversificate. Ho affrontato problematiche come gestione e organizzazione di gruppi di lavoro, il contatto diretto coll'utente, la gestione di interventi brevi ma strategici e puntuali, sia in ambiti di analisi e sviluppo che di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving.
+Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz'altro attività sul territorio e missioni all'estero.
+Hobby
+Informatica, con particolare interesse per il mondo dell’Open Source; Fotografia, Industrial Design, Arte e Architettura; Narrativa, Giochi di Ruolo, Cinema, Fumetto e Animazione; Motociclismo, Pattinaggio, Sci;
+Altre informazioni
+Disponibile a trasferte all’estero, anche di lungo periodo.

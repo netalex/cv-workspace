@@ -1,0 +1,4430 @@
+schema_version: 1
+id_basis: sha256 bytes; identical files share ID; edited bytes receive new ID
+files: 472
+unique_contents: 362
+records:
+- id: src-0054f2a39d6f5184
+  sha256: 0054f2a39d6f51849ec28b3e7aaa48c56e997d0d517038d80613bc35857ab6fa
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/gulpfile.js
+  size_bytes: 3863
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-01ba4719c80b6fe9
+  sha256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/js/main.js
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/javascript/main.js
+  size_bytes: 1
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-01d6ad208f5a1b92
+  sha256: 01d6ad208f5a1b92883280bc3e682302c88d92839d2cc480427a4d759410ccda
+  paths:
+  - sources/raw/hd_locale/vari/cv-alessandro-aprile-italiano-aggiornato-1.docx
+  size_bytes: 15175
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 10012
+  text_sha256: f5696b717c8a856210fda8eef39b0ede668fc636b92c88a01d3dc11857cb9f25
+  flags: []
+  extracted_path: sources/extracted/src-01d6ad208f5a1b92.txt
+- id: src-0221ca33afda3959
+  sha256: 0221ca33afda3959e81ac377e5aa591667a78ef3c314e1f29fbe53948c12e98a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/robots.txt
+  size_bytes: 78
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 78
+  text_sha256: 0221ca33afda3959e81ac377e5aa591667a78ef3c314e1f29fbe53948c12e98a
+  flags: []
+  extracted_path: sources/extracted/src-0221ca33afda3959.txt
+- id: src-024abb930e6669f2
+  sha256: 024abb930e6669f215ddee19f58077571f1cabb7aee1274bf96b226c296b73d3
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/list.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/list.less
+  size_bytes: 377
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-048f53e6ca01ac58
+  sha256: 048f53e6ca01ac583b48784cd2f6f7d248e0534849955b144e75f017f73188a3
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/.vscode/settings.json
+  size_bytes: 38
+  category: document_candidate
+  status: needs_manual_review
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+- id: src-04f0bbdcdcede861
+  sha256: 04f0bbdcdcede861fe266d8ad43252bd9302b45e6a89dc8330968e16f46c027c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/jekyll-cv-crafter.gemspec
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/jekyll-cv-crafter.gemspec
+  size_bytes: 1051
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-05ad77aaecfcf645
+  sha256: 05ad77aaecfcf6457211fb3667b0876b2f575ac5605dfa93aae46eaf61df235d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/scss/base.scss
+  size_bytes: 2909
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-05aec584eb818fc4
+  sha256: 05aec584eb818fc44110461a1557ea5f95d49a281588715695b3fd7b9de1abac
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/HELP-US-OUT.txt
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/HELP-US-OUT.txt
+  size_bytes: 318
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 318
+  text_sha256: 05aec584eb818fc44110461a1557ea5f95d49a281588715695b3fd7b9de1abac
+  flags: []
+  extracted_path: sources/extracted/src-05aec584eb818fc4.txt
+- id: src-05ba1b436ff7eb2a
+  sha256: 05ba1b436ff7eb2abc68bedad1cc222c472852dac35d58a89c2173c18b20a5f3
+  paths:
+  - sources/raw/hd_locale/apprendo/cv-alessandro-aprile-italiano-aggiornato.odt
+  size_bytes: 12328
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 10012
+  text_sha256: f5696b717c8a856210fda8eef39b0ede668fc636b92c88a01d3dc11857cb9f25
+  flags: []
+  extracted_path: sources/extracted/src-05ba1b436ff7eb2a.txt
+- id: src-06139d70737c84aa
+  sha256: 06139d70737c84aa2658a13c8730811999d01ca67cd6ea46e5482751ccaed962
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/Curriculum vitae di ALESSANDRO APRILE bis.odt.gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE bis.odt
+    (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE bis.odt.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1AC4udnJOdpsH-wsaLBbYI1oVnJeVTsqMXkruAPG8fqQ
+  document_id: 1AC4udnJOdpsH-wsaLBbYI1oVnJeVTsqMXkruAPG8fqQ
+- id: src-061aee57d66b9d4b
+  sha256: 061aee57d66b9d4bcd312b9f677d285fc5b8dafba009a9a536d8041874869b8e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it (2).docx
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it (3).docx
+  size_bytes: 79540
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 18825
+  text_sha256: 2b5e788364446603676d5daea868b55c64657d6aeec8802421aa4e22f622cd8c
+  flags: []
+  extracted_path: sources/extracted/src-061aee57d66b9d4b.txt
+- id: src-061d033f6e957b18
+  sha256: 061d033f6e957b189f733d854351db8dc86aab53fa288341766f51200a1b2bed
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_html/srt-resume-aaprile.html
+  size_bytes: 10702
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 6447
+  text_sha256: 7e558fd004c6ea7f0b1391a2b454c5d6d305d38c0ef1fc709079fcad633a59b9
+  flags: []
+  extracted_path: sources/extracted/src-061d033f6e957b18.txt
+- id: src-0644b843f08a975d
+  sha256: 0644b843f08a975d4576d3b5deae747f622dfda92bf1025380cab2248489d1a8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_aprile_2012.odt
+  size_bytes: 128047
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 10317
+  text_sha256: 01f06bd558f2daba469208b8f1dda8042d6811d51398b9e64c88f80baf066ecb
+  flags: []
+  extracted_path: sources/extracted/src-0644b843f08a975d.txt
+- id: src-071419cd2476fa9f
+  sha256: 071419cd2476fa9f31a94d9985b7b62c9718c5278a364baaf9be0c57ce808587
+  paths:
+  - sources/raw/hd_locale/apprendo/Apprendo Aprile Alessandro CV aggiornato 2026-07-22.docx
+  size_bytes: 59849
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21363
+  text_sha256: 4f95b2367d4fedd9c14e86b6b83b859c81aef7105b98da5ba6f406902775ccaa
+  flags: []
+  extracted_path: sources/extracted/src-071419cd2476fa9f.txt
+- id: src-07797ac6a04a3a92
+  sha256: 07797ac6a04a3a9232b7fd9d21fd2fe4afacdae4d51dcdda65e7e6dcea248ec8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_includes/icon-github.svg
+  size_bytes: 926
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-081abb93d5cb395e
+  sha256: 081abb93d5cb395ed2178d3b45c6b7f1c2eb4bf7b070e3825aa50a30a72380ce
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cvAlessandroAprile2013.docx
+  size_bytes: 7522
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 3620
+  text_sha256: a83972fd6f80d1c61205cdf604c82d18f84e9a4e4f8cbb3f51c7bca38ac44bde
+  flags: []
+  extracted_path: sources/extracted/src-081abb93d5cb395e.txt
+- id: src-08a2c68a611e4e83
+  sha256: 08a2c68a611e4e839d026cf7ee39faae8040e8ef6889967f5935340f2dd25a8d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/images/touch/apple-touch-icon-144-precomposed.png
+  size_bytes: 1326
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-08fb3a35afbada96
+  sha256: 08fb3a35afbada96fa81dcac9a0f4c0a8aead04984c57909caff73b3a1cae5fa
+  paths:
+  - sources/raw/hd_locale/apprendo/Template_CV_Apprendo(1).docx
+  size_bytes: 59658
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 3549
+  text_sha256: 0be8baf435b78767bbbc2481550ced0aefcaf3632999d778fc230ebca148cbc0
+  flags:
+  - placeholder_content
+  - template_in_filename
+  extracted_path: sources/extracted/src-08fb3a35afbada96.txt
+- id: src-0966a814d308d83e
+  sha256: 0966a814d308d83e331ed49b8a49ca072098e2da5b053a1980c59dc79378c8c8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - App ibride.doc
+  size_bytes: 12897
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: libreoffice-text
+  characters: 10882
+  text_sha256: 985cb2d908b9d6ae4b75465bd188dac4b7171061ee2bba5dd0b23755c329ffd7
+  flags: []
+  extracted_path: sources/extracted/src-0966a814d308d83e.txt
+- id: src-0a8c16d0394b49c5
+  sha256: 0a8c16d0394b49c51e8878c3373de347f2fbacb9df51d319e8dc7a250b9502b2
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/.gitignore
+  size_bytes: 74
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 74
+  text_sha256: 0a8c16d0394b49c51e8878c3373de347f2fbacb9df51d319e8dc7a250b9502b2
+  flags: []
+  extracted_path: sources/extracted/src-0a8c16d0394b49c5.txt
+- id: src-0bfcbb25686d6b00
+  sha256: 0bfcbb25686d6b00da64a9eddfbcce9d2b872c6f63fd3c7e6c1e64b5a53d8f38
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2014 - App ibride.md
+  size_bytes: 13432
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 13368
+  text_sha256: 0bfcbb25686d6b00da64a9eddfbcce9d2b872c6f63fd3c7e6c1e64b5a53d8f38
+  flags: []
+  extracted_path: sources/extracted/src-0bfcbb25686d6b00.txt
+- id: src-0d5bb604c85856fe
+  sha256: 0d5bb604c85856fec98e8774767c609057ffacac7f3a0df040b4a0622a835134
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_4.pdf
+  size_bytes: 159669
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 19364
+  text_sha256: 47f36d4ff607287a33921904cb65f1d0f180286eeb006e05a541ff38bf09521a
+  flags: []
+  extracted_path: sources/extracted/src-0d5bb604c85856fe.txt
+- id: src-0da50cff35708a27
+  sha256: 0da50cff35708a2790dac0457ecdc3e52e3c811caef93c274fb3f394e7e8b6bf
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/css/normalize.css
+  size_bytes: 7798
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-0e035e21bbdf7f14
+  sha256: 0e035e21bbdf7f14f1453fa126aaf39f0b62479471f3cba649a64dd2daa54e26
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_path.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_path.scss
+  size_bytes: 783
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-0ef853a3192742d2
+  sha256: 0ef853a3192742d207ea0e793dc8bcc6322dcb9e50d41f4b981c4ebac2dac7ac
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/fixed-width.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/fixed-width.less
+  size_bytes: 119
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-0fdbbd199f98bdbc
+  sha256: 0fdbbd199f98bdbcc997e91c2232b5b6fdc1e88af3b1b850c50ebab5a5c57171
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_1_ATS-friendly_1page.md
+  size_bytes: 4030
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 4006
+  text_sha256: 0fdbbd199f98bdbcc997e91c2232b5b6fdc1e88af3b1b850c50ebab5a5c57171
+  flags: []
+  extracted_path: sources/extracted/src-0fdbbd199f98bdbc.txt
+- id: src-104472d31ebfc1e8
+  sha256: 104472d31ebfc1e81ab80956b32f9b85340289195bfa0805c99e20d95697fe32
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/content/pages/about.md
+  size_bytes: 668
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 665
+  text_sha256: 104472d31ebfc1e81ab80956b32f9b85340289195bfa0805c99e20d95697fe32
+  flags: []
+  extracted_path: sources/extracted/src-104472d31ebfc1e8.txt
+- id: src-1065bed7ee834b55
+  sha256: 1065bed7ee834b55051b2cc87e3772d06671bb63f201ebfbdedef585182cea81
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_images/README.md
+  size_bytes: 217
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 217
+  text_sha256: 1065bed7ee834b55051b2cc87e3772d06671bb63f201ebfbdedef585182cea81
+  flags: []
+  extracted_path: sources/extracted/src-1065bed7ee834b55.txt
+- id: src-116c9142e4b36c54
+  sha256: 116c9142e4b36c54b0f6151cb0bc9cdbfa6c319933b51666d8cb6e9e57a0336d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/letterapresentazioneinglese.txt
+  size_bytes: 1157
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1150
+  text_sha256: ce5c2ece607c0b3ddaa63d7435d9f8e3013ba8d5282b5b912b734133988919e8
+  flags: []
+  extracted_path: sources/extracted/src-116c9142e4b36c54.txt
+- id: src-11a77bc3369fbd88
+  sha256: 11a77bc3369fbd88db483c66c6a3116248e6add71b7c1b7ad23b07c2dddef5f9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_html/Cv Alessandro Aprile ago2015 - noApp
+    - metadata.html
+  size_bytes: 21995
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 8721
+  text_sha256: 1664724c56c4f9f58dc9439bd085ed7451fa85c75fc7a5a6b04eed0698110cbd
+  flags: []
+  extracted_path: sources/extracted/src-11a77bc3369fbd88.txt
+- id: src-11b00ce4cdb8f5f8
+  sha256: 11b00ce4cdb8f5f8f4b360b4b124fc72ce0745e0cfd91c4db444420b65daf5de
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/build.js
+  size_bytes: 890
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-11fd355cb6777172
+  sha256: 11fd355cb6777172dab7178db9b2dda7d324562acc019318bd17aaabb9d7dcff
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile sett2015_redux - App
+    ibride.odt
+  size_bytes: 79552
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 11167
+  text_sha256: a53b13931845714bcfe8a8c14acea50bde7195c28f2e8e2af98cb5e13baadf34
+  flags: []
+  extracted_path: sources/extracted/src-11fd355cb6777172.txt
+- id: src-13440da6c4e66696
+  sha256: 13440da6c4e666969300cf5461347d0b4d002a8c7d4c59ff0b843a19a2108b33
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/resume.md
+  size_bytes: 4925
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 4908
+  text_sha256: 13440da6c4e666969300cf5461347d0b4d002a8c7d4c59ff0b843a19a2108b33
+  flags: []
+  extracted_path: sources/extracted/src-13440da6c4e66696.txt
+- id: src-13d8fc7c60910035
+  sha256: 13d8fc7c60910035c1b525c2295c169147b8626c80bf5d652d2f5f2ce49d791e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/cv.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/cv.scss
+  size_bytes: 1715
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-13e689b8dfdcbd2a
+  sha256: 13e689b8dfdcbd2a6d1e86aa8bcb2571729dac6b94b16bb7f7dfbd15eeedcadc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/index.html
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/index.html
+  size_bytes: 7997
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 1302
+  text_sha256: 260f5bb1cacfb98aac60ed5d4e862f221a873947eacd22393bee8ac40544fe77
+  flags: []
+  extracted_path: sources/extracted/src-13e689b8dfdcbd2a.txt
+- id: src-14ee97a4122bf466
+  sha256: 14ee97a4122bf466749d30770e92fd53f684f53546f33302f3889f82e767018e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018.code-workspace
+  size_bytes: 102
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-15e9ee6630ef3a96
+  sha256: 15e9ee6630ef3a964492cf27605fbc916d8a80dcb660229645cea8ad3fba09ce
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/CV_AAprile_WEB (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/CV_AAprile_WEB.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1nE7PjMD7PoHS8VXkjF6AhEeT7g7HVoLJ5pZDVv5zxQk
+  document_id: 1nE7PjMD7PoHS8VXkjF6AhEeT7g7HVoLJ5pZDVv5zxQk
+- id: src-17f31174e7bf7438
+  sha256: 17f31174e7bf74386014c4429a4fc67d8114832dcfd5bb9d2f8a4a2b742de47c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/partials/sidebar.hbs
+  size_bytes: 722
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-18c5d4515eb0b274
+  sha256: 18c5d4515eb0b274ef389caece1d0c54683783f8d9f181718a671dd2df32b0bc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/Curriculum vitae ALESSANDRO APRILE europeo 2013.zdoc.glink
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae ALESSANDRO APRILE europeo
+    2013.zdoc (1).glink
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae ALESSANDRO APRILE europeo
+    2013.zdoc.glink
+  size_bytes: 154
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=0B0uZYgipPU1GR2JGN3MyV254Uzg
+  document_id: 0B0uZYgipPU1GR2JGN3MyV254Uzg
+- id: src-1902c791edfe010e
+  sha256: 1902c791edfe010e77e8e7326381767dcf945101cc6b7ee9f07e77aaf9431570
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_html/ttab.png
+  size_bytes: 2020
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-1a77a6f91a980000
+  sha256: 1a77a6f91a9800001e9eb8706d9e45dc2ebe513f4ff6552b683553226e027c8c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted.odt
+  size_bytes: 30391
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21198
+  text_sha256: 26771ecf3631548e12092014f68fb07eeeb748a2fe5087b13d321ecaba1e9e9d
+  flags: []
+  extracted_path: sources/extracted/src-1a77a6f91a980000.txt
+- id: src-1b63a244952bc2fd
+  sha256: 1b63a244952bc2fd077406fbe8b645b0d17b9b62703c8b6456db66ea6397b82d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_html.lnk
+  size_bytes: 1785
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+- id: src-1b7f3de49d68b01f
+  sha256: 1b7f3de49d68b01f415574ebb82e6110a1d09cda2071ad8451bdb5124131a292
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/fonts/fontawesome-webfont.ttf
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/fonts/fontawesome-webfont.ttf
+  size_bytes: 138204
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-1cd90641885926c5
+  sha256: 1cd90641885926c525c8ede3d6232bcacae322715155bdbe8c9942955c820a69
+  paths:
+  - sources/raw/hd_locale/thinkopen/CV_TOP_2021_alessandro.aprile@thinkopen.it (1) 1.docx
+  size_bytes: 353745
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 18950
+  text_sha256: 0287fcaa21f049823ba476c1bdd9c00471018ef2f78df2b299a6c602db317dc5
+  flags: []
+  extracted_path: sources/extracted/src-1cd90641885926c5.txt
+- id: src-1d94f1de11203336
+  sha256: 1d94f1de112033361c781b2272fe97c20fbf1e1176f3c849f78312fbbd547a86
+  paths:
+  - sources/raw/hd_locale/apprendo/Apprendo Aprile Alessandro CV 2026-07-22.docx
+  size_bytes: 62610
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 19716
+  text_sha256: 85cde6c0c782b1f81b05283aa68c567451871942ff145b52ce39b5eeb9394c80
+  flags: []
+  extracted_path: sources/extracted/src-1d94f1de11203336.txt
+- id: src-1dc59957b3201b17
+  sha256: 1dc59957b3201b170bfa1d4f8dd6333327cc2a52018f7190dc17b440b434ff44
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/nunjucks.js
+  size_bytes: 2389
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-1debf3d3613da0de
+  sha256: 1debf3d3613da0de14dc36a636659b3393637949554540e094c782b3b1106c75
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/assets.js
+  size_bytes: 3964
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-1efcf81d5964e8d2
+  sha256: 1efcf81d5964e8d2511d3f137c7024bea803042441b79896bb767d524e17e732
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/OFFERTA VF Alessandro Aprile.pdf
+  size_bytes: 44109
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 3467
+  text_sha256: b26475aade1a4fbb10c49ce864e9d74da9079d0c58079ccc0fdfb4af8a6cba29
+  flags: []
+  extracted_path: sources/extracted/src-1efcf81d5964e8d2.txt
+- id: src-1f06f7547d9b8115
+  sha256: 1f06f7547d9b811562f30a3a46508466a7d1dba3b405604c5671fbb112347ed5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/fonts/fontawesome-webfont.svg
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/fonts/fontawesome-webfont.svg
+  size_bytes: 355981
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-21892b9ba3ccc5b3
+  sha256: 21892b9ba3ccc5b3e4a15fdb676968c80e06f8f5e9e40975ac20992a90e3424b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/OFFERTA VF Alessandro Aprile (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/OFFERTA VF Alessandro Aprile.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1nUOmpl8OzJJXz11U94pq_MQ5sl41TBa33WwhkYVOTwI
+  document_id: 1nUOmpl8OzJJXz11U94pq_MQ5sl41TBa33WwhkYVOTwI
+- id: src-2323ed9e67db5c00
+  sha256: 2323ed9e67db5c00d6f53c9ab7cca9147de6a849e13f660414dda9661d988231
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18DocxUTF8.docx
+  size_bytes: 150748
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21989
+  text_sha256: 35745a43ca31feb8b091a0ba996f062d8e8a2f5ca1a68d3a14342dc6ce21891d
+  flags: []
+  extracted_path: sources/extracted/src-2323ed9e67db5c00.txt
+- id: src-241ee017aec4a2bf
+  sha256: 241ee017aec4a2bf027222ccf35275045cc74fe4c37f3e70b2cd9e8c3d110799
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/package.json
+  size_bytes: 2391
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 2391
+  text_sha256: 241ee017aec4a2bf027222ccf35275045cc74fe4c37f3e70b2cd9e8c3d110799
+  flags: []
+  extracted_path: sources/extracted/src-241ee017aec4a2bf.txt
+- id: src-2428b9a2d4a38a49
+  sha256: 2428b9a2d4a38a499d8fd0ad39cefa6939a9acecc4e36ad8cd624b318e63c6de
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/karma.conf.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/karma.conf.js
+  size_bytes: 2179
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-24885c0618b95831
+  sha256: 24885c0618b95831533aee44789894174b20416b5ca99539f890a885e0909c52
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx_years.docx
+  size_bytes: 22749
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 22033
+  text_sha256: eb4f62310a2df17304647e4c9e7d5b2ef2063799ba2edfd28b6d55bceffe3e4a
+  flags: []
+  extracted_path: sources/extracted/src-24885c0618b95831.txt
+- id: src-24a2f31f5aeb3e70
+  sha256: 24a2f31f5aeb3e707df65abe5f4deafa1319a9f735aa6c645fb1097055d1b33f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/omegaTtranslations_target/Cv Alessandro Aprile
+    ago2015 - noApp - english.docx
+  size_bytes: 10756
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 6834
+  text_sha256: bd2cd85dae2ac8c720a6125cf3fdaf3f0f14841ad1413e13690126cc2b5c9c56
+  flags: []
+  extracted_path: sources/extracted/src-24a2f31f5aeb3e70.txt
+- id: src-26fec3e1f91a2ccf
+  sha256: 26fec3e1f91a2ccfc250fed1d44baa66b8371ee52f0c6e35aa51d0783ac3b2d3
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/favicon.ico
+  size_bytes: 1150
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-27cba111e94c0766
+  sha256: 27cba111e94c0766b4d0111f085ec186bdf29c7cce398512b91162b14edaa3d9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/sass.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/sass.js
+  size_bytes: 1452
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-293da6829bfa7186
+  sha256: 293da6829bfa7186bd8023262721c83d62ce9422491eefdc2b9d0b993f8c0a1b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/cv.aa.sensei.doc
+  size_bytes: 127488
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: libreoffice-text
+  characters: 3260
+  text_sha256: 3d9087d7f5bf03230f846bbd7150de2610fbe1287785efebcbf6a2e6f0c071e3
+  flags: []
+  extracted_path: sources/extracted/src-293da6829bfa7186.txt
+- id: src-2969848b138d5c21
+  sha256: 2969848b138d5c2127e039daa4aecc462cc99face19e0253cd56c657771e484a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/index.nunjucks
+  size_bytes: 573
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-2ad6d45f7b29e92b
+  sha256: 2ad6d45f7b29e92b2e8e2b36a992dced6110b082c4841394906da71d587598d6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_styles/README.md
+  size_bytes: 978
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 978
+  text_sha256: 2ad6d45f7b29e92b2e8e2b36a992dced6110b082c4841394906da71d587598d6
+  flags: []
+  extracted_path: sources/extracted/src-2ad6d45f7b29e92b.txt
+- id: src-2b0f8526e7a1b0f1
+  sha256: 2b0f8526e7a1b0f1fb42e8acec3c1e7737a1a3065b773ebd13a492952f557967
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/js/vendor/modernizr-2.8.3.min.js
+  size_bytes: 15514
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-2b1011363debbf16
+  sha256: 2b1011363debbf1630f3282b7bb4d7b9555a33cffcbd6932ac83c4dc36f01837
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_includes/icon-github.html
+  size_bytes: 177
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 52
+  text_sha256: 562b7015989ae39c1bda461d126030400b686b7a0f2468fb9dc78c533acc3b3b
+  flags: []
+  extracted_path: sources/extracted/src-2b1011363debbf16.txt
+- id: src-2beb81e7ec973ca9
+  sha256: 2beb81e7ec973ca94e4a1c7bb4af85eda8cf7589e9b85097ce66cc88d06462ca
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/images.js
+  size_bytes: 564
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-2bf61da7aa61f7a4
+  sha256: 2bf61da7aa61f7a4d5dda3ce740b4d16f7e25e950164dc0c79d39e0cbbc75b9f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted.html.20170926
+  size_bytes: 79048
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-2c55d35d3f99f0ba
+  sha256: 2c55d35d3f99f0bacc2cf0ea7d79e4800ce0efda1587344f0b062c9a0cf35bd9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/omegaTtranslations_target/AAprile_AppIbrideEProgRealizzati_ago2015.md.txt
+  size_bytes: 8107
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 8082
+  text_sha256: 2c55d35d3f99f0bacc2cf0ea7d79e4800ce0efda1587344f0b062c9a0cf35bd9
+  flags: []
+  extracted_path: sources/extracted/src-2c55d35d3f99f0ba.txt
+- id: src-2c67196d08818b67
+  sha256: 2c67196d08818b673d7f93a770a66ffd803852af6907180f87ccb139b5ea401c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/omegaTtranslations_target/Cv Alessandro Aprile
+    ago2015 - noApp.html
+  size_bytes: 10120
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 7517
+  text_sha256: 5ba232999171508f749bd52e768fefd012b92f15805824cbf45ec78aab332251
+  flags: []
+  extracted_path: sources/extracted/src-2c67196d08818b67.txt
+- id: src-2cbc560971bca099
+  sha256: 2cbc560971bca099b0113e00a5d0189fb5734ced767a359534e073e8860a6cb6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_scaletta.txt (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_scaletta.txt.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1hlfOSWts1PL32udptE9rGdQNxFeRX9JlUXXdbX94ufw
+  document_id: 1hlfOSWts1PL32udptE9rGdQNxFeRX9JlUXXdbX94ufw
+- id: src-2d8241242016b146
+  sha256: 2d8241242016b1468926c451528cc81c28897e5c6ceb055e1874d0012be9551b
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato.md
+  size_bytes: 19215
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 18973
+  text_sha256: 2d8241242016b1468926c451528cc81c28897e5c6ceb055e1874d0012be9551b
+  flags: []
+  extracted_path: sources/extracted/src-2d8241242016b146.txt
+- id: src-2da693bb3b6150be
+  sha256: 2da693bb3b6150beb609194c190df46ba08130fb39b1c2805ffb15e34d2e2e97
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE MD def
+    210313.odt
+  size_bytes: 140018
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 7616
+  text_sha256: bf2350a38f0e45ec45074ac976cfabb80d943b31f938154d9a424e981fcf7b3e
+  flags: []
+  extracted_path: sources/extracted/src-2da693bb3b6150be.txt
+- id: src-2e6d59847bc56f78
+  sha256: 2e6d59847bc56f78c8f213578cf72860cba3d08908cbff792f78d5d5c096bef6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/bak_posts/2017-07-12-welcome-to-jekyll.markdown
+  size_bytes: 1207
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1203
+  text_sha256: 2e6d59847bc56f78c8f213578cf72860cba3d08908cbff792f78d5d5c096bef6
+  flags: []
+  extracted_path: sources/extracted/src-2e6d59847bc56f78.txt
+- id: src-2f0777aadc92fe1c
+  sha256: 2f0777aadc92fe1cba3b62eb64777bd11dfb252d6444071e61abc3215b7f19ba
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/favicon.ico
+  size_bytes: 486
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-2f4880826b36a39f
+  sha256: 2f4880826b36a39fb6038c197a6c3d842d7259d6fc353a9c674b4143c670a2c6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_config.yml
+  size_bytes: 64
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 64
+  text_sha256: 2f4880826b36a39fb6038c197a6c3d842d7259d6fc353a9c674b4143c670a2c6
+  flags: []
+  extracted_path: sources/extracted/src-2f4880826b36a39f.txt
+- id: src-2ff8763e513153e6
+  sha256: 2ff8763e513153e6aaf4d174d712d9168e489bbf91d542188d8d34fa9dbd4756
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/dist/templates.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/dist/templates.js
+  size_bytes: 571
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-31bbcaaf127fc0da
+  sha256: 31bbcaaf127fc0da132d80e2c9419d14221a2b24c93b63a810546a4f6fde7f53
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/projects.md
+  size_bytes: 16172
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 16127
+  text_sha256: 31bbcaaf127fc0da132d80e2c9419d14221a2b24c93b63a810546a4f6fde7f53
+  flags: []
+  extracted_path: sources/extracted/src-31bbcaaf127fc0da.txt
+- id: src-31bc1431f7418b87
+  sha256: 31bc1431f7418b872c9a603463c450a791bfd7e291cfb5ee68872211d8fb00ce
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/yarn.lock
+  size_bytes: 46217
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-32dd3975c4774e86
+  sha256: 32dd3975c4774e8697070deaec68c34032722519caa3c91c92dc63e7e2a0fb0d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/copy.js
+  size_bytes: 471
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-34e5ba4d5867b9cb
+  sha256: 34e5ba4d5867b9cb4905b0728a55b5e05ee2575706dbd7974d6b98aeb234f6e6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile ago2015 - App - EU.docx
+  size_bytes: 18500
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 16101
+  text_sha256: ee692d5f97f4e48da2b0413730b5864ff84b4247daa7c6a676c4233a44a756e9
+  flags: []
+  extracted_path: sources/extracted/src-34e5ba4d5867b9cb.txt
+- id: src-35993767877030fb
+  sha256: 35993767877030fbae8d0bff0d5e1500ddf111d1c38b144ca18ff817b030fba1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx.odt
+  size_bytes: 163982
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 23918
+  text_sha256: dd904212ad57cb6c77c22ae03749a5f0e26fd1cc88ac20692c4134a28972063d
+  flags: []
+  extracted_path: sources/extracted/src-35993767877030fb.txt
+- id: src-35ad2f1ca522fe05
+  sha256: 35ad2f1ca522fe059900f602df29eaadda3f6314013f49eb091f5d9616c56a75
+  paths:
+  - sources/raw/hd_locale/apprendo/Template_CV_Apprendo_custom (1).md
+  - sources/raw/hd_locale/apprendo/Template_CV_Apprendo_custom.md
+  size_bytes: 4261
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 4206
+  text_sha256: 35ad2f1ca522fe059900f602df29eaadda3f6314013f49eb091f5d9616c56a75
+  flags:
+  - placeholder_content
+  - template_in_filename
+  extracted_path: sources/extracted/src-35ad2f1ca522fe05.txt
+- id: src-3669fddeb4b5c21b
+  sha256: 3669fddeb4b5c21b3ddd98db520c15dffa155621a10259b4ae8b8d700cab2f8b
+  paths:
+  - sources/raw/hd_locale/thinkopen/CV_TOP_2021_alessandro.aprile@thinkopen.it (1).docx
+  size_bytes: 334105
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 18426
+  text_sha256: cdcdb2ec1a640030311badb4c31199ecd0cbcfa8c67b2b2ecb21b8a48de5ba7b
+  flags: []
+  extracted_path: sources/extracted/src-3669fddeb4b5c21b.txt
+- id: src-369d942143513ab6
+  sha256: 369d942143513ab6eb1ebe2670bd76a2a5aa8e08d282bc8c537fc04b3a513f3b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/mikey.png
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/mikey.png
+  size_bytes: 113880
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-36a6f4ba02692dd0
+  sha256: 36a6f4ba02692dd0d4f25aa288e598a8f36d5e1a18513f0bdbbc0ada9f5b729d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/favicon.ico
+  size_bytes: 766
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-3779d33fb385a90f
+  sha256: 3779d33fb385a90f2d94c1e9ecce6bdd2b1f07de2cf86d677d02bff524318bfb
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted.md
+  size_bytes: 22750
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 22681
+  text_sha256: 3779d33fb385a90f2d94c1e9ecce6bdd2b1f07de2cf86d677d02bff524318bfb
+  flags: []
+  extracted_path: sources/extracted/src-3779d33fb385a90f.txt
+- id: src-385686a9ab02f753
+  sha256: 385686a9ab02f7536cb46a182ea137976e258a9f41933a30d3366f7b02551588
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/variables.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/variables.less
+  size_bytes: 19203
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-3927b1c0460c20c9
+  sha256: 3927b1c0460c20c900849af5c4ea7cb4b4a764b83d5650c898afd8bd7fe70a5e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv Alessandro Aprile 2013 (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv Alessandro Aprile 2013.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1Vaj2-cxaQJ2FVmfauwddzHlaPnrTUJ2Wx0IVYSP4gm0
+  document_id: 1Vaj2-cxaQJ2FVmfauwddzHlaPnrTUJ2Wx0IVYSP4gm0
+- id: src-398216b135c53adc
+  sha256: 398216b135c53adcde19a5755aa3b8e90b502cc3e4043bdbe8c65a0ebe761c6b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/robots.txt
+  size_bytes: 77
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 77
+  text_sha256: 398216b135c53adcde19a5755aa3b8e90b502cc3e4043bdbe8c65a0ebe761c6b
+  flags: []
+  extracted_path: sources/extracted/src-398216b135c53adc.txt
+- id: src-3a07010ff98376d0
+  sha256: 3a07010ff98376d08238f8c99ac6f1cde1d5c588ea3fe63e42e367381a4914e9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/css/main.css
+  size_bytes: 5751
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-3a40e5fbf3944e9b
+  sha256: 3a40e5fbf3944e9bd49973c5da79fc6954b69e5a9ae2f52128248ed9b899a93e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/scss/sakura.scss
+  size_bytes: 3288
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-3ab84c1b0df46661
+  sha256: 3ab84c1b0df466617510abaa78330bd3a65f3e0ec67a8029fa3a79b6c0b5b689
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_2.docx
+  size_bytes: 16307
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 17817
+  text_sha256: 98714a3017c138517f80a122d3b1702620329db5e09d562aadf2b44054be8e8f
+  flags: []
+  extracted_path: sources/extracted/src-3ab84c1b0df46661.txt
+- id: src-3b0d867d89bfa9c3
+  sha256: 3b0d867d89bfa9c3da6f5b88748e241880e482ec3e7487a7c5d0d9b04da3ed63
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website.zip
+  size_bytes: 17278
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-3c440e6593790dc9
+  sha256: 3c440e6593790dc9451a9e4492dd7ff0a5e1e66aa62f460e59de56d8de27cee7
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/partials/header.hbs
+  size_bytes: 631
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-3c4a1bb7ce323440
+  sha256: 3c4a1bb7ce3234407184f0d80cc4dec075e4ad616b44dcc5778e1cfb1bc24019
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/fonts/fontawesome-webfont.woff2
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/fonts/fontawesome-webfont.woff2
+  size_bytes: 64464
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-3e5bb5a3390216ae
+  sha256: 3e5bb5a3390216ae8267ea016669d31b29083e670e146972b5daf441c3b34157
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_includes/footer.html
+  size_bytes: 942
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 220
+  text_sha256: 373c5d043fd6e46405698d68ee4d10a3161acd973316a4bd25e4baa39dd8a28c
+  flags: []
+  extracted_path: sources/extracted/src-3e5bb5a3390216ae.txt
+- id: src-3e76fed3182027ee
+  sha256: 3e76fed3182027eec05494aa71ea1988b8ffba092aa726f67829c9ac83662f83
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - App ibride.md
+  size_bytes: 10854
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 10798
+  text_sha256: 3e76fed3182027eec05494aa71ea1988b8ffba092aa726f67829c9ac83662f83
+  flags: []
+  extracted_path: sources/extracted/src-3e76fed3182027ee.txt
+- id: src-3f340e492b6a9700
+  sha256: 3f340e492b6a9700fb56cfdf80ba65605b79c8ea8b17e09867b46a643188f09a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/content/template.md
+  size_bytes: 200
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 200
+  text_sha256: 3f340e492b6a9700fb56cfdf80ba65605b79c8ea8b17e09867b46a643188f09a
+  flags:
+  - template_in_filename
+  extracted_path: sources/extracted/src-3f340e492b6a9700.txt
+- id: src-3f9de6c3e0f1a2bc
+  sha256: 3f9de6c3e0f1a2bc71579a417d7c415f82f2a3d3f4792161a8588bb8bdd75450
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/stacked.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/stacked.less
+  size_bytes: 476
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-40bacd47f65d3bfd
+  sha256: 40bacd47f65d3bfd1fc51bd0376571dcd9dd0d29b7cebecf6b51b074772ab4af
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx2.html
+  size_bytes: 87729
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 12800
+  text_sha256: 4e10dbafed22f2046429786e23b39b7f0ca0f8c926ed3c3e1ce84516c6dc0aea
+  flags: []
+  extracted_path: sources/extracted/src-40bacd47f65d3bfd.txt
+- id: src-415cebc729580973
+  sha256: 415cebc7295809737772a9b1cbb41208f357f5a1fb617c8a73673776b289b78c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/index.hbs
+  size_bytes: 581
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-41ae478ec20a2056
+  sha256: 41ae478ec20a2056f881be708a8a62bbfc706bade089c4d1476150cbb3db8bde
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/copy.js
+  size_bytes: 472
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-4221574fcff9ca03
+  sha256: 4221574fcff9ca0338adbd70ba95f6759a7048ff396041d88dccf8db66481d7c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_aa_ott14_slide.html
+  size_bytes: 16485
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 13091
+  text_sha256: 72959832584134552fc6dcfb3842d0433e43d21b5d421f3ed9c8f34548a70dba
+  flags: []
+  extracted_path: sources/extracted/src-4221574fcff9ca03.txt
+- id: src-4258142eb2a718cc
+  sha256: 4258142eb2a718cc366d6087a8a6da04781c5abaf2787ffffc20a481ec5227a1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/javascript/vendor.js
+  size_bytes: 44
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-43da329066a57c9e
+  sha256: 43da329066a57c9e75345105eb55e762cf883a044d6d561bb574e2bf4bd44bb7
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/LICENSE
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/LICENSE
+  size_bytes: 1079
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1079
+  text_sha256: 43da329066a57c9e75345105eb55e762cf883a044d6d561bb574e2bf4bd44bb7
+  flags: []
+  extracted_path: sources/extracted/src-43da329066a57c9e.txt
+- id: src-459e7c172cef0401
+  sha256: 459e7c172cef04014c22e56be39d6f344bb7b801b730a930484f910701a2c52b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/.gitattributes
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/.gitattributes
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/.gitattributes
+  size_bytes: 11
+  category: document_candidate
+  status: needs_manual_review
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+- id: src-461258dcd374b477
+  sha256: 461258dcd374b477986f5eb1c09958944abb4ef59bbc6f34948059e952357b7a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/.gitignore
+  size_bytes: 729
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 729
+  text_sha256: 461258dcd374b477986f5eb1c09958944abb4ef59bbc6f34948059e952357b7a
+  flags: []
+  extracted_path: sources/extracted/src-461258dcd374b477.txt
+- id: src-46651a935082394c
+  sha256: 46651a935082394c0075c49a104a8e027c65fea9d4ccb5afe2c64828f4f4ac76
+  paths:
+  - sources/raw/hd_locale/apprendo/leoanrdo/AAprile_CV_Leonardo_React_10-2026_template.pdf
+  size_bytes: 149145
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 21747
+  text_sha256: 3c8e2cfecffb44f89175bcf48f7178c6f92d0348d8bc6bc7e7e8d9e94d4054e2
+  flags:
+  - template_in_filename
+  extracted_path: sources/extracted/src-46651a935082394c.txt
+- id: src-46b35887a16af944
+  sha256: 46b35887a16af944c77b562a61f8877840b771381a90f72de048ea343a15b229
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/Curriculum vitae di ALESSANDRO APRILE MD discorsivo 311012.odt.gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE MD discorsivo
+    311012.odt (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE MD discorsivo
+    311012.odt.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1aOazhULCF68UALjQGyKoX1dIiDCxx6Kf5IF6Z4zs1vQ
+  document_id: 1aOazhULCF68UALjQGyKoX1dIiDCxx6Kf5IF6Z4zs1vQ
+- id: src-46e11018c6e040c7
+  sha256: 46e11018c6e040c7bb42800dec3fb06a6dae4167ddd9eb2a39b8bf4635508790
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile otto2014 - App ibride.pdf
+  size_bytes: 93180
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 13177
+  text_sha256: 1ff6697b9685566fc2379bb025480ebb9d44f487d03e5d912e54e8fc2d8a6043
+  flags: []
+  extracted_path: sources/extracted/src-46e11018c6e040c7.txt
+- id: src-492531d64d60e41c
+  sha256: 492531d64d60e41c38e1f775cd27a083044c9650204b79c188f2e6a917378e0a
+  paths:
+  - sources/raw/hd_locale/apprendo/Apprendo20Alessandro20aggiornato%20ordinato_2026-07-22.docx
+  size_bytes: 59821
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21363
+  text_sha256: afc3d41a557ea1c7d32def15879a494120042407411b3be85c36aabcca3abb43
+  flags: []
+  extracted_path: sources/extracted/src-492531d64d60e41c.txt
+- id: src-493a86aba6c34a51
+  sha256: 493a86aba6c34a514ca0ff4c9c8dc1c68face147a8bb374617bedf9bdfdd62e2
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile marzo2017 - Angular.docx
+  size_bytes: 22219
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21109
+  text_sha256: 8e785b8f05731a259aa406d866c25ff18b2a69397ff84c612d974be6c2bbfbf8
+  flags: []
+  extracted_path: sources/extracted/src-493a86aba6c34a51.txt
+- id: src-49bebbafcdc5f3b5
+  sha256: 49bebbafcdc5f3b509a4c3dbbd8b8b3988366c4ebcfca55046521747b6741a40
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/server.js
+  size_bytes: 204
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-4a7b8619ac248210
+  sha256: 4a7b8619ac2482101b5aeb6ffcc00448815912c6d250bfa01a2f428bef9c1964
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/omegaTtranslations_target/Cv Alessandro Aprile
+    ago2015 - noApp.docx
+  size_bytes: 13504
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 6480
+  text_sha256: 1feb3f6935551507804aa59ebf0ac475fb4cac35c74a6bb100393b0945eb4a47
+  flags: []
+  extracted_path: sources/extracted/src-4a7b8619ac248210.txt
+- id: src-4b63fbba6ca02e3a
+  sha256: 4b63fbba6ca02e3a0fd799808e4fdb83c6ede634696ad4694509a68ef4e052f8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/icons.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/icons.less
+  size_bytes: 42489
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-4badc50fd86d4500
+  sha256: 4badc50fd86d4500faee540c6b1e6785150bfd0b5a7ae1eee654b208d8402a01
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/browserSync.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/browserSync.js
+  size_bytes: 521
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-4bf01b89aaabb6e3
+  sha256: 4bf01b89aaabb6e32812d82699a3e298959386141962aec3b8e2fffb2a582a36
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/font-awesome.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/font-awesome.scss
+  size_bytes: 405
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-4c7c0ad814cd601d
+  sha256: 4c7c0ad814cd601d6d9cb65d5939e70d746f946d52f117617fe5b8759e8130bf
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/cvStructureHtml.html
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/template.html
+  size_bytes: 188982
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 7190
+  text_sha256: cc1dee41da8d9d7499eebe067ba0e8e9714c015cc3d532287d0daf9f48e126d6
+  flags:
+  - placeholder_content
+  extracted_path: sources/extracted/src-4c7c0ad814cd601d.txt
+- id: src-4d250b6388ebd1dd
+  sha256: 4d250b6388ebd1dd57924e7d4e3046bec3f775cce950ea3e75d5a631b8bab590
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_includes/head.html
+  size_bytes: 487
+  category: document_candidate
+  status: needs_manual_review
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+- id: src-4d298810f15b8b37
+  sha256: 4d298810f15b8b37245fd4db5f97eb8a72bf1945154617e8dccb7ac6ba9664e1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/content/posts/sample-blog-post.md
+  size_bytes: 596
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 595
+  text_sha256: 4d298810f15b8b37245fd4db5f97eb8a72bf1945154617e8dccb7ac6ba9664e1
+  flags: []
+  extracted_path: sources/extracted/src-4d298810f15b8b37.txt
+- id: src-4dc47cf9669960a7
+  sha256: 4dc47cf9669960a747d4b9903bb5e8c66be918b76918a7a55b8f04f2902bc8be
+  paths:
+  - sources/raw/hd_locale/per_candidature_ministero_europass/CV AAprile_ministero 1.docx
+  size_bytes: 76589
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 11353
+  text_sha256: 9788b163c2d60200393c86114270d3ccf0d7f82f5d429ce76a153aab85de8993
+  flags: []
+  extracted_path: sources/extracted/src-4dc47cf9669960a7.txt
+- id: src-4eb18266dd347be5
+  sha256: 4eb18266dd347be556a1ec7c3db6799bc62042c0683133437f41b51518548593
+  paths:
+  - sources/raw/hd_locale/apprendo/CV_Apprendo_FINAL.docx
+  size_bytes: 23826
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 3219
+  text_sha256: ddf1fc0c046f87345be448cac1e8e443fb5bcb9ca88002202f80378264685938
+  flags:
+  - placeholder_content
+  extracted_path: sources/extracted/src-4eb18266dd347be5.txt
+- id: src-4ee06e7c3f26a6a8
+  sha256: 4ee06e7c3f26a6a863a70ac5294aceb9a9c480e07021c7d8d431b56c4a69866d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/package-lock.json
+  size_bytes: 426980
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 426980
+  text_sha256: 4ee06e7c3f26a6a863a70ac5294aceb9a9c480e07021c7d8d431b56c4a69866d
+  flags: []
+  extracted_path: sources/extracted/src-4ee06e7c3f26a6a8.txt
+- id: src-5069f662bd5b8d12
+  sha256: 5069f662bd5b8d12dd0f36d779127ca2ee9dc0cbffabe35f8db0967ad5a68fd5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2014 - App ibride.docx
+  size_bytes: 13512
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 12633
+  text_sha256: 020a18f8f182f859b7d486139e5c10591484862d2ea3332d1791f21556e84c37
+  flags: []
+  extracted_path: sources/extracted/src-5069f662bd5b8d12.txt
+- id: src-51abceee8878a92e
+  sha256: 51abceee8878a92ed973f46a6a438c5ac9c07c9aed84251a2c4f0c1ac6af5f6c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_modules/link/tests/link.test.js
+  size_bytes: 228
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-523bbbdc4894aafb
+  sha256: 523bbbdc4894aafbc2830e8a0fa1a790bd987568161843d254543dd6540e0ca7
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/scss/main.scss
+  size_bytes: 850
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-52f43d1059182e1a
+  sha256: 52f43d1059182e1a7ff5512a8b4d41e104c5bce06aa83ca97cac21f5e84a47da
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/_config.yml
+  size_bytes: 1670
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1670
+  text_sha256: 52f43d1059182e1a7ff5512a8b4d41e104c5bce06aa83ca97cac21f5e84a47da
+  flags: []
+  extracted_path: sources/extracted/src-52f43d1059182e1a.txt
+- id: src-531424bc918d8627
+  sha256: 531424bc918d8627b2a6dadcb00756f04b1e4dc461106e8c51c61397ad3b7e68
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it (4).docx
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it.docx
+  size_bytes: 79452
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 19467
+  text_sha256: 9930c736a6004917c8e6b15d86bde51c3d4ffd86984a95cbb8b64a4b71a6832e
+  flags: []
+  extracted_path: sources/extracted/src-531424bc918d8627.txt
+- id: src-53ac16555677095a
+  sha256: 53ac16555677095ad20de1ea94d2a128e894723095df26286f5b2cb50ec4963e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/partials/footer.hbs
+  size_bytes: 285
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-5459a6d394ee1c7d
+  sha256: 5459a6d394ee1c7d81ca1ff466cfa7337eb192d180b62380422727c1063a74bc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/_data/cv.yml
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_data/cv.yml
+  size_bytes: 3812
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 3808
+  text_sha256: 5459a6d394ee1c7d81ca1ff466cfa7337eb192d180b62380422727c1063a74bc
+  flags: []
+  extracted_path: sources/extracted/src-5459a6d394ee1c7d.txt
+- id: src-5499e10cdc37cb69
+  sha256: 5499e10cdc37cb6903bd8fbf5780f94f29c06c63d146d59cd2c0db8f9f2d5cf8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx_years.md.bak
+  size_bytes: 24218
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 24148
+  text_sha256: 5499e10cdc37cb6903bd8fbf5780f94f29c06c63d146d59cd2c0db8f9f2d5cf8
+  flags: []
+  extracted_path: sources/extracted/src-5499e10cdc37cb69.txt
+- id: src-55174113562a4988
+  sha256: 55174113562a49883da3c4f661cfe447755ccde7e9cad3a4fe8959750fa30774
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/markdownIntermedio.md
+  size_bytes: 1608
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1604
+  text_sha256: 55174113562a49883da3c4f661cfe447755ccde7e9cad3a4fe8959750fa30774
+  flags: []
+  extracted_path: sources/extracted/src-55174113562a4988.txt
+- id: src-55f3afde93aa3d03
+  sha256: 55f3afde93aa3d034ff20abcf4950c6108b42160d5eae181fecc71e8ccd6a756
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_modules/link/link.js
+  size_bytes: 99
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-560c452163a84c19
+  sha256: 560c452163a84c199b652e3562a80a094946f6cd6320fd98a14b90244eee9469
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/css/normalize.min.css
+  size_bytes: 1981
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-56310ebf910619a8
+  sha256: 56310ebf910619a8ee723462584e13b84ce0461c9f63fad8d3b6f6c5093c43d5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_layouts/post.html
+  size_bytes: 618
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 146
+  text_sha256: 9763a821c78f9a40fadaf6fa5318eea882c96c64b4e2b15efe39037d16d73d2d
+  flags: []
+  extracted_path: sources/extracted/src-56310ebf910619a8.txt
+- id: src-5662a65e346fb4ac
+  sha256: 5662a65e346fb4ac8344225e31456c9ea53aff3dbcd5afe4b430a24d876d9a1f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx_years.md
+  size_bytes: 24233
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 24163
+  text_sha256: 5662a65e346fb4ac8344225e31456c9ea53aff3dbcd5afe4b430a24d876d9a1f
+  flags: []
+  extracted_path: sources/extracted/src-5662a65e346fb4ac.txt
+- id: src-56c4f3d244849240
+  sha256: 56c4f3d2448492406a05886d99acbcbe185d0b93dccebf3edcb4e5f90331e438
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - App ibride.md
+    (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - App ibride.md.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1MxD_HGH6FXyIEH7upDgsoWTJzqSyiimBOGXQXo5qUf4
+  document_id: 1MxD_HGH6FXyIEH7upDgsoWTJzqSyiimBOGXQXo5qUf4
+- id: src-56cd89af0d04ea8b
+  sha256: 56cd89af0d04ea8ba4ff7858c0b0de780bc04e1529c0121bc9b62adb5b64eb27
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/partials/navigation.hbs
+  size_bytes: 196
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-56e837b9d413f90e
+  sha256: 56e837b9d413f90e5215a95b4f1c3bb2f4538dad97abf3661f2d70c31fff9647
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/cvAAprileMag18Docx.odt
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileMag18Docx.odt
+  size_bytes: 165786
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 22805
+  text_sha256: 7c5d6f62fafeaa457fe21dc87e2baabff7e6f597401afae64b62570c042bed52
+  flags: []
+  extracted_path: sources/extracted/src-56e837b9d413f90e.txt
+- id: src-583601249aab010b
+  sha256: 583601249aab010b53a486bf59fb7798b3dae6c941115711f199e78416413f4f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/404.html
+  size_bytes: 294
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 197
+  text_sha256: e7c6d53496645b65a7fcfea55ee706ce60f8c3245e3bb66c943ffa96c68bf2b6
+  flags: []
+  extracted_path: sources/extracted/src-583601249aab010b.txt
+- id: src-5a0a44f7f606c460
+  sha256: 5a0a44f7f606c460b90d09e4d70f45bed5631d875294b84c42a8e47886b3714c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/.yo-rc.json
+  size_bytes: 269
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 269
+  text_sha256: 5a0a44f7f606c460b90d09e4d70f45bed5631d875294b84c42a8e47886b3714c
+  flags: []
+  extracted_path: sources/extracted/src-5a0a44f7f606c460.txt
+- id: src-5a7dac351adf5479
+  sha256: 5a7dac351adf547945ce85768a49f737479653173f7968819c9f38a1cee0febc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile ago2015 - Angular.docx
+  size_bytes: 19333
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 16650
+  text_sha256: 12c145e133b9fe834f958fae86a0628dca8f35aa4bc936e89bd2c424c0f191a2
+  flags: []
+  extracted_path: sources/extracted/src-5a7dac351adf5479.txt
+- id: src-5a8a1a6f8c24cbeb
+  sha256: 5a8a1a6f8c24cbeb73ab16cb53376d6a1340e0641310f283c4168eda821be095
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_html/srt.png
+  size_bytes: 2667
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-5aeba9bf7b11b4b1
+  sha256: 5aeba9bf7b11b4b16b252c627eec7546a18c2e463033a049561601d9ae33760b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_includes/header.html
+  size_bytes: 1145
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 147
+  text_sha256: e9005d7507c43e2527eba401825941557e127237aabdf5945c6bd359daf225f8
+  flags: []
+  extracted_path: sources/extracted/src-5aeba9bf7b11b4b1.txt
+- id: src-5b010caf94444969
+  sha256: 5b010caf94444969396e5a141b1426d3434d2845378e9e78f17deb3601d5deb0
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted2.pdf
+  size_bytes: 157087
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 22563
+  text_sha256: 5ba673f96845ccc3541acb2a68c80996d523fba9ead8fadc6e46a25a9a56c85b
+  flags: []
+  extracted_path: sources/extracted/src-5b010caf94444969.txt
+- id: src-5b5d5c72a79a2c50
+  sha256: 5b5d5c72a79a2c5080db4d5889f287950486c6b89800673fd532d2f59312d9fb
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/tile-wide.png
+  size_bytes: 1854
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-5cc522a55e313c46
+  sha256: 5cc522a55e313c469be9e64139caa3d5498fb3c01c854a519f300327c1581c78
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/_config.yml
+  size_bytes: 1501
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1501
+  text_sha256: 5cc522a55e313c469be9e64139caa3d5498fb3c01c854a519f300327c1581c78
+  flags: []
+  extracted_path: sources/extracted/src-5cc522a55e313c46.txt
+- id: src-5cf8b577d530ab60
+  sha256: 5cf8b577d530ab60c60d73f145d2e4c30b6fd5e3b27ab374ef5780dcd638bb38
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it (2).pdf
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it.pdf
+  size_bytes: 238877
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 19639
+  text_sha256: 822f546879b05d0bbe8e1bf0bb25359f0f7ca3709b10bbf8fd4c8c894da9bd0a
+  flags: []
+  extracted_path: sources/extracted/src-5cf8b577d530ab60.txt
+- id: src-5d67965c2eceb3d6
+  sha256: 5d67965c2eceb3d684ed773d3accaa2df4f62432afaaa0a50f87be6cd621418e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/about.md
+  size_bytes: 536
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 536
+  text_sha256: 5d67965c2eceb3d684ed773d3accaa2df4f62432afaaa0a50f87be6cd621418e
+  flags: []
+  extracted_path: sources/extracted/src-5d67965c2eceb3d6.txt
+- id: src-5dc7564c40ec912d
+  sha256: 5dc7564c40ec912df1957290952d6f9fabc75a40e65e62d6a9156c1cc0741e9a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/omegaTtranslations_target/Cv Alessandro Aprile
+    ago2015 - noApp - english.docx.html
+  size_bytes: 11372
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 4479
+  text_sha256: 1a795ab3fc4302100c66c2dbe636779822117dcc05ff7850fa42d3f60c9633ba
+  flags: []
+  extracted_path: sources/extracted/src-5dc7564c40ec912d.txt
+- id: src-5f2f0d3defeb55f8
+  sha256: 5f2f0d3defeb55f8a368bcbcb81fa14e91106bec303142ac648abbbbc8599745
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/package-lock.json
+  size_bytes: 85941
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 85941
+  text_sha256: 5f2f0d3defeb55f8a368bcbcb81fa14e91106bec303142ac648abbbbc8599745
+  flags: []
+  extracted_path: sources/extracted/src-5f2f0d3defeb55f8.txt
+- id: src-5f6ee27de444452a
+  sha256: 5f6ee27de444452a1279787946f8d9d5db3b88e3376b7f951abb9c997c5439f0
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/mixins.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/mixins.less
+  size_bytes: 926
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-5f81afe7ad1d863f
+  sha256: 5f81afe7ad1d863feebc4b7f59d75afcbb597c9db09b7c56d4211a56bedf01a6
+  paths:
+  - sources/raw/hd_locale/per_candidature_ministero_europass/CV AAprile_ministero 1.doc
+  - sources/raw/hd_locale/per_candidature_ministero_europass/CV AAprile_ministero.doc
+  size_bytes: 138240
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: libreoffice-text
+  characters: 1494
+  text_sha256: 83ac4453c55ed7d42ade8ea01e96f3d1e51932030a4b6e49dcb3523e06224a7e
+  flags: []
+  extracted_path: sources/extracted/src-5f81afe7ad1d863f.txt
+- id: src-5fedc6a303ecc31c
+  sha256: 5fedc6a303ecc31cb0219c99ee4222fc52ffece78098d6793c799e8d9d8f6749
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/scss/layout.scss
+  size_bytes: 4299
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-60562f50adc99512
+  sha256: 60562f50adc9951276bd475a084d1553e37b501d23948e0b14f7b9f30ee3bf9d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - sviluppo mobile.md
+  size_bytes: 11041
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 10985
+  text_sha256: 60562f50adc9951276bd475a084d1553e37b501d23948e0b14f7b9f30ee3bf9d
+  flags: []
+  extracted_path: sources/extracted/src-60562f50adc99512.txt
+- id: src-61ba8a8acfb82a1c
+  sha256: 61ba8a8acfb82a1c97d47a81e9effc40479b7d6791a470a83f9302d05237f2cc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/images/white-gulp.svg
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/images/white-gulp.svg
+  size_bytes: 10038
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-62477957abecf772
+  sha256: 62477957abecf77236bcc3529d33b8680ae2691100692d59f90fd047df22f908
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/.DS_Store
+  size_bytes: 6148
+  category: document_candidate
+  status: needs_manual_review
+  date: null
+  date_basis: not_assigned
+  method: binary-not-text
+- id: src-64843be85f6e8dcd
+  sha256: 64843be85f6e8dcd840b6e626b9ad902dbb6e4145899ff73f238ba05468dcbc5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/gulpfile.js
+  size_bytes: 1035
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-65d58873b5127b19
+  sha256: 65d58873b5127b19a9a3586dea33387561f0734a4b27c11eeebabfc080b03b51
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/Curriculum vitae ALESSANDRO APRILE europeo ago2015 - noapp.odt
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae ALESSANDRO APRILE europeo
+    ago2015 - noapp.odt
+  size_bytes: 1656707
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 8926
+  text_sha256: f7ecd447db222254a0817aeb09aa7119c41693e5723bdb2fd85b715c954fdc23
+  flags: []
+  extracted_path: sources/extracted/src-65d58873b5127b19.txt
+- id: src-65e452fd736d7d5d
+  sha256: 65e452fd736d7d5d25df5cdfa111f366a8005055304898d5e9ff99b76c707de5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx.md
+  size_bytes: 23941
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 23871
+  text_sha256: 65e452fd736d7d5d25df5cdfa111f366a8005055304898d5e9ff99b76c707de5
+  flags: []
+  extracted_path: sources/extracted/src-65e452fd736d7d5d.txt
+- id: src-66c94daab8fdab39
+  sha256: 66c94daab8fdab39b5df71f3e690945e60770334da65c6a3f1cb3028616d633f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted.html
+  size_bytes: 30696
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 22223
+  text_sha256: 7643b0bc2eed06099edd8fdb848bf15af1c9b7224f6b8062e4c77952cde0ab8c
+  flags: []
+  extracted_path: sources/extracted/src-66c94daab8fdab39.txt
+- id: src-66f5046fd611f0fb
+  sha256: 66f5046fd611f0fb9cc2d25d93386a6a34f5b55165551a69d565bb74a1594aff
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_variables.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_variables.scss
+  size_bytes: 19284
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-6701c131dc6b16d9
+  sha256: 6701c131dc6b16d94fb5ff11e779e2173b4df26ca2febd8f3aef4597690228c9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/package.json
+  size_bytes: 424
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 424
+  text_sha256: 6701c131dc6b16d94fb5ff11e779e2173b4df26ca2febd8f3aef4597690228c9
+  flags: []
+  extracted_path: sources/extracted/src-6701c131dc6b16d9.txt
+- id: src-67848e8d8963cbbc
+  sha256: 67848e8d8963cbbc961b9f0f545901041f891aea0df5e72fbc2cd68848e45e7c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/site.json
+  size_bytes: 319
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 319
+  text_sha256: 67848e8d8963cbbc961b9f0f545901041f891aea0df5e72fbc2cd68848e45e7c
+  flags: []
+  extracted_path: sources/extracted/src-67848e8d8963cbbc.txt
+- id: src-699773dfa37fbfcf
+  sha256: 699773dfa37fbfcf3db2567f414bc6690c7161eeb4fd08a2de586d4061eb467b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulpfile.js.bak
+  size_bytes: 1996
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1996
+  text_sha256: 699773dfa37fbfcf3db2567f414bc6690c7161eeb4fd08a2de586d4061eb467b
+  flags: []
+  extracted_path: sources/extracted/src-699773dfa37fbfcf.txt
+- id: src-6a320a4d1eec93aa
+  sha256: 6a320a4d1eec93aa9938a4ffafd40389e06aef3d53e8ebee698c475987921cef
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx2_html_c46a586236c62a70.gif
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx_html_c46a586236c62a70.gif
+  size_bytes: 2571
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-6ad4810cceb43cb5
+  sha256: 6ad4810cceb43cb54b6e4c326569f7b24774e792fd09d680550683f71a4b8698
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/Curriculum vitae ALESSANDRO APRILE europeo ago2015 - noapp.docx
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae ALESSANDRO APRILE europeo
+    ago2015 - noapp.docx
+  size_bytes: 1656767
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 9319
+  text_sha256: c1674c109edaf5e2ec1a269b0cfebd98d28ee49841a340d07b6cfc1220c57ab7
+  flags: []
+  extracted_path: sources/extracted/src-6ad4810cceb43cb5.txt
+- id: src-6b156e0f4968c70f
+  sha256: 6b156e0f4968c70f044a8fb8fcce5fb64b2e29a41a23955f856d1d680b1f8d08
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile marzo2016 - Angular.odt
+  size_bytes: 95951
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 17995
+  text_sha256: 0583c89cd5f5fa5324df578d93af6aa595b0a9754702c7c179aabc85cac47587
+  flags: []
+  extracted_path: sources/extracted/src-6b156e0f4968c70f.txt
+- id: src-6b41b6fd8ea18912
+  sha256: 6b41b6fd8ea18912c3147213e4611c6da359daa4550e34c7c3cdf883026cbb1c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/partials/pagination.hbs
+  size_bytes: 528
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-6bf78f72f83ad0bf
+  sha256: 6bf78f72f83ad0bf3beb75cec065940083263d3f6658d9c88cbcbb225b3f98f3
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulptest/package.json
+  size_bytes: 298
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 298
+  text_sha256: 6bf78f72f83ad0bf3beb75cec065940083263d3f6658d9c88cbcbb225b3f98f3
+  flags: []
+  extracted_path: sources/extracted/src-6bf78f72f83ad0bf.txt
+- id: src-6bf8a34faddfe69b
+  sha256: 6bf8a34faddfe69b4693b98bd928c043299b41185e1e19658479393325c7ca91
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_4.docx
+  size_bytes: 22828
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 17743
+  text_sha256: dcc22c2e0962ad9da447eb139db89dc40bf1abebc5fd6c5a69ccb483eab4ccd7
+  flags: []
+  extracted_path: sources/extracted/src-6bf8a34faddfe69b.txt
+- id: src-6c5c378f4cb178d6
+  sha256: 6c5c378f4cb178d684ef8e4e93fe8c4313c5cadfa83fd3440d785762f5e1e1d5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/omegaTtranslations_target/Cv Alessandro Aprile
+    ago2015 - noApp.md.txt
+  size_bytes: 7592
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 7577
+  text_sha256: 6c5c378f4cb178d684ef8e4e93fe8c4313c5cadfa83fd3440d785762f5e1e1d5
+  flags: []
+  extracted_path: sources/extracted/src-6c5c378f4cb178d6.txt
+- id: src-6d43bbe6c93b0f7d
+  sha256: 6d43bbe6c93b0f7de041880f7156d3b11a94ebeff50c72eb75c2040be284adb7
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_layouts/base.nunjucks
+  size_bytes: 1068
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-6e4c2c947e9d4824
+  sha256: 6e4c2c947e9d48243abc4207c99606f41c9531a106c0db4b06bce12f9cca77c6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/404.html
+  size_bytes: 398
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 88
+  text_sha256: c18fc70ab4cbc2f85d7cd58514bff4a431de3ceb2736620d65a6cd35408b1e4f
+  flags: []
+  extracted_path: sources/extracted/src-6e4c2c947e9d4824.txt
+- id: src-6e86afb62f61ee8e
+  sha256: 6e86afb62f61ee8e08d00974f56bd8e2eb7f9fd261a9d54ae2f483320f5eaf71
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/css/reset.css
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/less/reset/basic-reset.less
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/scss/reset/_basic-reset.scss
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/css/reset.css
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/less/reset/basic-reset.less
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/scss/reset/_basic-reset.scss
+  size_bytes: 30
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-70f33fd079ab7085
+  sha256: 70f33fd079ab708587c63b5884e04b31a3f46fd33923cb046621ff18b1bd99d2
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_stacked.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_stacked.scss
+  size_bytes: 482
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-71ba4fd18b1274a7
+  sha256: 71ba4fd18b1274a76a7cf4c389425b10f85fcf39b7b0baca5053d46a7c540bbc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017.md.20170901
+  size_bytes: 24366
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-7364b77af2838a82
+  sha256: 7364b77af2838a828bc7ba4dd6612d0ac955e2730fbbc8dccb2fc06412c5bfd4
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/cvAAprileMag18Docx.pdf
+  - sources/raw/hd old dell 2021 - seagate/cvAAprileMag18Docx_20180613_202139621 (2).pdf
+  - sources/raw/hd old dell 2021 - seagate/cvAAprileMag18Docx_20180613_202139621.pdf
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileMag18Docx.pdf
+  size_bytes: 136603
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 37340
+  text_sha256: 4e75f32942a5dee992b808cee0886d60cacbb5655bd0db9c1ef672a74b645aa4
+  flags: []
+  extracted_path: sources/extracted/src-7364b77af2838a82.txt
+- id: src-743a7439a70cb60a
+  sha256: 743a7439a70cb60aea4360559b1fa4101bc6c259fdd7983e02d012214a3e475a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/fonts.js
+  size_bytes: 291
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-751eabd3f2bd89e7
+  sha256: 751eabd3f2bd89e7b1f7f146fa88f76edb478ba7aa0ecd3eab067a6eb930242e
+  paths:
+  - sources/raw/hd_locale/apprendo/leoanrdo/AAprile_CV_Leonardo_React_10-2026_template.md
+  size_bytes: 20359
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 20153
+  text_sha256: 751eabd3f2bd89e7b1f7f146fa88f76edb478ba7aa0ecd3eab067a6eb930242e
+  flags:
+  - template_in_filename
+  extracted_path: sources/extracted/src-751eabd3f2bd89e7.txt
+- id: src-754484f3fe5feac5
+  sha256: 754484f3fe5feac51be32491ae7c7665045bf1fe6eb70c7ff14905ca2fb7313d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/scss/style.scss
+  size_bytes: 127
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-75e13169f0b6e316
+  sha256: 75e13169f0b6e3168301566016b53d3f5eca07b82fe556bbddd6f4c4b934735f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/.editorconfig
+  size_bytes: 160
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 160
+  text_sha256: 75e13169f0b6e3168301566016b53d3f5eca07b82fe556bbddd6f4c4b934735f
+  flags: []
+  extracted_path: sources/extracted/src-75e13169f0b6e316.txt
+- id: src-75e489ff5dca1b0d
+  sha256: 75e489ff5dca1b0d8287316f292ad664da12edaf6cf5c9176bc5aa8f1bde05fa
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/dist/styles.css
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/dist/styles.css
+  size_bytes: 1553
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-75e839b8ea2e196a
+  sha256: 75e839b8ea2e196a7bae550c33b8f70295c9eb8c2ab5db6b33680d9a428345b2
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae ALESSANDRO APRILE europeo
+    2013.odt
+  size_bytes: 104210
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 5966
+  text_sha256: a94489d6d59e304bad85602d105fae7280783d4b4280d74a5f014c47f1e3dff4
+  flags: []
+  extracted_path: sources/extracted/src-75e839b8ea2e196a.txt
+- id: src-76ee2ca9430245ea
+  sha256: 76ee2ca9430245ea4165cd16bd74b05d68a9d786eb43c69926e480d30840634e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/crossdomain.xml
+  size_bytes: 603
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-7800e6b913c6e8b0
+  sha256: 7800e6b913c6e8b0335a2f72c1cc83d9057ce75f9484ef5e9929209b12c4e29c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/package.json
+  size_bytes: 1072
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1072
+  text_sha256: 7800e6b913c6e8b0335a2f72c1cc83d9057ce75f9484ef5e9929209b12c4e29c
+  flags: []
+  extracted_path: sources/extracted/src-7800e6b913c6e8b0.txt
+- id: src-78f9552553add329
+  sha256: 78f9552553add32967bf55074afb860959739bf0a05ab9de76543d6a91d1c234
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_images/yeogurt-swirl.png
+  size_bytes: 4074
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-7961070f76a33c13
+  sha256: 7961070f76a33c1307de19ce2a93dc2b26d6747fa759aee5045118644c758acc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/fonts/FontAwesome.otf
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/fonts/FontAwesome.otf
+  size_bytes: 106260
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-79727cb6aa668b45
+  sha256: 79727cb6aa668b4515e0c6187653120129783e82e3f47e9e12a8d7b9cce59241
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/path.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/path.less
+  size_bytes: 770
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-79b4169a57a2f7db
+  sha256: 79b4169a57a2f7dbb20d6f1e2dfb99de73e1a84b683b83cd630a06e771bef270
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/sass/style.scss
+  size_bytes: 769
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-79b4612beab98d8d
+  sha256: 79b4612beab98d8d02b50effd3c66111c134317bea003e0a067d4381691f11f5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/scss/syntax-highlighting.scss
+  size_bytes: 3355
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-7b8606e22b543740
+  sha256: 7b8606e22b5437402086750c0f2888b5b8d394ff5ea684f161def493b65b951c
+  paths:
+  - sources/raw/hd_locale/apprendo/leoanrdo/AAprile_CV_Leonardo_React_10-2026_rev2.docx
+  size_bytes: 38229
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 12664
+  text_sha256: 42ea3f0ab5d5c9345fc097d4a171092a11bfc0380c87849d1159c97ccf6765ee
+  flags: []
+  extracted_path: sources/extracted/src-7b8606e22b543740.txt
+- id: src-7bc3e61d65e5cdc7
+  sha256: 7bc3e61d65e5cdc74533e53ace2ee99a18634f8fdf69096337e111cb345d95a1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulpfile.babel.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulpfile.babel.js
+  size_bytes: 1700
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-7be0351478aaa244
+  sha256: 7be0351478aaa2440db25d666ea58c9dd3929adf0d76c419e97361251985a9a2
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/browserify.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/browserify.js
+  size_bytes: 3018
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-7cb431a73481b07b
+  sha256: 7cb431a73481b07b20c0572d5862389dcec2445a03033955f68864f4392bdde4
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile otto2014_redux - App
+    ibride.docx
+  size_bytes: 15331
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 11267
+  text_sha256: 2f0a1a1d27c1e34445d070ce4a68def7929dcead7e5af2e6b5165ab40f56d49d
+  flags: []
+  extracted_path: sources/extracted/src-7cb431a73481b07b.txt
+- id: src-7e7bd999e79b02e8
+  sha256: 7e7bd999e79b02e8dd5f2d30c42a1b1d117fda0f70aca02dcd3dc907739e94dc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/scss/main.scss
+  size_bytes: 45
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-7e83f6b1d11cdc91
+  sha256: 7e83f6b1d11cdc91b0ac807227f8d999d803b67ecc82d1beecc84c2ec4800898
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile marzo2017 - Angular.odt
+  size_bytes: 44531
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 20888
+  text_sha256: f5a4da823c942fd86d002968b67d828986dc2658b61d5f25a8743f2b443928ae
+  flags: []
+  extracted_path: sources/extracted/src-7e83f6b1d11cdc91.txt
+- id: src-7efb89979f9b7610
+  sha256: 7efb89979f9b7610c82cca3a01553210f8374ebb647b4c0c61c574683235e3a4
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/README.md
+  size_bytes: 1979
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1979
+  text_sha256: 7efb89979f9b7610c82cca3a01553210f8374ebb647b4c0c61c574683235e3a4
+  flags: []
+  extracted_path: sources/extracted/src-7efb89979f9b7610.txt
+- id: src-7f114b1184fe3b89
+  sha256: 7f114b1184fe3b89a4ce4fe1d440a84f7c145abd8316adead172f64df8b153a9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_layouts/README.md
+  size_bytes: 1724
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1724
+  text_sha256: 7f114b1184fe3b89a4ce4fe1d440a84f7c145abd8316adead172f64df8b153a9
+  flags: []
+  extracted_path: sources/extracted/src-7f114b1184fe3b89.txt
+- id: src-7f75a1cce64c5dbf
+  sha256: 7f75a1cce64c5dbfd0f1d9498feb005f598c95b87459e9c094806e6e20a499e8
+  paths:
+  - sources/raw/hd_locale/apprendo/AAprile_CV_Apprendo.docx
+  size_bytes: 33509
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 3551
+  text_sha256: 9590ca45cd70521ab4b509bb0b154a18340947c8c4e487f16f4fe8cd84d47010
+  flags:
+  - placeholder_content
+  extracted_path: sources/extracted/src-7f75a1cce64c5dbf.txt
+- id: src-7f8a901bafd08d2c
+  sha256: 7f8a901bafd08d2cfb71b0843f17c7a42871d5dc739db694b351cf48bf0f14a4
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/clean.js
+  size_bytes: 526
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-801f4f39e5407c76
+  sha256: 801f4f39e5407c76f42b0e0614b1c6d69bb34cc07cac972b6be6426c2b7dd057
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/cvAAprileGen18Docx.txt
+  size_bytes: 21111
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 20602
+  text_sha256: a766500e89d764af02ef9d390982ebeeff548f16d0a68ff45ca2e48a19d03b6e
+  flags: []
+  extracted_path: sources/extracted/src-801f4f39e5407c76.txt
+- id: src-80dbde48cec50b0f
+  sha256: 80dbde48cec50b0fe1db8739c35cfde8d9b2044f3b36fcdc776d5f3458a31c5f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/tile.png
+  size_bytes: 3482
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-8223c10942cc5333
+  sha256: 8223c10942cc5333487322bb7388d7dd0b3e099f32757ef923bdd396a1262ea1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017.odt
+  size_bytes: 30851
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 22706
+  text_sha256: cbf0d40b25aea7e44c90fc7680c0f2a9d767afc9165a978bf88ef6434ebcac7f
+  flags: []
+  extracted_path: sources/extracted/src-8223c10942cc5333.txt
+- id: src-832875940cd0a239
+  sha256: 832875940cd0a2394dcb261cfee97523226b3bc16fa1f6ec439d4d8db04ca9b3
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_layouts/page.html
+  size_bytes: 209
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 57
+  text_sha256: 63de1a4196c2550d239285dfd097305d81b3dbed5ea683d34ec88ea42f5007ed
+  flags: []
+  extracted_path: sources/extracted/src-832875940cd0a239.txt
+- id: src-84a03d605695b1dd
+  sha256: 84a03d605695b1dd4f26eef46c8e39fa38de842179e15c18430ef147292f8faf
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/page.hbs
+  size_bytes: 290
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-8a05089f7b3f6bc4
+  sha256: 8a05089f7b3f6bc430086a6cc9c3cf9c18a2ca1665fb24d2a5310b2187b78220
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/Gemfile.lock
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/Gemfile.lock
+  size_bytes: 5322
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-8a9b086cfffadcf8
+  sha256: 8a9b086cfffadcf848e1557f32b1768845c927b4417110b02a4b4a6ae7956710
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile otto2014 - App ibride.rtf
+  size_bytes: 21377
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 12791
+  text_sha256: 0c8bbbe0b35ba028892ee4c022df4d15560e3242e43ba5547f02a50d746eae19
+  flags: []
+  extracted_path: sources/extracted/src-8a9b086cfffadcf8.txt
+- id: src-8ae46a01abbefcd5
+  sha256: 8ae46a01abbefcd54bcffeccd8f447da329c408e3ea5c470132b2778d50f1c20
+  paths:
+  - sources/raw/hd_locale/apprendo/leoanrdo/AAprile_CV_Leonardo_React_10-2026_template.docx
+  size_bytes: 42051
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 19734
+  text_sha256: 502e14b67385a54941a1815951f8cca875c12ea6776c0aa359690f2c9266ac41
+  flags:
+  - template_in_filename
+  extracted_path: sources/extracted/src-8ae46a01abbefcd5.txt
+- id: src-8cffe8d94ad371a3
+  sha256: 8cffe8d94ad371a35f2c7e0bf6b43e60ae896e243e4fffed8a898f891081210b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/.editorconfig
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/.editorconfig
+  size_bytes: 214
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 214
+  text_sha256: 8cffe8d94ad371a35f2c7e0bf6b43e60ae896e243e4fffed8a898f891081210b
+  flags: []
+  extracted_path: sources/extracted/src-8cffe8d94ad371a3.txt
+- id: src-8e17416059f9e1ad
+  sha256: 8e17416059f9e1ada9694ae457d869c6c2941d9da66c9e9ac5d725ab45b50d81
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/css/font-awesome.css
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/css/font-awesome.css
+  size_bytes: 32318
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-8faf3a0e2dd6b571
+  sha256: 8faf3a0e2dd6b571eaca3b2078287b7ff7f8886fb48ec80477fb430eb27c5b42
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/yarn.lock
+  size_bytes: 264639
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-900e2531ca7544fa
+  sha256: 900e2531ca7544fa8f6e0db9996bd28d3970185ed810717a0a4879da135e5478
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_animated.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_animated.scss
+  size_bytes: 715
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-9142751cfed525db
+  sha256: 9142751cfed525db5fce31ddd13029f76a69000b3033496ca03cc9d6999e80cd
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/less/styles.less
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/less/styles.less
+  size_bytes: 312
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-919c2c1b60595274
+  sha256: 919c2c1b605952747978db39a6bd46681613735eb2c2ab43c3651c25f09d28a0
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_1.docx
+  size_bytes: 16326
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 17857
+  text_sha256: dca2f41754e67e8501011819f177f0e2aa8513095aebb8cfaa48e403a4aab127
+  flags: []
+  extracted_path: sources/extracted/src-919c2c1b60595274.txt
+- id: src-925ada83b9e816dc
+  sha256: 925ada83b9e816dce314ee406b5b9afe10b68596d70b9c6d7a6f08410b2ec3da
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/copy.js
+  size_bytes: 470
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-934473a43fa429ca
+  sha256: 934473a43fa429ca82c63d907f82458d1318305c445531511bb1f7f85baf3408
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/scripts/secondary-scripts.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/scripts/secondary-scripts.js
+  size_bytes: 64
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-936ffccdc35bc552
+  sha256: 936ffccdc35bc55221e669d0e76034af76ba8c080c1b1149144dbbd3b5311829
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/css/font-awesome.min.css
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/css/font-awesome.min.css
+  size_bytes: 26711
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-93ae81483be2e970
+  sha256: 93ae81483be2e9705db4cd911fa410bc2cf6c24f355dc5ac899de49fab854e63
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/scss/sweet-alert.scss
+  size_bytes: 22879
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-94b5107b6af10774
+  sha256: 94b5107b6af1077451a0e716eefc7112be3f0673a5d51336235712936e6e8d9a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/css/home.css
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/css/home.css
+  size_bytes: 265
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-95016f099e1b8dc7
+  sha256: 95016f099e1b8dc78e2c925920304987cbb255cdb92258e28e1b6e8c4b393e4e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/CV_Aprile Alessandro_2013-area.doc
+  size_bytes: 153600
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: libreoffice-text
+  characters: 9144
+  text_sha256: 75ca87d63c44caf13aa04d4caaf4185b79b26bb95f8bf20fa293a1893bcd221a
+  flags: []
+  extracted_path: sources/extracted/src-95016f099e1b8dc7.txt
+- id: src-954bdafde7f29239
+  sha256: 954bdafde7f29239ecfa67a50ad3f4ff0d7e2834910499ecc91d7932457c5520
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/package-lock.json
+  size_bytes: 438473
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 438473
+  text_sha256: 954bdafde7f29239ecfa67a50ad3f4ff0d7e2834910499ecc91d7932457c5520
+  flags: []
+  extracted_path: sources/extracted/src-954bdafde7f29239.txt
+- id: src-954e50eb493944e2
+  sha256: 954e50eb493944e2301d31dd50614f7259832f873ab851a67d3b2f26d9490b9c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/partials/footer/footer.html
+  size_bytes: 392
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 162
+  text_sha256: f58131b190c7e3dd4b2f92f5ddeac1e15e035229ae4db7fe7c755708ba951d82
+  flags: []
+  extracted_path: sources/extracted/src-954e50eb493944e2.txt
+- id: src-96b252992ae358ce
+  sha256: 96b252992ae358ce5b2a57b0c8ffdbfdedc58a41b3e5d590a71bb56236263b80
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/watch.js
+  size_bytes: 1151
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-9705d9f70482ddb8
+  sha256: 9705d9f70482ddb84a1e72e3f959498070ea2cbe69d84906085745cdd702bbbc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/10000201000000EF000000EFB218A0B229CA7910.png
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx2_html_b218a0b229ca7910.png
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx_html_b218a0b229ca7910.png
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/LF79AL copy.png
+  size_bytes: 124558
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-9850d8f4e4ddbe62
+  sha256: 9850d8f4e4ddbe62860d5c11799103b2511310be94d848ac08b3bb5d73cf30d1
+  paths:
+  - sources/raw/hd_locale/vari/cv-alessandro-aprile-italiano-aggiornato.docx
+  size_bytes: 6519626
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 10000
+  text_sha256: c7e59a70e2dedf701af05ee70f8f8a55886ef0728f4c0120d146a44041c36818
+  flags: []
+  extracted_path: sources/extracted/src-9850d8f4e4ddbe62.txt
+- id: src-9865a7fe6fb38cb9
+  sha256: 9865a7fe6fb38cb9ace4c75655885baad3fb053260c68b4a62c94f1c02693bf0
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/.gitignore
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/.gitignore
+  size_bytes: 46
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 46
+  text_sha256: 9865a7fe6fb38cb9ace4c75655885baad3fb053260c68b4a62c94f1c02693bf0
+  flags: []
+  extracted_path: sources/extracted/src-9865a7fe6fb38cb9.txt
+- id: src-98eb0256586b01ed
+  sha256: 98eb0256586b01ed374c0003afdf4410d30ee503dde5bd1a9a8510ae37c6e127
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/images/sample-blog-post.jpg
+  size_bytes: 22908
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-9a619f438b989fb6
+  sha256: 9a619f438b989fb619cbea562cf056cefc2fb79f3621bf2706a99683d61f7a88
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/js/main.js
+  size_bytes: 369
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-9caf00c20fdfb34a
+  sha256: 9caf00c20fdfb34af1421f8d619438c492153e6f4d4c5b39a6a4c9ba1c2c9b0a
+  paths:
+  - sources/raw/hd_locale/download/CV_Aprendo_finale.docx
+  size_bytes: 18510
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 17922
+  text_sha256: d82c79301f8888858f8b277ceb9e6cc154882425c255166d5f2e53fb8968bc88
+  flags: []
+  extracted_path: sources/extracted/src-9caf00c20fdfb34a.txt
+- id: src-9e7214fa70644e50
+  sha256: 9e7214fa70644e50c729f51d48b622ba93a468c2d4999244f6df05e4c6a5d5d0
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileMag18Docx.html
+  size_bytes: 68045
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 13086
+  text_sha256: 1f02d8e28e046333e3e364a6254fa5536976f019783ab5c13885d4067050fa7f
+  flags: []
+  extracted_path: sources/extracted/src-9e7214fa70644e50.txt
+- id: src-9fdf8f35088a685c
+  sha256: 9fdf8f35088a685c94286bb36cdfd4c5d60e589e0480a22f1876d956f103f6b9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileMag18Docx.docx
+  size_bytes: 150228
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21537
+  text_sha256: f4c8426eed373e933de84d83f7d74af10c99eaf90cf4520427e9fbf8c8268d63
+  flags: []
+  extracted_path: sources/extracted/src-9fdf8f35088a685c.txt
+- id: src-a176bee2fc8ad906
+  sha256: a176bee2fc8ad906404e6b7ee08699b273913509bf63f1f61d33ff7360500274
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_scripts/README.md
+  size_bytes: 2458
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 2458
+  text_sha256: a176bee2fc8ad906404e6b7ee08699b273913509bf63f1f61d33ff7360500274
+  flags: []
+  extracted_path: sources/extracted/src-a176bee2fc8ad906.txt
+- id: src-a201c479e6c03b86
+  sha256: a201c479e6c03b865085b3e3e3a3ca3871718c9921c47be49154eaceb3e1862f
+  paths:
+  - sources/raw/hd_locale/thinkopen/CV TOP - Alessandro Aprile_aggiornato23ingleseCondensedTemplateDEVWay.docx
+  size_bytes: 17717
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 12988
+  text_sha256: 13776fea4fb684b1f717d976f8a6d74f5d668828ce72ba071ada050122004260
+  flags:
+  - template_in_filename
+  extracted_path: sources/extracted/src-a201c479e6c03b86.txt
+- id: src-a3228be89cb16dac
+  sha256: a3228be89cb16dac6a78256bb621f22009c593689a4cf60999d6442a0df57040
+  paths:
+  - sources/raw/hd_locale/download/cv-alessandro-aprile-italiano-aggiornato.odt
+  size_bytes: 16305
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 10012
+  text_sha256: f5696b717c8a856210fda8eef39b0ede668fc636b92c88a01d3dc11857cb9f25
+  flags: []
+  extracted_path: sources/extracted/src-a3228be89cb16dac.txt
+- id: src-a3d0f084aab44390
+  sha256: a3d0f084aab443902f8cc4faada692499dac5f017d2648db6d91c53930e3d8ea
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - App ibride.rtf
+  size_bytes: 17763
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 10322
+  text_sha256: 7bfeed84a4998c1ddd16ed033d1fa1a6572d9bc800b481575799c2e6a14f0966
+  flags: []
+  extracted_path: sources/extracted/src-a3d0f084aab44390.txt
+- id: src-a4a93d598134f656
+  sha256: a4a93d598134f656ac6c7a0a5f375afa941e71e348e68ecf3cd6feb7616acf9e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/core.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/core.less
+  size_bytes: 452
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-a5f6e08167efcdb1
+  sha256: a5f6e08167efcdb1720a8f8f78c150572172fe5726940f991e8080d9be9af23f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/hcard.html
+  size_bytes: 1925
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 594
+  text_sha256: 8738aaecb823f802def921603f47d0b642a94ecb220c1f49f0debfcb46b3d023
+  flags: []
+  extracted_path: sources/extracted/src-a5f6e08167efcdb1.txt
+- id: src-a758cf4ce9948772
+  sha256: a758cf4ce99487720a401daf9403b4ad490c5ce2cb9a7914a3a031f3f09bd075
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_modules/link/link.scss
+  size_bytes: 219
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-a7a40c29de7b6449
+  sha256: a7a40c29de7b64497a716cb828b75b9bb92c3248ec54852f56755042c1d7c956
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/dist/secondary-scripts.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/dist/secondary-scripts.js
+  size_bytes: 44
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-a7c7e4930090e038
+  sha256: a7c7e4930090e038a280fd61d88f0dc03dad4aeaedbd8c9be3dd9aa4c3b6f8d1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/fonts/fontawesome-webfont.woff
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/fonts/fontawesome-webfont.woff
+  size_bytes: 81284
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-a84423cf51dba42b
+  sha256: a84423cf51dba42bce01e1b49e7714f0fd71875c43db4e11611d068439e4f8fc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/dist/scripts.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/dist/scripts.js
+  size_bytes: 3037
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-a8632245ebde5328
+  sha256: a8632245ebde5328f576987078292739e20f2b68a5b3c89158923fb96afed350
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_layouts/default.html
+  size_bytes: 305
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 93
+  text_sha256: c06b697eafa2c60261be2e55039c79656cc1459f0f71f40fc4de10f9345929fd
+  flags: []
+  extracted_path: sources/extracted/src-a8632245ebde5328.txt
+- id: src-a86adbcd5d7b5359
+  sha256: a86adbcd5d7b53598bce020fd8019e3bef7c0daca788e2dc4f82f4fb737db7c8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/Gemfile
+  size_bytes: 118
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 118
+  text_sha256: a86adbcd5d7b53598bce020fd8019e3bef7c0daca788e2dc4f82f4fb737db7c8
+  flags: []
+  extracted_path: sources/extracted/src-a86adbcd5d7b5359.txt
+- id: src-a91f1b150e3e8283
+  sha256: a91f1b150e3e82830fb1b4e16a9ef470daf5d71f9e1935a80fdceda8f3bccb8b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/.editorconfig
+  size_bytes: 188
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 188
+  text_sha256: a91f1b150e3e82830fb1b4e16a9ef470daf5d71f9e1935a80fdceda8f3bccb8b
+  flags: []
+  extracted_path: sources/extracted/src-a91f1b150e3e8283.txt
+- id: src-abf7988c38b21b5f
+  sha256: abf7988c38b21b5f358a9b472f8bf6121efed5b6eb0657e356e17c21e0c8ef08
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/eslint.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/eslint.js
+  size_bytes: 772
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-ae9c7f7d5ca9ae32
+  sha256: ae9c7f7d5ca9ae3211ff44e6e1ff5a956b025b3b895e5fc460317b3790cc8bdc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/imagemin.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/imagemin.js
+  size_bytes: 724
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-b0e7dacaf1fa7624
+  sha256: b0e7dacaf1fa76245a65483a3d47bce5cd34de3048d795c655a4a2e6fa24aeff
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_1_ATS-friendly.md
+  size_bytes: 19156
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 18967
+  text_sha256: b0e7dacaf1fa76245a65483a3d47bce5cd34de3048d795c655a4a2e6fa24aeff
+  flags: []
+  extracted_path: sources/extracted/src-b0e7dacaf1fa7624.txt
+- id: src-b3079901d1f6d3f1
+  sha256: b3079901d1f6d3f175d5d6101afaabc97b62cd1a134e5e8f0c900493913baf67
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/.eslintrc
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/.eslintrc
+  size_bytes: 856
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 856
+  text_sha256: b3079901d1f6d3f175d5d6101afaabc97b62cd1a134e5e8f0c900493913baf67
+  flags: []
+  extracted_path: sources/extracted/src-b3079901d1f6d3f1.txt
+- id: src-b54f829770c903eb
+  sha256: b54f829770c903eb9787d7e6d333cf991b124fba1a69b3f5466c409f9dbbb805
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017.md
+  size_bytes: 24389
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 24313
+  text_sha256: b54f829770c903eb9787d7e6d333cf991b124fba1a69b3f5466c409f9dbbb805
+  flags: []
+  extracted_path: sources/extracted/src-b54f829770c903eb.txt
+- id: src-b56c46e6f84f32d0
+  sha256: b56c46e6f84f32d0d45549d6267b5394832404c96307fe9db8fe77f624f6df43
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/font-awesome.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/font-awesome.less
+  size_bytes: 465
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-b6d5a3b8cb36a961
+  sha256: b6d5a3b8cb36a9616e4b42e52847e6fe35e859fb4db298906ce70d7b673a8d57
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx.html
+  size_bytes: 31610
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 23135
+  text_sha256: b9e4f9cc068413d267036e263d013850d94c09e88df4de907fb16b4be1fb2da8
+  flags: []
+  extracted_path: sources/extracted/src-b6d5a3b8cb36a961.txt
+- id: src-b78998905f0667a5
+  sha256: b78998905f0667a50281a0dcf764ab9e18f4d62aaea60c1f0019df31aa36a743
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/anniElavori.md
+  size_bytes: 1596
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1596
+  text_sha256: b78998905f0667a50281a0dcf764ab9e18f4d62aaea60c1f0019df31aa36a743
+  flags:
+  - placeholder_content
+  extracted_path: sources/extracted/src-b78998905f0667a5.txt
+- id: src-b81bdd2a80800f42
+  sha256: b81bdd2a80800f42a46ee36ce6bed7117b6d79a26660e31f7ea7efce9f6fee09
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx_years.html
+  size_bytes: 37576
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 23453
+  text_sha256: ad9ec8138d18bbdbf7efe5316ace2bafaf977b81849379281e38bf7b5906110c
+  flags: []
+  extracted_path: sources/extracted/src-b81bdd2a80800f42.txt
+- id: src-b8af091aaf5c9780
+  sha256: b8af091aaf5c9780f5340f64bb6aa64b4624342e3ea1aa1f2e80b46fa60ee552
+  paths:
+  - sources/raw/hd_locale/cv_grafici_erika_supporto_disoccupazione/Modern Professional CV Resume (2).pdf
+  - sources/raw/hd_locale/cv_grafici_erika_supporto_disoccupazione/Modern Professional CV Resume (3).pdf
+  size_bytes: 436588
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 8874
+  text_sha256: b751e488ba6339094e2b2b7afaf33c51bb7d377d17ccf06365e391932c5c239d
+  flags: []
+  extracted_path: sources/extracted/src-b8af091aaf5c9780.txt
+- id: src-b8b0b3478e04e868
+  sha256: b8b0b3478e04e868ef0cd5fa3fb291524f1932144d1bd3427d156afe369194e9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_fixed-width.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_fixed-width.scss
+  size_bytes: 120
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-b8c7354bbbbd057d
+  sha256: b8c7354bbbbd057d4fcaeece74e11a96b97b6c019aad6369b55781af864dd91d
+  paths:
+  - sources/raw/hd_locale/apprendo/CV_Alessandro_Aprile_Stile_Apprendo_MASTER.md
+  size_bytes: 19104
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 18774
+  text_sha256: b8c7354bbbbd057d4fcaeece74e11a96b97b6c019aad6369b55781af864dd91d
+  flags: []
+  extracted_path: sources/extracted/src-b8c7354bbbbd057d.txt
+- id: src-b8f2e31eea07d414
+  sha256: b8f2e31eea07d414cc61d5434e54f76a4b9b90f34bb38646c7d1cd0f8d5b0a27
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/__MACOSX/._cvAAprileMag18Docx.pdf
+  size_bytes: 267
+  category: filesystem_metadata
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-b956b8438beec18a
+  sha256: b956b8438beec18ac9ea3d0b235cbfe75981dd2898b260cf34a46d8588f62a26
+  paths:
+  - sources/raw/hd_locale/apprendo/AAprile_CV_ApprendoLuglio2026.docx
+  size_bytes: 41299
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21578
+  text_sha256: a7a11ac21270fa2070507f625e1dc296efdc2bb666e030b493467b197b0674f6
+  flags: []
+  extracted_path: sources/extracted/src-b956b8438beec18a.txt
+- id: src-b9a4d3a34651afab
+  sha256: b9a4d3a34651afab0315b61380c4696ff23896f42f812e807759052068be3a5e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_modules/README.md
+  size_bytes: 1224
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1146
+  text_sha256: b9a4d3a34651afab0315b61380c4696ff23896f42f812e807759052068be3a5e
+  flags: []
+  extracted_path: sources/extracted/src-b9a4d3a34651afab.txt
+- id: src-ba1be3dfad9dabde
+  sha256: ba1be3dfad9dabdebc087fd59095f25f8ccebb7d0c59fd2cb11075a656a77638
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/index.md
+  size_bytes: 213
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 213
+  text_sha256: ba1be3dfad9dabdebc087fd59095f25f8ccebb7d0c59fd2cb11075a656a77638
+  flags: []
+  extracted_path: sources/extracted/src-ba1be3dfad9dabde.txt
+- id: src-ba1e0d3e45ec626f
+  sha256: ba1e0d3e45ec626f9af76958ae32945a14c0eaa487d743611e12ac8219f871da
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/Gemfile.lock
+  size_bytes: 1607
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-bc40d53becc7b02e
+  sha256: bc40d53becc7b02efb41eb2c1da32d9e2198e78a232dd12a8927350e5574a076
+  paths:
+  - sources/raw/hd_locale/apprendo/cv-alessandro-aprile-italiano-aggiornato 27-9-25.pdf
+  size_bytes: 236305
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 12399
+  text_sha256: d7e9e7142edd34dbf182daf461cd15ddef5e1f7f7f5f62a979e6cf17fb79251a
+  flags: []
+  extracted_path: sources/extracted/src-bc40d53becc7b02e.txt
+- id: src-bc9944151bb7aa63
+  sha256: bc9944151bb7aa63bbf55e3b03221c99a7028ad0deb6d207b34eabbf6a0f1b7b
+  paths:
+  - sources/raw/hd_locale/cv_grafici_erika_supporto_disoccupazione/cv-alessandro-aprile-svg-grafico3.pdf
+  size_bytes: 91424
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 1781
+  text_sha256: 897a9f8fd3ac42f43f7b08b7fff8cd2dd74447aec6b2d07f1fbf81c77a62a404
+  flags: []
+  extracted_path: sources/extracted/src-bc9944151bb7aa63.txt
+- id: src-bca6d0adec2fd924
+  sha256: bca6d0adec2fd9241e2a42710d7cdc236742a284fa0df2f05abd142d70119b15
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/nunjucks.js
+  size_bytes: 2388
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-bd95c3358a7fa91a
+  sha256: bd95c3358a7fa91ab228389f78e823a627f1679552f0e5b9f1c8e488887e6389
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/index.html
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/index.html
+  size_bytes: 574
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 63
+  text_sha256: 42321ad76306f46dd039ea3441804fd2d44e6cd0d3e47873055232f6324fd501
+  flags: []
+  extracted_path: sources/extracted/src-bd95c3358a7fa91a.txt
+- id: src-bd9f9aa28f7b9a74
+  sha256: bd9f9aa28f7b9a74c5b735aa37f78f49e59f2bda2f2955eb2ede176748cee1dc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/uploading.js
+  size_bytes: 768
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-be12b1c84cb138b8
+  sha256: be12b1c84cb138b8a7b40d0389b3780fc6507fc4897b52cdacdd4320fa666b6c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted.pdf
+  size_bytes: 151945
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 25759
+  text_sha256: 83f1b2702d2c26a1dee4942a4efa869e82d13860dccdff58f06c5862186f41fa
+  flags: []
+  extracted_path: sources/extracted/src-be12b1c84cb138b8.txt
+- id: src-be3815c48551d1a5
+  sha256: be3815c48551d1a5de157e98a1a19074d72832ac3f5c38dbfd9ca4d4a893bc85
+  paths:
+  - sources/raw/hd_locale/apprendo/Template_CV_Apprendo.docx
+  size_bytes: 30403
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 3551
+  text_sha256: 9590ca45cd70521ab4b509bb0b154a18340947c8c4e487f16f4fe8cd84d47010
+  flags:
+  - placeholder_content
+  - template_in_filename
+  extracted_path: sources/extracted/src-be3815c48551d1a5.txt
+- id: src-beaa15ba265c021d
+  sha256: beaa15ba265c021d632dcd41db63e70ffc3903c810430cf7060a98bf368ad64b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/cvAAprileGen18Docx.epub
+  size_bytes: 12169
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 19455
+  text_sha256: 82298d54f8fb85306e1926763d7d1bdb8b3501f937d72d9997ccd5ff2831a390
+  flags: []
+  extracted_path: sources/extracted/src-beaa15ba265c021d.txt
+- id: src-c03252d0196b4516
+  sha256: c03252d0196b4516a3605d378fb9669399db8aaae93e6ec7b5091ddf47b9dcb2
+  paths:
+  - sources/raw/hd_locale/download/CV_Alessandro_Aprile_Stile_Apprendo.docx
+  size_bytes: 39075
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 17922
+  text_sha256: d82c79301f8888858f8b277ceb9e6cc154882425c255166d5f2e53fb8968bc88
+  flags: []
+  extracted_path: sources/extracted/src-c03252d0196b4516.txt
+- id: src-c03f868a11693885
+  sha256: c03f868a116938850f06d5e20deb6b4849b1e1b30344215177d2e2a9c3a98670
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_icons.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_icons.scss
+  size_bytes: 43163
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-c0483f95e14512d0
+  sha256: c0483f95e14512d0b3ab2a312cb1fd92067be0882a88048a14f67d0d7475b91e
+  paths:
+  - sources/raw/hd_locale/apprendo/CV_ApprendoAAPRILE.docx
+  size_bytes: 36651
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 16761
+  text_sha256: cb3983239401a597555ec965a0924b481d307b9f2d96c71b7f03cab3a2690866
+  flags: []
+  extracted_path: sources/extracted/src-c0483f95e14512d0.txt
+- id: src-c090dacdcdceaba2
+  sha256: c090dacdcdceaba2a85af30a546c1f9e9b464d56482855f4b88735560e8695fc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017.pdf
+  size_bytes: 114115
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 24997
+  text_sha256: ba38124fd1375e1ae9134bfd976fe6f97865f47d21eb969658360ab7a0aea582
+  flags: []
+  extracted_path: sources/extracted/src-c090dacdcdceaba2.txt
+- id: src-c0a95b6018006671
+  sha256: c0a95b60180066713cc162e1ce4df2a07c22b0fffb0a754c63b4e7d599c9a8eb
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/dist/main.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/dist/main.js
+  size_bytes: 49
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-c143492f31dfe14b
+  sha256: c143492f31dfe14beb30c8ac069382d624b19a5ef4f2060bf91c28fc8f1f9c6c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
+  size_bytes: 20106
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-c3da368b88fcddae
+  sha256: c3da368b88fcddae44664124b141670b268dc2dbe2f32c1091c859606edae496
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/gulpfile.js
+  size_bytes: 173
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-c4380a0b1e4be4b6
+  sha256: c4380a0b1e4be4b6d069ad65ab0a00681013b47c6144d24e3b93ad63d63247bd
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/Curriculum vitae di ALESSANDRO APRILE MD def 210313.gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE MD def
+    210313 (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE MD def
+    210313.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1aZbskMcG0700YuPeVLf50P8ryTA_DEeTQJgxpRxAeok
+  document_id: 1aZbskMcG0700YuPeVLf50P8ryTA_DEeTQJgxpRxAeok
+- id: src-c45d3b7324f38ac7
+  sha256: c45d3b7324f38ac74f7d3cdfb6a848bfe31c6c045d2af9096fe68c85f06671a4
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/index.html
+  size_bytes: 32159
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 22223
+  text_sha256: 7643b0bc2eed06099edd8fdb848bf15af1c9b7224f6b8062e4c77952cde0ab8c
+  flags: []
+  extracted_path: sources/extracted/src-c45d3b7324f38ac7.txt
+- id: src-c5910864c3e1817a
+  sha256: c5910864c3e1817a2d4ae4bc2b1a9305945787388b25735d1f3db55c8c8682b6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/.yo-rc.json
+  size_bytes: 268
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 268
+  text_sha256: c5910864c3e1817a2d4ae4bc2b1a9305945787388b25735d1f3db55c8c8682b6
+  flags: []
+  extracted_path: sources/extracted/src-c5910864c3e1817a.txt
+- id: src-c5a8692a00741f32
+  sha256: c5a8692a00741f32610d4932bfbb69309a609d3e5b72a1f463ee6a81439bd094
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_modules/link/link.nunjucks
+  size_bytes: 364
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-c7035423d5a1e03d
+  sha256: c7035423d5a1e03d36bcfd6465481e4c4d5c91f316fa878a6e5103afe1b0bbf6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/animated.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/animated.less
+  size_bytes: 713
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-c74af62a1b78059b
+  sha256: c74af62a1b78059b6425e646a0ab500e57374bc50abe53330be705fbe8b71aeb
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/scss/styles.scss
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/scss/styles.scss
+  size_bytes: 312
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-c75fd4f689cc4149
+  sha256: c75fd4f689cc414949412901f9af290a776e48d80818173ed5f23485646ae0e1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/Untitled-1.html
+  size_bytes: 264
+  category: document_candidate
+  status: needs_manual_review
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+- id: src-c7f9d64b673c9c4b
+  sha256: c7f9d64b673c9c4bbb9e5487a138d1456a4c88e4bf372023e3afca7a6f4adff3
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx.docx
+  size_bytes: 22972
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21792
+  text_sha256: 27a889ef451dcd05c21967919b95c90255f3bfa91b9ddc29df9e5f63ed69718b
+  flags: []
+  extracted_path: sources/extracted/src-c7f9d64b673c9c4b.txt
+- id: src-c8f53bffaf9b4b16
+  sha256: c8f53bffaf9b4b16b0393bdead286ab474604683bf1279cb5e78e2888e98a8d7
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro Aprile - Cv.pdf
+  size_bytes: 721159
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 18666
+  text_sha256: 6b184d9e9a6f1c90e9fd7cadbd8d40d87a0e4c0941622a88ca9783a7926c3dda
+  flags: []
+  extracted_path: sources/extracted/src-c8f53bffaf9b4b16.txt
+- id: src-caa5e38e68568634
+  sha256: caa5e38e685686344da94aa1892fa3b5f5c1ed6a6d5fa048b2021658d45a3901
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/scripts/main.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/scripts/main.js
+  size_bytes: 326
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-cb49a508e8197b85
+  sha256: cb49a508e8197b851655f16b1a0b38e81d085b7cf6b438b70119bdbbbb98fd01
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv Alessandro Aprile 2013 eng (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv Alessandro Aprile 2013 eng.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1wc6Jnxza7RaDvmng6vv8XLy0TRGzknkRKqCAQUf_nY4
+  document_id: 1wc6Jnxza7RaDvmng6vv8XLy0TRGzknkRKqCAQUf_nY4
+- id: src-cb5060cad43bfdce
+  sha256: cb5060cad43bfdcead1c07c7ffae66455d1dc42c0fd51b4b20353d8e1c059987
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/.babelrc
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/.babelrc
+  size_bytes: 68
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 68
+  text_sha256: cb5060cad43bfdcead1c07c7ffae66455d1dc42c0fd51b4b20353d8e1c059987
+  flags: []
+  extracted_path: sources/extracted/src-cb5060cad43bfdce.txt
+- id: src-cbbf700476d6f582
+  sha256: cbbf700476d6f582dcff1c8ea07f08cfd0720a05acf27bb634600eeb44746275
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/fotoBase64.md
+  size_bytes: 166106
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 166106
+  text_sha256: cbbf700476d6f582dcff1c8ea07f08cfd0720a05acf27bb634600eeb44746275
+  flags: []
+  extracted_path: sources/extracted/src-cbbf700476d6f582.txt
+- id: src-cc7d76ac9c465280
+  sha256: cc7d76ac9c4652800d03537c95ea9e2b141311c437d39a0addab1669c723dc21
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/apple-touch-icon.png
+  size_bytes: 3959
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-cc9ea73c941434a2
+  sha256: cc9ea73c941434a21c95d56670d52d765753875b53220f2c75b94592a4614140
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/presentazione.md
+  size_bytes: 5563
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 5546
+  text_sha256: cc9ea73c941434a21c95d56670d52d765753875b53220f2c75b94592a4614140
+  flags: []
+  extracted_path: sources/extracted/src-cc9ea73c941434a2.txt
+- id: src-ccb4c4df3597e31f
+  sha256: ccb4c4df3597e31fefe232a2aff67eb2d3e988a1ca28f5fa6d6c8bb3aec5328e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/README.md
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/README.md
+  size_bytes: 1195
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1195
+  text_sha256: ccb4c4df3597e31fefe232a2aff67eb2d3e988a1ca28f5fa6d6c8bb3aec5328e
+  flags: []
+  extracted_path: sources/extracted/src-ccb4c4df3597e31f.txt
+- id: src-cdb8ae6b01ab6ace
+  sha256: cdb8ae6b01ab6acedcced833c621b789a375944fcc0aef215c8915358ba60b13
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_includes/icon-twitter.html
+  size_bytes: 180
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 53
+  text_sha256: 59c34324a2ce0ab0a99fcd662b4aa43efc56fd0c2d6c0597a0ee1fb8a1afa041
+  flags: []
+  extracted_path: sources/extracted/src-cdb8ae6b01ab6ace.txt
+- id: src-cdcaac3171ead991
+  sha256: cdcaac3171ead991116ff52fe654bdb55d67cfbc831ace521f50df66b423b82f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Curriculum vitae di ALESSANDRO APRILE MD def
+    171012.doc
+  size_bytes: 147456
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: libreoffice-text
+  characters: 6575
+  text_sha256: 222b913df2ba1de8e49e024fda9b2d51255136aac4521b41618afdd71e752155
+  flags: []
+  extracted_path: sources/extracted/src-cdcaac3171ead991.txt
+- id: src-ce4fb48489d770e6
+  sha256: ce4fb48489d770e6deb3ba7128a59e3255368ee633f1c82c55d1fcd641723281
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/post.hbs
+  size_bytes: 542
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-cf162a741910c867
+  sha256: cf162a741910c867515b15b3aed13a7f3d19a581a465d63c7c7f818f4c127d42
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_includes/icon-twitter.svg
+  size_bytes: 787
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d0947dfb47bf1031
+  sha256: d0947dfb47bf103102e544835c5d6d98847e2ba08a6dcce7cfa8d0edf203827a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it (1).pdf
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/CV_TOP_alessandro.aprile@thinkopen.it (3).pdf
+  size_bytes: 236448
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 19622
+  text_sha256: dd5822ebdde5da7aa2576ec8b8dacfd1f3795357d5154a4f246db792011b5fa9
+  flags: []
+  extracted_path: sources/extracted/src-d0947dfb47bf1031.txt
+- id: src-d1ca16cd8608441a
+  sha256: d1ca16cd8608441a21dafd2aeb96fba09e680e4e38b795be220602154fbe29d2
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/gulp/clean.js
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/clean.js
+  size_bytes: 299
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d1d28d405b932831
+  sha256: d1d28d405b9328313c843f7c1a40951ee1a738d632081beb76a0e072b407f549
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_bordered-pulled.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_bordered-pulled.scss
+  size_bytes: 592
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d294aeedeffd2645
+  sha256: d294aeedeffd2645e97186b373631b25cc1709b6d5fd97610a5c44ff815294fc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_data/README.md
+  size_bytes: 914
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 896
+  text_sha256: d294aeedeffd2645e97186b373631b25cc1709b6d5fd97610a5c44ff815294fc
+  flags: []
+  extracted_path: sources/extracted/src-d294aeedeffd2645.txt
+- id: src-d4f5a99224154f2a
+  sha256: d4f5a99224154f2a808e42a441ddc9248ffe78b7a4083684ce159270b30b912a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/fonts/fontawesome-webfont.eot
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/fonts/fontawesome-webfont.eot
+  size_bytes: 68875
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d5391874bd61dd28
+  sha256: d5391874bd61dd287a25d99fcd0aa0ff20c10532e90f0a7518b8f1b4723d5a84
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx_years_utf8.md
+  size_bytes: 24221
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 24148
+  text_sha256: 5499e10cdc37cb6903bd8fbf5780f94f29c06c63d146d59cd2c0db8f9f2d5cf8
+  flags: []
+  extracted_path: sources/extracted/src-d5391874bd61dd28.txt
+- id: src-d53df6872b584aad
+  sha256: d53df6872b584aadb28274f0e5ae9f757105a1ebc8911ab57e67847cdf34deac
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/Gemfile.20170721
+  size_bytes: 978
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d5430a6695febcd9
+  sha256: d5430a6695febcd9e7f5898041aed2b62060d1b8d7b782e0f4975210a0ddf38e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_list.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_list.scss
+  size_bytes: 378
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d67df95488eec84d
+  sha256: d67df95488eec84d2d0caf79727825a8ff4b2df90c604151783e3ec2388dad38
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/rotated-flipped.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/rotated-flipped.less
+  size_bytes: 622
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d6d0537970435a63
+  sha256: d6d0537970435a63c5c0f00b5c0f4c94fc23f0a9cd23f0527217c180f73cdb49
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_aprile_2011_fr.odt.zip
+  size_bytes: 134905
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-d8416b61196eeb6b
+  sha256: d8416b61196eeb6b71a630f57de364bffb6cda374a398ea681a798447620e015
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_styles/main.scss
+  size_bytes: 765
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-dace94f195b9c607
+  sha256: dace94f195b9c6078f0a82a986340b951572abaa1bc8364830c6486d81e4a27d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/Gemfile
+  size_bytes: 988
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 988
+  text_sha256: dace94f195b9c6078f0a82a986340b951572abaa1bc8364830c6486d81e4a27d
+  flags: []
+  extracted_path: sources/extracted/src-dace94f195b9c607.txt
+- id: src-db2974539e7628fa
+  sha256: db2974539e7628fa1d5fe9d0dcca39f6b8dbdbe06686d022c0f094a7bb6a90e8
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_3.docx
+  size_bytes: 16285
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 17839
+  text_sha256: 412eeb4b5ff3bafd28c8c1893cef582e8d2fb0f52a38a064971899918821b8e1
+  flags: []
+  extracted_path: sources/extracted/src-db2974539e7628fa.txt
+- id: src-dba1209a15e1c331
+  sha256: dba1209a15e1c331786510c23b521727520616693196b9130bf302e09bbcd9a5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017.html
+  size_bytes: 91557
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 23940
+  text_sha256: 749804f1c69a81feee7940c472db98528201b145b21d5771a2b69d91a9438ef7
+  flags: []
+  extracted_path: sources/extracted/src-dba1209a15e1c331.txt
+- id: src-dbf4814b1bef75fc
+  sha256: dbf4814b1bef75fcb0eab424b7e8b243c9c04e61779cf888911d4034c66fa5d7
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cv-yog/package.json
+  size_bytes: 2363
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 2363
+  text_sha256: dbf4814b1bef75fcb0eab424b7e8b243c9c04e61779cf888911d4034c66fa5d7
+  flags: []
+  extracted_path: sources/extracted/src-dbf4814b1bef75fc.txt
+- id: src-dc7ed37697faaf08
+  sha256: dc7ed37697faaf08a8bbfa0c25cd0df22b3826da0e3e3dd30ec8213db14d59d7
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/src/templates/partials/loop.hbs
+  size_bytes: 447
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-dcdf3c0b0866f539
+  sha256: dcdf3c0b0866f539af81637617520ce2eb5206c6ecbde3225d39067ce5a304d0
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato_1.md
+  size_bytes: 19203
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 18961
+  text_sha256: dcdf3c0b0866f539af81637617520ce2eb5206c6ecbde3225d39067ce5a304d0
+  flags: []
+  extracted_path: sources/extracted/src-dcdf3c0b0866f539.txt
+- id: src-dda097cd93b13819
+  sha256: dda097cd93b13819c5c9dda0d5c1baa52a4d02c74571f15bd301684044e6b5f8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx.pdf
+  size_bytes: 167214
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 38000
+  text_sha256: f919441985c3b2a981c57934683502f237463d1ca0b06702eecc799eda3ab2e4
+  flags: []
+  extracted_path: sources/extracted/src-dda097cd93b13819.txt
+- id: src-de18ba8e207efd72
+  sha256: de18ba8e207efd723af3a7c795eba50a33e8bb72932a7051de3afb9887b64cb6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/competenze.txt
+  size_bytes: 202
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 202
+  text_sha256: de18ba8e207efd723af3a7c795eba50a33e8bb72932a7051de3afb9887b64cb6
+  flags: []
+  extracted_path: sources/extracted/src-de18ba8e207efd72.txt
+- id: src-dfc79d4325804e9a
+  sha256: dfc79d4325804e9ade21ab65145b23b1c4193d24a893690bc47b5c0739ca3c0a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/larger.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/larger.less
+  size_bytes: 370
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e01547d7e630833c
+  sha256: e01547d7e630833c027d6d665f0e9f400f22733feddee9ec214a16b81ebb7d34
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/_scripts/main.js
+  size_bytes: 263
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e0546b96da1302c7
+  sha256: e0546b96da1302c77a886dc2558426cc56598250ca92e1cf948cfc7e6f7ec1ff
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/inject.js
+  size_bytes: 648
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e1d207aa2e034857
+  sha256: e1d207aa2e0348578cbbdc6ccf774397b5262aa9c92b85a0ee3834a3afa3b37b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted.docx
+  size_bytes: 19770
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 21236
+  text_sha256: 8531bd9c11e33c38b226f99a218b507c6757bd4834e20b464a828946c6ba70c4
+  flags: []
+  extracted_path: sources/extracted/src-e1d207aa2e034857.txt
+- id: src-e349c66da91c2bef
+  sha256: e349c66da91c2bef55acbcaaa7fac607d5be1ad13a77551275a0c43afb26e8ee
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulptest/package-lock.json
+  size_bytes: 58718
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 58718
+  text_sha256: e349c66da91c2bef55acbcaaa7fac607d5be1ad13a77551275a0c43afb26e8ee
+  flags: []
+  extracted_path: sources/extracted/src-e349c66da91c2bef.txt
+- id: src-e3c2c39f95f8d4d7
+  sha256: e3c2c39f95f8d4d766f5c2734f022cd5deaeb2aec26bc3c89c86ef35828aa0cf
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile otto2014 - App ibride.docx
+  size_bytes: 14458
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 12552
+  text_sha256: 3adadc194d5673df34c0612996dd0fe58313cd424592041cd0f58be438a317a3
+  flags: []
+  extracted_path: sources/extracted/src-e3c2c39f95f8d4d7.txt
+- id: src-e3d168a292ba33d4
+  sha256: e3d168a292ba33d4e3215919963a304dc25732a73cebdde6e7ebe4d47ab43eb6
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/less/bordered-pulled.less
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/less/bordered-pulled.less
+  size_bytes: 585
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e3f4210962233462
+  sha256: e3f4210962233462763a69426b8a16826c3727981bd73e993470b83c75efb2fc
+  paths:
+  - sources/raw/hd_locale/cv_grafici_erika_supporto_disoccupazione/Copia di Modern Professional CV Resume.pdf
+  size_bytes: 436654
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pdftotext-layout
+  characters: 9218
+  text_sha256: c3a6925711b1309e61a6500a7cd04036d825b21e1dca32b2d6a15cf9ab65bba9
+  flags: []
+  extracted_path: sources/extracted/src-e3f4210962233462.txt
+- id: src-e3f6bd3d3f60025f
+  sha256: e3f6bd3d3f60025f24b9c8faf2eedb01f1acb987a54036d4962acb5e1ee46618
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/public/images/red-gulp.svg
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/website/images/red-gulp.svg
+  size_bytes: 12509
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e4e796ba9631442d
+  sha256: e4e796ba9631442d3ff098bcc4891221b7fd52caca9c8f9417d5f95bca000b9a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvStructureHtml.html
+  size_bytes: 189831
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 7301
+  text_sha256: f1db32b467827a63ca3ce37f2dbb195318402fedf68b37b78396568a7312cc96
+  flags:
+  - placeholder_content
+  extracted_path: sources/extracted/src-e4e796ba9631442d.txt
+- id: src-e574a8e2ec6b452a
+  sha256: e574a8e2ec6b452a204bd9f2951e63b62f31d645e34ce0056f232ec7767ab759
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - App ibride (1).gdoc
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2013 - App ibride.gdoc
+  size_bytes: 186
+  category: external_link
+  status: requires_export
+  date: null
+  date_basis: not_assigned
+  url: https://drive.google.com/open?id=1XcJBV_sFPAhCGnL5ixJOOMeNNnSL8DK7EBul7MeDd6U
+  document_id: 1XcJBV_sFPAhCGnL5ixJOOMeNNnSL8DK7EBul7MeDd6U
+- id: src-e591d4e481c96e82
+  sha256: e591d4e481c96e826f10b735cd6690065aff0e88aa65c3ef466ee79fc2bee33f
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile otto2014 - App ibride.html
+  size_bytes: 20465
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 13140
+  text_sha256: 9edfc5be672a75bee62ca66c846a8b9d8ac9adca78c780c678a8e14fd7b603d3
+  flags: []
+  extracted_path: sources/extracted/src-e591d4e481c96e82.txt
+- id: src-e6c4731c182a8aa3
+  sha256: e6c4731c182a8aa3ef34fbc8b67c69af1d27c0477833c5b0b5a4b460239ed8cd
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulp/tasks/html.js
+  size_bytes: 877
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e6e81949b0ac4668
+  sha256: e6e81949b0ac466839c5239a1450967ec32af30eb7c25d1845569621e8a1c8fc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_core.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_core.scss
+  size_bytes: 459
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e7de069ac0ae82c2
+  sha256: e7de069ac0ae82c2546a98df56752ca654f3c30edde627d3f3d536be0a9a3b24
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_html/resume.css
+  size_bytes: 2399
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e88c1339779debb3
+  sha256: e88c1339779debb30d1462624facf973c7fa97421820ebe3c7662afc5a6c7f0b
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/cvAAprileLug18Docx.xhtml
+  size_bytes: 303826
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: pandoc
+  characters: 25678
+  text_sha256: 8b181312425c54ed1e313b589d6efafbed5a82b2507ccbefd8edd3c3f1b76a9e
+  flags: []
+  extracted_path: sources/extracted/src-e88c1339779debb3.txt
+- id: src-e88ea62969f2d80f
+  sha256: e88ea62969f2d80ffbaa8d75c56baccea4753f17cddd3d7a44933abf19338612
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/js/app.js
+  size_bytes: 135
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-e9d2102798c9fd09
+  sha256: e9d2102798c9fd09e01ecc232854c17bef1ed870c0a2f552576fc776209f7fbb
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017.docx
+  size_bytes: 20939
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 22884
+  text_sha256: e36a9871c209b2f6157be2d1467326c0f9ad99fd9c0d6bad656ab279614876b3
+  flags: []
+  extracted_path: sources/extracted/src-e9d2102798c9fd09.txt
+- id: src-eaa4e7858709bee6
+  sha256: eaa4e7858709bee65d43edfc10886b39033d4996a6579fadbc56cf8b876a98e5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/package.json
+  size_bytes: 214
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 214
+  text_sha256: eaa4e7858709bee65d43edfc10886b39033d4996a6579fadbc56cf8b876a98e5
+  flags: []
+  extracted_path: sources/extracted/src-eaa4e7858709bee6.txt
+- id: src-eb1653f4b0a2332e
+  sha256: eb1653f4b0a2332e34d2127b3b7f779922af9ef66ef37d360fb6f1aa016d5ccc
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_drafts/2014-03-01-example-content.md
+  size_bytes: 4997
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 4997
+  text_sha256: eb1653f4b0a2332e34d2127b3b7f779922af9ef66ef37d360fb6f1aa016d5ccc
+  flags:
+  - placeholder_content
+  extracted_path: sources/extracted/src-eb1653f4b0a2332e.txt
+- id: src-eb67e302b7a604e7
+  sha256: eb67e302b7a604e706211c84eda3b9fe042d2a63fe68551ae370314c1aafdc33
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/src/README.md
+  size_bytes: 1180
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1144
+  text_sha256: eb67e302b7a604e706211c84eda3b9fe042d2a63fe68551ae370314c1aafdc33
+  flags: []
+  extracted_path: sources/extracted/src-eb67e302b7a604e7.txt
+- id: src-ebe716c9084e430c
+  sha256: ebe716c9084e430cf2b1691e7c2d17e6f0879c6b6998bfe82aa69715e91a3127
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/__MACOSX/._cvAAprileMag18Docx.docx
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/cvAAprileMag2018/__MACOSX/._cvAAprileMag18Docx.odt
+  size_bytes: 210
+  category: filesystem_metadata
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-ec5feb5811b46315
+  sha256: ec5feb5811b463154f32f28594b2ca46744f0aae963a001e02cca892c0881302
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2014 - App ibride.doc
+  size_bytes: 53760
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: libreoffice-text
+  characters: 13078
+  text_sha256: 29601616fc97ee144484a88e6d2eaf62def4f611b85f60a955b592a0176f4bdd
+  flags: []
+  extracted_path: sources/extracted/src-ec5feb5811b46315.txt
+- id: src-ee2bd80bd327ea2f
+  sha256: ee2bd80bd327ea2f03ab5ab15d8be760ec21310af6c5ecb790a121c2302bd74c
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/Gemfile
+  size_bytes: 251
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 251
+  text_sha256: ee2bd80bd327ea2f03ab5ab15d8be760ec21310af6c5ecb790a121c2302bd74c
+  flags: []
+  extracted_path: sources/extracted/src-ee2bd80bd327ea2f.txt
+- id: src-ee5121540837d2a8
+  sha256: ee5121540837d2a868ad77af84c5a3564e13291db09cb3cdd20c12b15583a856
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/package.json
+  size_bytes: 873
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 873
+  text_sha256: ee5121540837d2a868ad77af84c5a3564e13291db09cb3cdd20c12b15583a856
+  flags: []
+  extracted_path: sources/extracted/src-ee5121540837d2a8.txt
+- id: src-ef4f2bab6e539512
+  sha256: ef4f2bab6e539512113cab1618b6c05c31aad1947f9cb6a3a9f5b72086a7e15e
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/74newzip/templates/greeting.hbs
+  size_bytes: 54
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-f007a6e985c4064b
+  sha256: f007a6e985c4064b7c8f993b22566b06138f6f0983bf8cc0a5dcba30fe841857
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_mixins.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_mixins.scss
+  size_bytes: 946
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-f1de35952d4e269b
+  sha256: f1de35952d4e269b45e3a6c390445bf2a3b4b643b69a5de4bb63790e7ca1d1b9
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/cvSite2018/src/js/sweet-alert.js
+  size_bytes: 16978
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-f26d42a165213082
+  sha256: f26d42a165213082f434de4b1e05852db96064f6a6ad916d28bf6d99917fd3a5
+  paths:
+  - sources/raw/hd_locale/apprendo/Alessandro_Aprile_CV_aggiornato.docx
+  size_bytes: 14246
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 19236
+  text_sha256: c56aa569c0dea6312100285e8f8aaf2189b4a5a4bbc557b247188e8e3f10f0a2
+  flags: []
+  extracted_path: sources/extracted/src-f26d42a165213082.txt
+- id: src-f279d49188fe78f9
+  sha256: f279d49188fe78f9abba0d36d4fbc027f70e9a61d1d5cd7356e6e54b3df581c4
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/.DS_Store
+  size_bytes: 6148
+  category: document_candidate
+  status: needs_manual_review
+  date: null
+  date_basis: not_assigned
+  method: binary-not-text
+- id: src-f327a1169dc20508
+  sha256: f327a1169dc20508ef6a577856a5173bfbeac092b89ca9060e55db178e7a45a5
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/README.md
+  size_bytes: 872
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 872
+  text_sha256: f327a1169dc20508ef6a577856a5173bfbeac092b89ca9060e55db178e7a45a5
+  flags: []
+  extracted_path: sources/extracted/src-f327a1169dc20508.txt
+- id: src-f3839f646718ca02
+  sha256: f3839f646718ca0284cb0531cec5764fd4429ecb84bb806526f09f5b652552e2
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile Giugno2017 - restricted.html.20170926.bak
+  size_bytes: 79765
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 79765
+  text_sha256: f3839f646718ca0284cb0531cec5764fd4429ecb84bb806526f09f5b652552e2
+  flags: []
+  extracted_path: sources/extracted/src-f3839f646718ca02.txt
+- id: src-f3988abf1fd9185b
+  sha256: f3988abf1fd9185bceeaf26dd57252161f7cb797794dc782ac2a371f52186530
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/ESPERIENZE PROFESSIONALI SALIENTI.md
+  size_bytes: 3250
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 3246
+  text_sha256: f3988abf1fd9185bceeaf26dd57252161f7cb797794dc782ac2a371f52186530
+  flags: []
+  extracted_path: sources/extracted/src-f3988abf1fd9185b.txt
+- id: src-f41f506172ecab3c
+  sha256: f41f506172ecab3c56751be44fd96b10ab7d0f5114b1ef7a158a12704c7017e1
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/gulpCV/.gitmodules
+  size_bytes: 96
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 96
+  text_sha256: f41f506172ecab3c56751be44fd96b10ab7d0f5114b1ef7a158a12704c7017e1
+  flags: []
+  extracted_path: sources/extracted/src-f41f506172ecab3c.txt
+- id: src-f445f64398a8d05d
+  sha256: f445f64398a8d05d5e6c663df474d016309706582166bb0372db7dafc7f26553
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/cv_alessandroaprile_restricted_initializer/initializr/browserconfig.xml
+  size_bytes: 416
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-f51c87a458ccd61c
+  sha256: f51c87a458ccd61c1cebae20cb2fbb16c3d2f1e07e1d71ccdf4cc3bc8d95a1d8
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/humans.txt
+  size_bytes: 251
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 251
+  text_sha256: f51c87a458ccd61c1cebae20cb2fbb16c3d2f1e07e1d71ccdf4cc3bc8d95a1d8
+  flags: []
+  extracted_path: sources/extracted/src-f51c87a458ccd61c.txt
+- id: src-f553c8c0ae5183ea
+  sha256: f553c8c0ae5183eab64f54c228b347eecdb1e9f7046e3160b9007a5126b4d453
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/Cv Alessandro Aprile 2014 - App ibride.odt
+  size_bytes: 14333
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 12497
+  text_sha256: c31fc80c519fb07dff966a673c00d5a2c24f93dbbcfc253e3a7bd099e22ae795
+  flags: []
+  extracted_path: sources/extracted/src-f553c8c0ae5183ea.txt
+- id: src-f68a644dae2a61db
+  sha256: f68a644dae2a61db2d4d8e05d995650153f2083153764d1befaf5db0d18a97c8
+  paths:
+  - sources/raw/hd_locale/thinkopen/vertopal.com_CV TOP - Alessandro Aprile_aggiornato23ingleseCondensedTemplateDEVWay3.docx
+  size_bytes: 13037
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: office-xml
+  characters: 5722
+  text_sha256: e5a8fa8ddf943dcc5ceeac54f5976dd8bb210d05743ae2df49fe957b6c2de538
+  flags:
+  - template_in_filename
+  extracted_path: sources/extracted/src-f68a644dae2a61db.txt
+- id: src-f6ed2193d3abf62a
+  sha256: f6ed2193d3abf62a54e9bc636c84b51c8472178550804ca035f0b3cd7e909819
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/gulpfile.js
+  size_bytes: 1516
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-f9785f64b1eaf41e
+  sha256: f9785f64b1eaf41ed9d04fb2885e3edd421b813dce1a9e6fb54944e5c0c2a82a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/gulp/watch.js
+  size_bytes: 1153
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-f9d5fc87ba00e663
+  sha256: f9d5fc87ba00e6639215aa830b91a435fb576102930651370eba2438ba4fc196
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/about.md
+  size_bytes: 539
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 539
+  text_sha256: f9d5fc87ba00e6639215aa830b91a435fb576102930651370eba2438ba4fc196
+  flags: []
+  extracted_path: sources/extracted/src-f9d5fc87ba00e663.txt
+- id: src-fa58f2a90f876cbc
+  sha256: fa58f2a90f876cbc90bb86d300f305d7e44dc793d5b93ffbb3cfcfb78c2219db
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/AlessandroAprileResume2020_fresh.resume.json
+  size_bytes: 10769
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 10768
+  text_sha256: fa58f2a90f876cbc90bb86d300f305d7e44dc793d5b93ffbb3cfcfb78c2219db
+  flags: []
+  extracted_path: sources/extracted/src-fa58f2a90f876cbc.txt
+- id: src-fb4e8e7d5d03074d
+  sha256: fb4e8e7d5d03074da402f544d36bd6adb6adaed7ad816c4bcb3f53fe03273c17
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_larger.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_larger.scss
+  size_bytes: 375
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-fdbcf431c21d0409
+  sha256: fdbcf431c21d04096a3fa3fe227140427028642516ea80f1d17912de0df58e52
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/_config.build.yml
+  size_bytes: 211
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 211
+  text_sha256: fdbcf431c21d04096a3fa3fe227140427028642516ea80f1d17912de0df58e52
+  flags: []
+  extracted_path: sources/extracted/src-fdbcf431c21d0409.txt
+- id: src-fdfe60ff6f961c85
+  sha256: fdfe60ff6f961c85e3fd94eee6f1de006e1909fc49997295bc72af69ca5be148
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/dellXPS/repo/yeoman/README.md
+  size_bytes: 1980
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1980
+  text_sha256: fdfe60ff6f961c85e3fd94eee6f1de006e1909fc49997295bc72af69ca5be148
+  flags: []
+  extracted_path: sources/extracted/src-fdfe60ff6f961c85.txt
+- id: src-fe22c6f6ce908097
+  sha256: fe22c6f6ce9080979deec7096cd57450263123361b6ad92c7a9b8d8b11a57a0d
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/_posts/2014-03-03-welcome-to-jekyll.md
+  size_bytes: 1366
+  category: document_candidate
+  status: extracted
+  date: null
+  date_basis: not_assigned
+  method: utf-8
+  characters: 1366
+  text_sha256: fe22c6f6ce9080979deec7096cd57450263123361b6ad92c7a9b8d8b11a57a0d
+  flags: []
+  extracted_path: sources/extracted/src-fe22c6f6ce908097.txt
+- id: src-ff0686d76acde358
+  sha256: ff0686d76acde3581d679be874fbf73a8bcae4110fa7b6c7aa08ab204a7f3b7a
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/assets/font-awesome/scss/_rotated-flipped.scss
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersionBak/_site/src/assets/font-awesome/scss/_rotated-flipped.scss
+  size_bytes: 672
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned
+- id: src-ffa4f6a57d617697
+  sha256: ffa4f6a57d617697fd39be3c630443e6ff198f64bb876fe6296c62fcfbace741
+  paths:
+  - sources/raw/hd old dell 2021 - seagate/mac_alessandro/googleDrive/githubVersion/gulpfile.js.20170712
+  size_bytes: 1104
+  category: support_asset
+  status: not_applicable
+  date: null
+  date_basis: not_assigned

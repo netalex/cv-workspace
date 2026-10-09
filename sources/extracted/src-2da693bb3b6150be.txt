@@ -1,0 +1,102 @@
+ Curriculum vitae di ALESSANDRO APRILE
+182 Via volontari del Sangue - 20099 Sesto San Giovanni (MI)
+Telefono: 3200625543
+Email: netalex@tiscali.it
+Patente: AB (automunito motomunito)
+Data di nascita 01/07/1977
+Codice fiscale: PRLLSN77L01I690R
+Note personali
+Mi occupo a vario titolo di informatica a livello professionale da circa 12 anni, a partire da un interesse personale senz'altro antecedente e più profondo.
+In questo momento sto approfondendo gli aspetti più attuali e innovativi della programmazione software, in particolare lo sviluppo web/HTML5 e mobile.
+Ho recentemente rafforzato ulteriormente le mie competenze approfondendo scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire con competenza attività come la redazione di documenti e la stesura di documentazione tecnica e non, anche in lingua francese e inglese, la gestione della comunicazione diretta e scritta all'interno dell'ambito lavorativo, la formazione. In quest'ottica mi sono occupato anche di selezione del personale.
+Nel corso della mia attività ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate. Tra le altre da un lato la gestione e l'organizzazione di gruppi di lavoro, il contatto diretto coll'utente, la gestione di interventi brevi ma strategici e puntuali; dall'altro ambiti di analisi e sviluppo, di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving.
+Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz'altro attività sul territorio e missioni all'estero.
+Esperienze Lavorative pregresse
+Collaborazione con Area consulting (2005 - 2012)
+Dicembre 2012 - febbraio 2013 -Sede. Analisi e sperimentazione di una toolchain per lo sviluppo di App ibride su piattaforma Android, con particolare attenzione per le seguenti teconologie:
+automatizzazione del deploy con Ant
+sviluppo in java su eclipse
+unit testing in java e javascript
+sviluppo specifico android con Android Developement tools (ADT)
+sviluppo javascript e librerie specifiche (jquery)
+uso toolchain cordova/phonegap per android 
+sviluppo misto java\js
+sviluppo WebApp HTML5/CSS3
+uso emulatori specifici software e web (ripple).
+tra gli altri, alcuni dei tool approfonditi nell'ambito sono Ant, NodeJS, Eclipse, JUnit, ADT, HTML5 Boilerplate e H5BP Mobile, cordova/phonegap per android, jquery e Jq Mobile, Jasmine.js, ripple emulator, androVM, oracle vmplayer, Bluestack Player.
+Dicembre 2007 – Ottobre 2012-NETDB di Fastweb – Milano – Supervisione attivita' di Provisioning tecnico in OLO: monitoraggio del sistema di Network Inventory, della consistenza sistemistica della Customer Base, dei tracciati verso Telecom Italia per le richieste di posizioni per le attivazioni in centrale; verifica del rispetto degli SLA contrattuali da parte dei Vendor on field, verifica delle configurazioni logiche sugli apparati di accesso. inoltre supporto tecnico PL/SQL di primo livello sull'applicativo di network inventory.
+2007-2008-Attività di recruitement interna
+Giugno- settembre 2007-ALD Automotive - Milano 2 - supporto on site
+giugno 2007 -EnelGas – Milano - sviluppo PL/SQL
+aprile-maggio 2007-LocatRent – Milano - Analisi e sviluppo desiderata per applicativo verticale
+Febbraio-Marzo 2007-Sky – Milano - sviluppo PL\SQL e Crystal Report per i report giornalieri di vendita
+Gennaio-Febbraio 2007-Banca Intesa – Milano, sede centrale - testing applicativo
+Settembre 2006-dicembre 2006-Wind – Milano, varie sedi - Gruppo help desk Oracle WorkFlow III livello 
+Maggio 2005 – Luglio 2006-“Lombardia Servizi “ - Milano - Monitoraggio server Sistemi SISS
+Collaborazione con PRASICOM (2002 - 2005)
+Febbraio 2005 - Maggio 2005-Ospedali Riuniti Bergamo – Bergamo - Supporto progetto SISS c\o sede ospedaliera
+Gennaio 2005.-Getronics - Buccinasco (MI) - Assistenza telefonica e per telecontrollo VNC per clienti SOHO
+Giugno – Settembre 2004-Assicurazioni Lloyd Italico - Genova - Aggiornamento e verifica DB anagrafica
+Ottobre 2003 – Maggio 2004-Sitel Italy S.p.A. - Milano - Tecnico informatico Agente assistenza pc HP/Compaq home series (Help Desk II liv.)
+Luglio – Agosto 2003-Candy Group - Brugherio, MI - Operatore\Sysadmin al monitoring EDP (AIX/Oracle)
+Marzo – Giugno 2003-COMIT – Banca Intesa - Varie sedi Provincia di Milano e Limitrofe - Monitoraggio On-Site post installazione nel Roll-out delle filiali lombarde.
+Gennaio – Febbraio 2003-NCR - Cusago, MI - Riesame completo del codice per SW gestione Casse Auchan.
+Novembre 2002 -Banca di Legnano - Rho (MI) - Upgrade HW\SW filiale (Intervento Spot in contemporanea su tutte le filiali in una singola giornata lavorativa)
+Settembre – Ottobre 2002-Vodafone – Milano - Censimento Apparecchiature informatiche sedi (capogruppo)
+Maggio – Luglio 2002-Poste Italiane – Lombardia - Upgrade SW uffici postali.
+Aprile – Maggio 2002-Synavant – Milano - Monitoring Operazioni “daily” su dati telecomunicati
+Marzo – Aprile 2002-IBM Celestica - Vimercate (MI) - Gruppo Test IBM SAP Gobal Help Desk
+Ottobre – Marzo 2002-SBS - Cassina de Pecchi\Cinisello Balsamo (MI) - Assistenza On Site stabilimenti Siemens
+Collaborazione con B.A.G.G.I. S.r.L. (2001)
+Agosto 2001-Mitsui – Tokyo - Test on site junior borchie per fibra ottica
+Luglio 2001-Pirelli Cavi & Sistemi - Milano - Test di laboratorio su borchie per fibra ottica
+Altro
+1999-Milano - Call center Vendita
+Esperienze spot 
+Editing di sceneggiature 
+Copywriting 
+assistenza organizzazione eventi
+allestimenti fieristici
+Formazione
+Novembre 2004 – Gennaio 2005-Corso FormaTemp “DB Oracle in ambiente Linux” - Area Solutions, Cernusco S.N.
+Gennaio 2000 – Maggio 2001-Corso IFTS no 22, “Operatore Multimediale” e stage in azienda - Milano
+a.s. 1999-2000-Corso Regionale di programmazione C in ambiente Unix - CFP Pepe, Milano 
+1998-Maturità Classica, Ind. Sper. lingue e Informatica – Lic. Classico Stat ex Leopardi, Omnicomp. Parco Nord - Bresso
+Capacità
+Abilità Linguistiche
+Lingua Francese: Parlato fluente - Scritto buono - conoscenza lingua tecnica Buona
+Lingua inglese: Parlato buono - Scritto buono - conoscenza lingua tecnica Ottima
+Conoscenze tecniche
+Sistemi Operativi
+Linux / Unix - Utente Avanzato/Sistemista junior
+Dos - Utente Avanzato; Windows 3.x/9x/NT/2000/vista/Win7 - Utente Avanzato/Sistemista junior
+Windows Server Family (2000/NT/2003/2008) - Utente Avanzato/Sistemista junior
+Android - Sviluppo
+Linguaggi
+HTML - buono
+Javascript - buono
+PHP - base
+SQL - buono
+Java\JSP – base
+Visual Basic - base
+C - base
+Database
+PostgreSQL conoscenza
+ORACLE conoscenza ed utilizzo
+Reti
+Installazione e amministrazione su LAN/ NT / linux /miste via Samba - buona
+Configurazione Server: di stampa, DNS, WINS, DHCP, WEB(Apache, IIS...), FTP - sufficiente
+Capacità Professionali
+Gestione gruppi di lavoro
+Esperienze di lavoro in gruppi distribuiti (telepresenza - online)
+ricerca, intervista e selezione di personale tecnico
+Gestione e monitoraggio applicazioni web per servizi aggiunti TLC
+Allestimento fieristico e d'arredo
+Estensione documentazione
+Editing e revisione testi, sia narrativi che tecnici.
+Interessi
+Informatica, Open Source
+Fotografia, Industrial Design, Arte e Architettura
+Narrativa, Giochi di Ruolo, cinema, fumetto e Animazione
+Motociclismo, Pattinaggio, Sci
+Autorizzo il trattamento dei miei dati personali ai soli fini dei rapporti lavorativi tra me e le aziende interessate ai sensi dell'art.10 comma 1 della legge 675/96 in materia di "tutela dei dati personali" e ai sensi dell'art. 13, D. Lgs. del 30 giugno 2003 n. 196.

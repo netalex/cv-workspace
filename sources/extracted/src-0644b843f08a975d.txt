@@ -1,0 +1,322 @@
+Curriculum vitae di ALESSANDRO APRILE
+
+
+182 Via volontari del Sangue
+20099 Sesto San Giovanni (Milano)
+Telefono: 3200625543
+Email: netalex@tiscali.it 
+WWW: http://netalex.t35.com/http://web.tiscali.it/netalex
+
+
+Servizio militare:
+Militesente
+Patente:
+Patente AB (automunito motomunito)
+data di nascita 01/07/1977
+Codice fiscale:
+PRLLSN77L01I690R
+Note personali
+Sono un tecnico generico orientato all'assistenza diretta, con dimestichezza e interesse per l'ambiente unix.
+Lavoro solitamente come consulente in progetti di breve/medio respiro, spesso su turni.
+Mi trovo a mio agio in ruoli di monitoraggio servizi - piccolo sistemista sia su windows che unix (Candy, COMIT, Synavant), e in ruoli attinenti all'assistenza tecnica, soprattutto sw ma anche hw di primo livello (Sitel, SBS Siemens, Pirelli – Mitsui); in particolare, rendo bene in situazioni dove è importante l'analisi e la soluzione tempestiva di probemi (vedi monitoraggio e primo intervento, testing) e il contatto con l'utente (assistenza tecnica). 
+Ho sviluppato nel tempo competenze nell'ambito della selezione del personale, particolarmente occupandomi della ricerca di figure tecniche e della successiva fase di intervista e selezione dei candidati.
+Abituato ad attività sul territorio (upgrade poste), alle trasferte (Lloyd italico, Genova), all'attività all'estero (Mitsui, Tokyo).
+Provengo da una formazione inizialmente attinente ad un ambito umanistico. Questo mi porta a gestire con competenza attività come la redazione di documenti e la stesura di documentazione tecnica e non, la gestione della comunicazione diretta e scritta all'interno dell'ambito lavorativo, la formazione. Ho recentemente rafforzato quest'aspetto delle mie competenze avvicinandomi alla scrittura creativa, tecnica e aziendale (business writing).
+Esperienze Lavorative pregresse
+Collaborazione con Area cosulting
+Dicembre 2007 ad oggi
+Fastweb
+milano – sede viale Fulvio Testi (poi c\o Soleto via don minzoni)
+Help desk di primo livello sull'applicativo NETDB
+Giugno- settembre 2007
+ALD Automotive
+Milano 2
+tecnico informatico on site
+posizione gestitia in autonomia
+giugno 2007
+Enelgas
+milano
+sviluppo pl-sql
+aprile-maggio 2007
+Locatrent
+Milano
+analisi e sviluppo desiderata per applicativo verticale 
+febbraio-marzo 2007
+Sky
+Milano
+sviluppo PL\SQL e Crystal Report per i report giornalieri di vendita.
+Gennaio-febbraio 2007
+Banca Intesa
+Milano – sede centrale
+testing applicativo
+Settembre 2006-dicembre 2006
+Wind
+Milano – varie sedi
+Gruppo help desk oracle WorkFlow III livello
+risoluzione bad task in oracle workflow 
+Maggio 2005 – Luglio 2006
+Tecnico informatico Agente Monitoraggio server Sistemi “Lombardia Servizi “
+Milano
+Monitoraggio di tutta la rete di gestione della Carta Sanitaria del Cittadino della Regione Lombardia
+Utilizzo di piattaforma HP OpenView (reportistica messaggi) in ambiente Solaris
+Primo screening messaggistica server 
+Attività H24
+Gestione in autonomia del servizio
+Collaborazione con Tecnologie.net (gruppo peoplesoft)
+Dicembre 2004
+Affiancamento monitoraggio applicativi web a valore aggiunto rete umts - reparto “prodotti”
+Milano
+UMTS
+Monitoraggio applicativi BEA WebLogic su piattaforma Unix
+Operatività su turni
+Collaborazione con PF1 Consulting
+Gugno – Settembre 2004
+Aggiornamento e verifica DB anagrafica, assicurazioni Lloyd Italico
+Genova
+Correzione e formattazione dati anagrafici clientela da fornire agli sviluppatori per la conversione di formato.
+Attività in autonomia.
+Elemento chiave continuo feedbak in report excell.
+Contratto diretto
+Ottobre 2003 – Maggio 2004
+Tecnico informatico Agente assistenza pc HP/Compaq home series (Help Desk II liv.), Sitel Itay S.p.A.
+Milano
+Assistenza telefonica su PC Home User.
+Ottimo tasso personale di problemi risolti e Customer satisfaction.
+Ben inserito in un ottimo team di lavoro.
+All'interno della struttura di Sitel Europa, il reparto Home PC Italia del progetto HP\Compaq innalzava continuamente i livelli minimi di customer satisfaction e risoluzione problemi, oltre a riscontrare preventivamente le nuove problematiche con la maggior precisione.
+Collaborazione con PRASICOM
+8 Febbraio 2005- 6 Maggio 2005
+Attività di Supporto progetto SISS c\o opspedali riuniti Bergamo
+Bergamo
+lavoro in autonomia
+tracciamento modifiche rete
+installazione reti wi-fi
+Gennaio 2005.
+Assistenza telefonica SOHO per Getronics
+Buccinasco (MI)
+Sui clienti Istituto Tumori di Milano, Xelion Banca, Banca d'Italia.
+Attività su turni
+Assistenza anche per telecontrollo via VNC
+Luglio – Agosto 2003
+Operatore\Sysadm al monitoring EDP, Candy Group
+Brugherio, MI
+Monitoraggio e lancio processi batch notturni e diurni – prima analisi sulle problematiche eventuali
+attività su turni
+Sistema Applicativo AIX/Oracle.
+Problematiche relative alla migrazione in corso da piattaforma FORMS30 a Web/Java.
+Durante l'allargamento bacino d'utenza a tutte le filiali europee
+Marzo – Giugno 2003
+Monitoraggio On-Site post installazione nel Roll-out delle filiali lombarde, COMIT – Banca Intesa
+Provincia di Milano e Limtrofe
+testing operatività utenti e prima assistenza.
+Gennaio – Febbraio 2003
+Affiancamento resp. di progetto per SW gestione Casse Auchan, NCR
+Cusago, MI
+Ruolo: Riesame completo del codice
+Ambiente operativo Unix SysV\Oracle
+Linguaggi utilizzati dal sw
+bash
+Pro*C
+SQL
+FORMS
+Novembre 2002
+Upgrade HW\SW filiale di Rho, Banca di Legnano
+Rho, MI
+Ruolo: Sostituzione POS e terminali, installazione, rionfigurazione server.
+Intervento a Spot eseguito in contemporanea su tutte le filiali in una singola giornata lavorativa.
+Intervento gestito in autonomia.
+Primo intervento terminato fra tutte le filiali.
+Settembre – Ottobre 2002
+Censimento Apparecchiature informatiche sedi, Vodaphone Omnitel
+Milano
+Ruolo: rilevamento numero apparecchiature infrmatiche e registrazione seriali
+Gestione di una squadra di 5 elementi
+Consegna puntuale del progetto pur in condizioni di lavoro non ottimali.
+Maggio – Luglio 2002
+Tecnico upgrade SW uffici postali, Poste Italiane
+Lombardia
+Installazione MicroSoft IIS4 e conversione DB
+Installazione MicroSoft SQL2000.
+Monitoraggio procedure.
+Aprile – Maggio 2002
+Operazioni “daily” su dati telecomunicati, Synavant
+Milano
+Ambiente Operativo MicrosSoft SQL/Première.
+Attività di monitoring.
+Marzo – Aprile 2002
+Grppo Test IBM SAP Gobal Help Desk, IBM Celestica
+Vimercate, MI
+prima assistenza problematiche reparti produzione nell'utilizzo del sistema gestionale SAP
+estensione help desk: ramo italiano help desk IBM mondiale
+Attività su turni.
+Attività in completo start-up, nessun sostegno da esperienze di team precedenti.
+Turno notturno in completa autonomia.
+Ottobre – Marzo 2002
+Assistenza On Site stabilimenti Siemens, SBS
+Cassina de Pecchi e Cinisello Balsamo, Milano
+Assistenza e configurazione attrezzature informatiche da ufficio.
+Basso tempo di intervento.
+Ottimo lavoro di squadra.
+Collaborazione con B.A.G.G.I. S.r.L.
+Luglio 2001
+Assistente Test di laboratorio su borchie per fibra ottica, Pirelli Cavi & Sistemi
+Milano
+01/08/01
+Test on site junior borchie per fibra ottica, Mitsui
+Tokyo
+Altro
+1999
+Call center Vendita
+Milano
+Formazione
+Settembre 2005 – fine 2006
+Freqenza corsi c\o Corso di laurea in Informatica per le Telecomunicazioni
+Università degli studi di Milano
+2 novembre 2004 – Gennaio 2005
+Corso FormaTemp “DB Oracle in ambiente Linux”
+Area Solutions, Cernusco sul Naviglio
+31 gennaio 2000 – 9 maggio 2001
+Corso IFTS no 22, “Operatore Multimediale” e stage in azienda.
+Milano
+a.s. 1999-2000
+Corso Regionale di programmazione C in ambiente Unix
+CFP Pepe, Milano
+Votazione Finale 75/100
+1998
+Frequenza Corso di Laurea in Disegno Industriale, specializzazione Prodotto
+Politecnico di Mlano, Mlano
+1998
+Maturità Classica, indirizzo sperimentale lingue e informatica
+Liceo Classico Scientifico Statale ex Leopardi,Omnicomprensivo Parco Nord, Bresso, MI
+Votazione Finale 44/60
+capacità
+Abilità Linguistiche
+Lingua Francese
+Studio scolastico (Liceo)
+Turismo solitario
+Buona conoscenza parlato
+Lingua inglese
+Attività presso Mitsui - Tokyo
+Diploma europeo ICC conseguito presso la scuola di lingue del comune di Milano
+EF Torquay corso I73 Estate 1995
+Sufficente
+Conoscenze tecniche
+Sistemi Operativi
+Unix 
+SCO Open Server, SysV R4, Linux mandrake/Red Hat
+Utente Avanzato/Sistemista junior
+Dos
+Utente Avanzato
+Windows 3.x/9x
+Utente Avanzato/Sistemista junior
+Windows NT Family
+Utente Avanzato/Sistemista junior
+Linguaggi
+C
+Corso
+utilizzatore
+Java\JSP
+Stage
+Semplice conoscenza
+HTML
+Corso op mm, hobby
+buono
+PHP
+Corso op mm
+Semplice conoscenza
+Visual Basic
+Descrizione
+Semplice conoscenza
+SQL
+NCR, studio personale
+sufficiente
+Ambienti di Sviluppo
+BEA WebLogic
+Stage
+Semplice conoscenza
+GCC\DJGPP
+Hobby
+uso
+Borland IDE
+Hobby
+uso
+Visual Studio
+Corso op mm
+Semplice conoscenza
+NetBeans
+Hobby, stage
+uso
+Macromedia DreamWeaver
+Corso Op mm
+uso
+Macromedia Director
+Corso Op mm
+Semplice conoscenza
+Programmi Applicativi
+PostgreSQL
+Approfondimento personale
+uso
+ORACLE
+NCR – Corso Area Consulting
+Utente – Svilupp. Basico
+Vi(Vim)
+Sempre :-)
+uso
+Adobe Photoshop
+Corso op mm
+basico
+Adobe Premiere
+Corso op mm
+uso
+Macromedia Flash
+Corso op mm
+uso
+MicroSoft Office
+Utente Avanzato
+Reti
+Installazione e amministrazione LAN 
+NT
+linux
+miste via Samba
+Corso op mm
+sufficente
+Configurazione Server
+di stampa
+DNS
+WINS
+DHCP
+WEB(Apache, IIS)
+FTP
+sufficiente
+Capacità Professionali
+Gestione piccoli gruppi di lavoro
+Progetto censimento vodaphone
+sufficiente
+Test Area
+Pirelli - Mitsui
+sufficiente
+Esperienze di lavoro in gruppi distribuiti
+Progetto amatoriale di sviluppo
+sufficiente
+ricerca, intervista e selezione di personale tecnico
+attività HR c\o Area SP e Area TC
+sufficente
+Gestione e monitoraggio applicazioni web per servizi aggiunti TLC (Portale tre)
+H3G
+sufficente
+Allestimento fieristico e d'arredo
+Sistema S.r.L.
+buono
+Interessi
+Informatica
+Open Source
+Fotografia (http://netalex.t35.com/)
+Industrial Design e Architettura
+Narrativa, cinema, fumetto e Animazione
+Giochi di Ruolo
+Socio MiLug (Milano Linux User Group)
+Motociclismo (Suzuki Bandit 400, Moto Guzzi Bellagio)
+Pattinaggio
+Sci
+
+Autorizzo il trattamento dei miei dati personali ai soli fini dei rapporti lavorativi tra me e le aziende interessate ai sensi dell'art.10 comma 1 della legge 675/96 in materia di "tutela dei dati personali" e ai sensi dell'art. 13, D. Lgs. del 30 giugno 2003 n. 196.

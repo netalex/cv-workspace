@@ -1,0 +1,9 @@
+{{ site.title }}
+
+-   {{ site.title }}
+-   {{ site.author.email }}
+
+-   {% include icon-github.html username=site.author.github %}
+-   {% include icon-twitter.html username=site.author.twitter %}
+
+{{ site.description }}

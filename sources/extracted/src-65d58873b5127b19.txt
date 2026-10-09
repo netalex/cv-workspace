@@ -1,0 +1,229 @@
+INFORMAZIONI PERSONALI
+Alessandro Aprile
+
+ 
+ Via volontari del sangue, 182 – 20099 Sesto San Giovanni (MI)
+ 
+ +39 3200625543
+ netalex@tiscali.it aprile.alessandro@gmail.com 
+
+Google Hangout aprile.alessandro@gmail.com
+Skype net-alex
+
+Sesso maschile | Data di nascita 01/07/1977 | Nazionalità Italiana 
+
+POSIZIONE RICOPERTA
+
+Tecnico informatico, Sviluppatore software e web
+
+ESPERIENZA PROFESSIONALE
+ 
+
+Dal 30 marzo al 30 giugno 2015
+Sviluppatore front-end - Manutenzione e refactoring front-end Online gambling portal
+Presso Winga, concessionaria gambling online, Milano
+supporto manutentivo; refactoring del codice legacy in previsione di una riscrittura del portale; predisposizione della versione app mobile dei giochi supportati dal portale.
+Tecnologie: Object Oriented Javascript; jquery; Apache Velocity template engine; sass via Compass CSS Authoring Framework; SVN; tomcat; LifeRay
+Attività o settore Sviluppo web 
+
+Da novembre 2014 a febbraio 2015
+Sviluppatore software - Cms mobile multipiattaforma su paradigma dell'app ibrida
+Presso DS software House (azienda di prodotto) – Milano
+responsabile customizzazioni interfaccia html5 della parte ibrida del framework; coinvolto nello studio del refactoring del backend java.
+Tecnologie: HTML5/CSS3; Vanilla Javascript
+Ambienti di sviluppo: Eclipse
+Attività o settore Sviluppo mobile\web 
+
+Dal 5 maggio al 7 agosto 2014
+Front end developer - Web application gestione portafogli finanziari e rating
+Presso Cerved Information Provider/rating agency - Milano
+Sviluppo Js per web application tomcat based di gestione portafogli finanziari - modalità Agile
+Tecnologie: HTML5/CSS3; JavaScript; JQuery; Twitter Bootstrap (custom template); mongoDB; java; SQL
+Ambienti di sviluppo: Eclipse
+Attività o settore Sviluppo web
+
+da febbraio 2014 ad aprile 2014
+Sviluppatore Software - App di movimentazione materiale biologico
+Presso Free Lance - Milano\Udine
+Sviluppo su commessa in ambito web/js su piattaforma Android; consulenza in ritenuta d’acconto
+Analisi funzionale e progettazione, scelta delle tecnologie, realizzazione del design della struttura dati in autonomia
+Tecnologie: Phonegap/Cordova; plugin ("BarcodeScanner"); Javascript; Underscore.js (template engine); JqueryMobile; JQuery; REST/JSON; localstorage
+Ambienti di sviluppo: Brackets, Eclipse with Android Developement Kit; SVN; Oracle sql developer (come shell di accesso al DB del server)
+Attività o settore Sviluppo mobile – ambito medicale
+
+dal 2011 al 2013
+Sviluppatore Software
+Presso Area TC - Milano
+Sviluppatore software in ambito web/js su piattaforma Android.
+Realizzazione di applicativi di feed reading customizzati in base alle esigenze dei clienti.
+Analisi funzionale e progettazione, scelta delle tecnologie, realizzazione del design della struttura dati.
+Tecnologie: PhoneGap/Cordova v2.x; HTML5/CSS3; JavaScript; jQuery; JqueryMobile; webSql; REST; google feed syndacation services (Google Feed API)
+Ambienti di sviluppo: Eclipse; Android SDK (v4.1, API 16)
+chaintool di testing: chromium; ripple emulator; AndroVm; device fisico
+Attività o settore Sviluppo mobile\web 
+
+dal dicembre 2007 all’ottobre 2012
+Supervisore del Provisioning tecnico
+Per Area Consulting In missione presso Fastweb – Milano
+Supervisione delle attivita' di Provisioning tecnico in OLO
+monitoraggio del sistema di Network Inventory, della consistenza sistemistica della Customer Base, dei tracciati verso Telecom Italia per le richieste di posizioni per le attivazioni in centrale
+Verifica del rispetto degli SLA contrattuali da parte dei Vendor on field
+Verifica delle configurazioni logiche sugli apparati di accesso.
+Attività o settore Telecomunicazioni 
+
+dal 2007 al 2008
+Consulente informatico
+Presso Area Consulting - Milano
+Consulente informatico, in ambito prevalentemente SQL, in missione presso la sede dei clienti. Missioni presso EnelGas, LocatRent, Sky, ALD Automotive, Lombardia Servizi
+Attività o settore SQL 
+
+per tutto il 2005
+Consulente informatico
+Presso Getronics - Buccinasco (MI)
+Operatore telefonico responsabile dell'assistenza dei clienti Corporate tramite strumenti di controllo remoto.
+Attività o settore Supporto tecnico 
+
+da ottobre 2003 a maggio 2004
+Operatore telefonico di secondo livello
+Presso Sitel Italy S.p.A. – Milano
+Operatore telefonico responsabile dell'assistenza di secondo livello sui personal computer di fascia consumer di HP/Compaq.
+Attività o settore Supporto tecnico 
+
+da ottobre 2003 a maggio 2004
+Operatore telefonico di secondo livello
+Presso Sitel Italy S.p.A. – Milano
+Operatore telefonico responsabile dell'assistenza tecnica di secondo livello sui personal computer di fascia consumer di HP/Compaq.
+Attività o settore Supporto tecnico 
+
+dal 2001 al maggio 2003
+Tecnico informatico
+Presso Prasicom
+Censimento HW grandi aziende
+Installazioni postazioni sedi regionali poste s.p.a, istituti bancari
+...
+Attività o settore Supporto tecnico, SQL, telco, vari 
+
+da giugno ad agosto 2000
+Test HW borchie fibra ottica
+Presso Pirelli Cavi e Sistemi S.p.A. – Milano \ Mitsui - Tokyo
+Test on site borchie fibra ottica per cliente su tokyo
+Attività o settore Supporto tecnico 
+
+ISTRUZIONE E FORMAZIONE
+ 
+
+
+
+2015
+Corso base Angular.Js LOG.ED 
+
+presso Coworking Login, Milano 
+Angular
+
+2014
+Corso Vanilla JavaScript LOG.ED 
+
+presso Coworking Login, Milano 
+Vanilla JS
+Prototipi ed ereditarietà in javascript
+
+2013
+Corso di Javascript personalizzato (20h con docenza personale)
+
+Presso FOR Institute - Prometheo Milano Centro 
+Javascript avanzato
+MVC e object oriented programming
+jquery, angularJS
+
+31 gennaio 2000 - 9 maggio 2001
+Corso FormaTemp “DB Oracle in ambiente Linux”
+
+Presso Area Solutions, Cernusco Sul Naviglio (MI) 
+SQL
+Shell scripting
+Oracle DB
+
+1999-2000
+Corso IFTS no 22, “Operatore Multimediale” e stage in azienda
+
+Milano 
+HTML
+Web design
+PHP
+Project management
+
+1998
+Corso Regionale di programmazione C in ambiente Unix
+
+presso Centro di Formazione Professionale Pepe - Milano 
+C
+Unix shell
+
+1998
+Diploma di maturità classica
+
+conseguito presso il Liceo Scientifico "Parco Nord" di Cinisello Balsamo (MI) 
+
+COMPETENZE PERSONALI
+ 
+
+Lingua madre
+Italiano
+
+
+Altre lingue
+COMPRENSIONE 
+PARLATO 
+PRODUZIONE SCRITTA 
+Ascolto 
+Lettura 
+Interazione 
+Produzione orale 
+
+Inglese 
+B1
+C1
+B1
+B2
+B2
+
+Diploma europeo ICC conseguito presso la scuola di lingue del comune di Milano - EF Torquay corso I73 Estate 1995
+Francese 
+C1
+C2
+C2
+C2
+B2
+
+Studio scolastico
+
+Livelli: A1/2 Livello base - B1/2 Livello intermedio - C1/2 Livello avanzato 
+Quadro Comune Europeo di Riferimento delle Lingue
+
+Competenze comunicative
+Ho recentemente rafforzato ulteriormente le mie competenze approfondendo scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire con competenza attività come la redazione di documenti e la stesura di documentazione tecnica e non, anche in lingua francese e inglese, la gestione della comunicazione diretta e scritta all'interno dell'ambito lavorativo, la formazione. In quest'ottica mi sono occupato anche di selezione del personale.
+
+Competenze organizzative e gestionali
+Nel corso della mia attività ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate. Tra le altre da un lato la gestione e l'organizzazione di gruppi di lavoro, il contatto diretto coll'utente, la gestione di interventi brevi ma strategici e puntuali; dall'altro ambiti di analisi e sviluppo, di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving..
+
+Competenze professionali
+Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz'altro attività sul territorio e missioni all'estero.
+
+Competenze informatiche
+Realizzazione di WebApp in HTML5/CSS3 per il mondo Mobile.
+Conoscenza approfondita di HTML, Javascript, PHP, SQL, Java, Visual Basic.
+Postgre SQL, Toad, Oracle.
+Esperienza nello sviluppo tramite Android Developement tools (ADT),(jquery),cordova/phonegap, jquery, Jquery Mobile, Jasmine.js, ripple emulator, androVM, oracle vmplayer, Bluestack Player.
+competenze di editoria elettronica (EPUB editing e formattazione, conoscenza workflow ebook publishing)
+Utilizzo dei principali sistemi operativi ( Windows, Linux, OS X ).
+Conoscenza approfondita del pacchetto Office ( Excel, Power Point, Word, Access, Visio ).
+Utilizzo dei principali software per la stesura di sceneggiature in ambito teatrale ( es. Scrivener ).
+
+Altre competenze
+Esperienza nella realizzazione di allestimenti fieristici.
+
+Patente di guida
+AB
+Dati personaliAutorizzo il trattamento dei miei dati personali ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 "Codice in materia di protezione dei dati personali”.
+Dati personali
+Autorizzo il trattamento dei miei dati personali ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 "Codice in materia di protezione dei dati personali”.

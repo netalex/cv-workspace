@@ -1,0 +1,104 @@
+
+Curriculum vitae
+ALESSANDRO APRILE
+
+
+informazioni personali	    • Nato nel 1977
+    • Nazionalità: italiana
+    • Patente: A, B
+
+
+Formazione
+
+Studi	    • 1 anno di frequenza corsi c\o Corso di laurea in Informatica per le Telecomunicazioni - Università degli studi di Milano
+    • Diploma di Maturità Classica, indirizzo sperimentale lingue e informatica, conseguito nel 1998 presso Liceo Classico Scientifico Statale ex Leopardi, Onnicomprensivo Parco Nord di Bresso (MI)
+    • Corso FormaTemp “DB Oracle in ambiente Linux” presso Area Solutions, Cernusco sul Naviglio
+    • Corso IFTS no 22, “Operatore Multimediale” e stage in azienda – Milano
+    • Corso Regionale di programmazione C in ambiente Unix presso CFP Pepe, Milano - Votazione Finale 75/100
+    • 1 anno di frequenza Corso di Laurea in Disegno Industriale, specializzazione Prodotto presso Politecnico di Milano, Milano
+    • Corso di inglese livello intermediate  presso la scuola di lingue del comune di Milano con conseguimento Diploma europeo ICC.
+    • Viaggio Studio inglese di livello base presso EF Torquay corso I73
+
+lingue straniere	    • Lingua Francese: Parlato fluente - Scritto buono - conoscenza lingua tecnica Buona
+    • Lingua inglese: Parlato buono - Scritto buono - conoscenza lingua tecnica Ottima
+
+Conoscenze informatiche
+
+sistemi operativi	    • Unix 
+    • Dos
+    • Windows 3.x/9x
+    • Windows NT Family
+    • Android
+
+Database	    • Oracle
+    • PostgreSQL
+
+linguaggi e tool	    • C
+    • Java\JSP
+    • HTML
+    • PHP
+    • EPUB
+    • Ant
+    • NodeJS
+    • Eclipse
+    • Junit & Jasmine.js
+    • Android Development Tools (ADT)
+    • HTML5 Boilerplate & H5bp Mobile
+    • cordova/phonegap for android
+    • XUI, jquery & jquery Mobile
+    • ripple emulator
+    • oracle vmplayer
+    • Visual Basic
+    • Borland IDE
+    • Visual Studio
+    • NetBeans
+    • Adobe DreamWeaver
+    • BEA WebLogic
+    • GCC\DJGPP
+    • Vi(Vim)
+    • Adobe Photoshop
+    • Adobe Première
+    • Adobe Flash
+    • Microsoft Office
+
+
+networking	    • Installazione e amministrazione LAN in ambito NT, linux, miste via Samba
+    • Configurazione Server di stampa, DNS, WINS, DHCP, WEB(Apache, IIS), FTP
+Esperienze lavorative
+Dicembre 2012 - febbraio 2013	    • Sede. Analisi e sperimentazione di una toolchain per lo sviluppo di App ibride su piattaforma Android, con particolare attenzione per le seguenti teconologie:
+        ◦ automatizzazione del deploy con Ant
+        ◦ sviluppo in java su eclipse
+        ◦ unit testing in java e javascript
+        ◦ sviluppo specifico android con Android Developement tools (ADT)
+        ◦ sviluppo javascript e librerie specifiche
+        ◦ uso toolchain cordova/phonegap per android
+        ◦ sviluppo misto java\js
+        ◦ sviluppo WebApp HTML5/CSS3
+        ◦ uso emulatori specifici software e web.
+tra gli altri, alcuni dei tool approfonditi nell'ambito sono Ant, NodeJS, Eclipse, JUnit, ADT, H5BP Mobile, cordova (phonegap/saleforce SDK/facebook SDK) per android, XUI, jquery e Jq Mobile, Jasmine.js, ripple emulator, androVM, Bluestack Player.
+Dicembre 2007 – Ottobre 2012	    • Telecomunicazioni. Supervisione attivita' di Provisioning tecnico in OLO: monitoraggio del sistema di Network Inventory, della consistenza sistemistica della Customer Base, dei tracciati verso Telecom Italia per le richieste di posizioni per le attivazioni in centrale; verifica del rispetto degli SLA contrattuali da parte dei Vendor on field, verifica delle configurazioni logiche sugli apparati di accesso. inoltre supporto tecnico PL/SQL di primo livello sull'applicativo di network inventory. Milano.
+giugno 2007
+	    • Società distribuzione energia. sviluppo PL\SQL. Milano.
+Aprile - maggio 2007	    • Società noleggio autoveicoli. analisi e sviluppo desiderata per applicativo verticale. Milano.
+Febbraio - marzo 2007	    • Provider televisivo. Milano. sviluppo PL\SQL e Crystal Report per i report giornalieri di vendita.
+Gennaio - febbraio 2007	    • Istituto bancario. testing applicativo. Milano – sede centrale. 
+Settembre 2006 - dicembre 2006	    • Telecomunicazioni. Gruppo help desk Oracle WorkFlow III livello. risoluzione bad task in Oracle workflow. Milano – varie sedi.
+Maggio 2005 – Luglio 2006	    • Ente regionale sanitario misto pubblico-privato. Tecnico informatico Agente Monitoraggio server . Monitoraggio di tutta la rete estesa su ampiezza regionale. Utilizzo di piattaforma HP OpenView (reportistica messaggi) in ambiente Solaris. Primo screening messaggistica server. Attività H24. Gestione in autonomia del servizio. Milano.
+8 Febbraio 2005- 6 Maggio 2005	    • Attività di Supporto aggiornamento strutture informatiche regionali presso sede ospedaliera. attività in autonomia. tracciamento modifiche rete. installazione reti wi-fi. Bergamo.
+Gennaio 2005	    • Assistenza telefonica SOHO per grande società di integrazione sistemi su clienti come centri di ricerca medica, enti finanziari statali e istituti bancari privati. Attività su turni. Assistenza anche per telecontrollo via VNC. Buccinasco (MI).
+Dicembre 2004	    • Affiancamento monitoraggio applicativi web a valore aggiunto rete umts - reparto “prodotti”. UMTS. Monitoraggio applicativi BEA WebLogic su piattaforma Unix. Operatività su turni. Milano.
+Giugno – Settembre 2004	    • Società di assicurazioni. Aggiornamento e verifica DB anagrafica. Correzione e formattazione dati anagrafici clientela da fornire agli sviluppatori per la conversione di formato. Attività in autonomia. Elemento chiave continuo feedbak in report excel. Genova.
+Ottobre 2003 – Maggio 2004	    • Società di gestione contact center in outsourcing per conto di multinazionale informatica di consumo. Tecnico informatico Agente assistenza pc home series (Help Desk II liv.). Assistenza telefonica su PC Home User. Ottimo tasso personale di problemi risolti e Customer satisfaction. Ben inserito in un ottimo team di lavoro. All'interno della struttura europea della società, il reparto Home PC Italia del progetto in questione innalzava continuamente i livelli minimi di customer satisfaction e risoluzione problemi, oltre a riscontrare preventivamente le nuove problematiche con la maggior precisione. Milano.
+Luglio – Agosto 2003	    • Azienda produttrice elettrodomestici, settore bianco. Operatore\Sysadmin al monitoring EDP. Monitoraggio e lancio processi batch notturni e diurni – prima analisi sulle problematiche eventuali. attività su turni. Sistema Applicativo AIX/Oracle. Problematiche relative alla migrazione in corso da piattaforma FORMS30 a Web/Java. Durante l'allargamento bacino d'utenza a tutte le filiali europee. Brugherio(MI)
+Marzo – Giugno 2003	    • Istituto bancario. Monitoraggio On-Site post installazione nel Roll-out delle filiali lombarde. testing operatività utenti e prima assistenza. Provincia di Milano e Limitrofe.
+Gennaio – Febbraio 2003	    • Società informatica sistema gestione Casse per marchio europeo della grande distribuzione. Affiancamento resp. di progetto . Riesame completo del codice. Ambiente operativo Unix SysV\Oracle. Linguaggi utilizzati dal sw: bash, Pro*C, SQL, FORMS. Cusago(MI)
+Novembre 2002	    • Upgrade HW\SW filiale istituto bancario. Ruolo: Sostituzione POS e terminali, installazione, riconfigurazione server. Intervento a Spot eseguito in contemporanea su tutte le filiali in una singola giornata lavorativa. Intervento gestito in autonomia. Primo intervento terminato fra tutte le filiali. Rho (MI).
+Settembre – Ottobre 2002	    • Telecomunicazioni. Censimento Apparecchiature informatiche sedi. rilevamento numero apparecchiature informatiche e registrazione seriali. Gestione di una squadra di 5 elementi. Consegna puntuale del progetto pur in condizioni di lavoro non ottimali. Milano – varie sedi. 
+Maggio – Luglio 2002	    • Telecomunicazioni. Censimento Apparecchiature informatiche sedi. rilevamento numero apparecchiature informatiche e registrazione seriali. Gestione di una squadra di 5 elementi. Consegna puntuale del progetto pur in condizioni di lavoro non ottimali. Milano – varie sedi. 
+Aprile – Maggio 2002	    • system integrator in ambito farmaceutico. Operazioni “daily” su dati telecomunicati, ambiente Operativo Microsoft SQL/Première. Attività di monitoring. Milano.
+Marzo – Aprile 2002	    • multinazionale informatica. Gruppo Test SAP Global Help Desk. prima assistenza problematiche reparti produzione nell'utilizzo del sistema gestionale SAP. estensione help desk: ramo italiano help desk mondiale. Attività su turni.  Attività in completo start-up, nessun sostegno da esperienze di team precedenti.  Turno notturno in completa autonomia.  Vimercate (MI).
+Ottobre – Marzo 2002	    • Elettronica per le telecomunicazioni. Assistenza On Site stabilimenti. Assistenza e configurazione attrezzature informatiche da ufficio. Basso tempo di intervento. Ottimo lavoro di squadra. Cassina de Pecchi e Cinisello Balsamo (MI). 
+Giugno 2001	    • Test on site junior borchie per fibra ottica. Tokyo.
+Luglio 2001	    • Compagnia italiana produzione fibra ottica e sistemi comunicazione. Assistente Test di laboratorio su borchie per fibra ottica. Milano. 
+1999	    • Call center Vendita. Milano.
+

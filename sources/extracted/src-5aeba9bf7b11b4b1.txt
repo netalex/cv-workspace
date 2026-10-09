@@ -1,0 +1,5 @@
+{{ site.title }}
+
+[]
+
+{% for my_page in site.pages %} {% if my_page.title != "404: Page not found" %} {{ my_page.title }} {% endif %} {% endfor %}

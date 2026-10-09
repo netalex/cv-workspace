@@ -1,0 +1,244 @@
+ALESSANDRO APRILE
+
+SVILUPPATORE FRONT END
+aprile.alessandro@gmail.com +393200625543 github Linkedin - residente in Italia (fuso orario
+CET), operante da remoto, su Milano e Roma
+
+COMPETENZE
+Angular/AngularJs - React - React-native - Redux/RxJs - TypeScript/JavaScript - webRtc -
+Ionic/PhoneGap/Cordova - jasmine - jquery - html5/css3 - Sass/Scss - Bootstrap - Angular
+Material - PrimeNG - JSON - webSql - SQL - Oracle - Node - MongoDB - Express.js -
+OAUTH2 - JWT - KeyCloack/Openshift - jhipster - ambiente .NET - botpress - chatScrip -
+Metodologia Agile
+
+ESPERIENZE PROFESSIONALI
+
+Apprendo S.r.l / Excellence Innovation - 2025
+
+Sviluppatore Front End (Angular) - Marzo 2025 / Presente
+
+   •   Coinvolto nello sviluppo del CRM multitenant per il recruiting di private banker e di un
+       CMS customizzabile, nell’ambito delle soluzioni fintech di Excellence Innovation
+   •   Curato la migrazione di applicazioni Angular tradizionali (specifiche per tenant) dalla
+       versione 18 alla versione 19, garantendo compatibilità e continuità delle funzionalità
+   •   Integrato le diverse applicazioni in un monorepo Nx, ottimizzando la gestione del
+       codice, la scalabilità e il riutilizzo delle librerie comuni
+   •   Collaborato con il team backend su architettura PHP Laravel, assicurando un flusso dati
+       coerente tra front end e API
+   •   Sfruttato tecniche avanzate di standalone components, strict typing e strumenti Nx per
+       modernizzare e rendere più manutenibile l’intero ecosistema front end
+   •   Monorepo php/angular multitenat per gestione
+
+
+
+
+                                              1
+Volo Consulting/Orangee S.r.l - 2024
+
+Sviluppatore Front End (Angular) - ALKEMY - Luglio / Ottobre 2024
+   •   Lavorato su tre progetti interconnessi per il Comando Interforze del Ministero della
+       Giustizia italiano, focalizzati sui sistemi di gestione delle analisi del DNA
+       ◦ Implementato richieste di modifica critiche, garantendo un’integrazione perfetta con
+          le funzionalità esistenti
+       ◦ Condotto approfondite correzioni di bug, migliorando la stabilità complessiva del
+          sistema e l’esperienza utente
+       ◦ Sviluppato e integrato nuove funzionalità basate su requisiti di progetto in evoluzione
+       ◦ Collaborato con team interfunzionali per garantire il successo del deployment di tutti
+          e tre i progetti
+       ◦ Utilizzato competenze Angular per mantenere coerenza e prestazioni del codice su
+          molteplici applicazioni complesse
+
+THINKOPEN Milano Febbraio 2018 - Luglio 2024 (In remoto/In sede)
+
+Sviluppatore Front End (Angular) - ICCREA (In remoto) - 2024 (febbraio - giugno)
+   •   Manutenzione e aggiornamento di un’applicazione interna per un istituto bancario che
+       consente il caricamento massivo di file CSV contenenti dati contrattuali per mutui e
+       prestiti
+       ◦ Miglioramento e ottimizzazione del codice, ottenendo un notevole aumento delle
+           prestazioni del front-end
+       ◦ Implementazione di nuove funzionalità entro scadenze estremamente ristrette,
+           mantenendo la coerenza funzionale e di design
+       ◦ Integrazione di Git hooks per una distribuzione continua a prova di errore
+
+Sviluppatore Front End - GFT (In remoto) - 2023
+   •   Strumento di dashboard centralizzato per le filiali di una grande compagnia assicurativa
+       ◦ Test del Front End, raggiungendo una copertura dell’80% in una base di codice di
+           circa 116.000 righe
+       ◦ Mentoring degli sviluppatori junior attraverso sessioni di pair programming e
+           supporto costante, riducendo il tempo di inserimento del 50%
+       ◦ Integrazione dell’editor WYSIWYG di PrimeNG in un componente personalizzato
+           altamente specializzato
+
+Sviluppatore Front End (Angular) - Engineering (In remoto) - 2022
+   •   Sviluppo di una sezione front end del portale CRM per il Ministero della Difesa italiano -
+       Marina militare
+       ◦ Integrazione della libreria JavaScript puro “Ace.js editor” come componente Angular
+           personalizzato
+
+
+                                               2
+       ◦   Onboard degli sviluppatori junior attraverso il pair programming, supportandone
+           l’inserimento e l’autonomia
+       ◦   Impostazione del framework agile, garantendo efficienza durante tutto il progetto
+       ◦   Perfezionamento dei requisiti in un team interfunzionale di 10 persone tra
+           sviluppatori Front End/Back End e specialisti di database
+       ◦   Gestione di una base di codice di almeno 8000 righe per il rilascio iniziale
+
+Sviluppatore Front End in ambito A&M (Advancement and Maintenance) (Angular)
+- GFT (In remoto) - 2022
+   •   Contribuito alla fase di avanzamento e manutenzione del software, focalizzandomi su:
+       ◦ Implementazione di nuove funzionalità per migliorare le capacità del sistema
+       ◦ Ottimizzazione delle prestazioni e risoluzione di bug critici
+       ◦ Collaborazione con il team per garantire un’evoluzione fluida e stabile del software
+
+Sviluppatore Front End (React) - NextIP Milano (In sede) - 2022
+   •   Front End React per un CRM all-in-one per call center
+       ◦ Trasformazione di parte del Front End da una vecchia applicazione web PHP
+          monolitica a React, aumentando la velocità del 20%
+
+Sviluppatore Front End (React) - Abstract (In remoto) - 2020/2022
+   •   Suite di app mobile e web per il processo decisionale aziendale
+       ◦ Redazione di oltre 50 pagine di documentazione tecnica, migliorando l’inserimento
+       ◦ Manutenzione degli sviluppi post-rilascio come membro più anziano del team
+       ◦ Scrittura del codice per tutte le app, ciascuna accresciuta fino a 10.000 righe in più
+
+Sviluppatore Front End (Angular) - Engineering/A-Ice (In sede/In remoto) - 2020
+   •   Software di gestione della manutenzione per aeromobili
+       ◦ Ristrutturazione di questa applicazione legacy come SPA Angular, aumentando la
+          velocità del 20%
+
+Sviluppatore Front End (Angular) - EmmeLibri Milano (In sede) - 2020
+   •   Front End ERP per la distribuzione di libri B2B
+       ◦ Manutenzione del codice e implementazione delle richieste di modifica, riducendo i
+          bug del 50%
+       ◦ Formazione dei colleghi su Angular, riducendo i tempi di inattività per onboarding del
+          25%
+
+Sviluppatore Front End (Angular) - Intesi Milano (In sede) - 2018/2020
+   •   Sviluppo di un’interfaccia di gestione degli accessi bancari PSD2
+       ◦ Progettazione del flusso dell’applicazione in base alle specifiche architetturali
+       ◦ Produzione della documentazione di analisi funzionale per una partenza chiara
+       ◦ Istruzione e formazione di 4 sviluppatori junior, rispettando tutte le scadenze fino alal
+           consegna definitiva
+
+                                                3
+Sviluppatore Front End (Angular) - Spindox Milano (In sede) - 2019
+   •   Interfaccia web per il sistema di vendita al dettaglio integrato di dispositivi medici
+       ◦ Formazione di uno sviluppatore junior per un passaggio di consegne rapido e indolore
+           da 0 esperienza Angular in soli 2 mesi
+       ◦ Revisione dei documenti DEI suggerendo implementazioni e miglioramenti del Front
+           End
+
+Sviluppatore Front End (Angular) - Vittoria Assicurazioni Milano (In sede) - 2018
+
+Sviluppatore Front End (Angular) - Lutech Milano (In sede) - 2018
+   •   Sviluppo di un’app web IVD LIS per laboratori clinici
+       ◦ Sviluppo dell’interfaccia in Angular e PrimeNG
+       ◦ Produzione della documentazione del progetto, SDS e TP, secondo ISO 13485:2012
+
+
+Sviluppatore Front End (AngularJS) - ABB PowerOne Arezzo Toscana
+(In sede) - 2017
+   •   Interfaccia Front End per un’app di controllo intelligente per solar farm
+       ◦ Costruzione e test di funzioni e componenti specifici
+
+
+3Wlab Milano/Roma (In remoto/In sede)
+
+Sviluppatore Front End (AngularJS) - (In remoto) - 2015-2017
+   •   Sviluppo di un sistema integrato di gestione documentale per il settore pubblico
+       ◦ Progettazione e implementazione autonoma della struttura frontend per la prima demo
+       ◦ Coordinamento di esperti HTML e grafici
+
+Sviluppatore Front End (vanilla JavaScript) - Roma (In sede) - 2017
+   •   Sviluppo di un framework di intelligenza artificiale P.A./ chat-bot per POC - (In sede) -
+       2017
+       ◦ Ricerca e selezione di componenti open-source per creare un’interfaccia Chatbots in
+           NodeJs. L’obiettivo era una webchat POC con funzionalità di intelligenza artificiale
+           come pagina FAQ
+
+Sviluppatore HTML - Avanade - Milano (In sede) - 2016
+   •   Creazione di landing page con standard moderni
+
+Sviluppatore Front End (AngularJS) - Winga - Milano (In sede) - 2015
+   •   microfrontend angular su portale velocity per casinò online
+       ◦ Revisione completa e refactoring del Front-end, riducendo i tempi di inattività
+          dell’applicazione a meno dell’1%
+
+
+                                                4
+Sviluppatore Front End (vanilla JavaScript) - DS Group Milano (In
+sede) - 2014-2015
+   •   Sviluppo di un CMS mobile cross-platform basato sul paradigma delle app ibride
+       ◦ Personalizzazione dell’interfaccia HTML5 di un framework ibrido per la
+           distribuzione di contenuti specifici per il cliente che implementa una replica locale del
+           backend Java sui dispositivi mobili
+
+Sviluppatore Front End (html/JavaScript) - CERVED Milano (In sede) -
+2014
+   •   App web per la gestione del portafoglio finanziario e del rating
+       ◦ Semplificazione dello sviluppo del Front End, sfruttando le best practice come unico
+          sviluppatore Front End
+       ◦ Apprendimento e pratica di Agile
+
+
+Sviluppatore di app ibride (PhoneGap) - FORGE Replay Milano (In
+sede) - 2013-2014
+   •   Sviluppo di un’app ibrida di redeem (riscatto) della gamification
+       ◦ Formazione del team su PhoneGap/Cordova
+       ◦ Gestione delle API social e dell’integrazione di servizi di monetizzazione esterni
+       ◦ Configurazione dell’ambiente di sviluppo multipiattaforma
+
+
+Sviluppatore di app ibride (Vanilla JavaScript) - FREELANCE (In
+remoto) - 2013-2014
+   •   App per la gestione di materiale biologico per Android, piattaforma ibrida
+       ◦ Ideazione di un’app PhoneGap per checklist con scansione di codici a barre come
+          sviluppatore unico. Utilizzo offline in uno stoccaggio di materiale biologico
+          deperibile isolato dalla rete
+
+Sviluppatore PL/SQL e JavaScript - AreaTC Milano/ (In remoto/In
+sede) - 2008-2013
+
+Sviluppatore JavaScript junior - AreaTC (In sede) - 2013
+
+Sviluppatore PL/SQL - TelCo (In sede) - 2008-2013
+   •   Analisi in tempo reale PL/SQL e risoluzione dei problemi del net-db nel settore delle
+       telecomunicazioni
+       ◦ Ideazione di query SQL pure su sistemi Oracle in produzione per risolvere problemi
+           sul net-db
+
+
+
+
+                                                5
+Supporto IT - (In remoto/In sede/all’estero) - 2000-2010
+
+ISTRUZIONE E APPRENDIMENTO CONTINUO
+   •   Apprendimento continuo sull’IA nella programmazione, LLM e le loro applicazioni nello
+       sviluppo frontend
+       ◦ Esplorazione di nuovi approcci e modelli introdotti in Angular dalle versioni 16 e 17
+       ◦ Sviluppo di prompt dettagliati per ottimizzare lo sviluppo del codice
+       ◦ Interesse per gli agenti AI e il loro potenziale nello sviluppo frontend
+   •   Fabio Biondi (Google Developer Expert, Microsoft MVP, istruttore professionale Front
+       End, relatore regolare a codemotion)
+       ◦ Architetture Enterprise in Angular 9 & NGRX 9 - online - 2019
+       ◦ Mastering Angular 2gg - In sede - Roma - 2018
+       ◦ Training “ANGULAR & TYPESCRIPT CORE CONCEPTS (Angular
+            Fundamentals)” - online e In sede - Firenze 2gg - 2018
+   •   LinkMe "Mean Milan"
+       ◦ “LOG.ED - AngularJS Intermediate” 8h e “AngularJs Quickstart ‘B’” - Coworking
+            “Login” - Milano - In sede - 2015
+   •   Istituto “FOR”/Prometheo - Corso JavaScript One-to-one - 20h - 2013
+
+LINGUE
+Italiano: Madrelingua - Inglese: Fluente - Francese: Fluente
+Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi dell’art. 13 d. lgs. 30
+giugno 2003 n. 196 - “Codice in materia di protezione dei dati personali” e dell’art. 13 GDPR
+679/16 - “Regolamento europeo sulla protezione dei dati personali”.
+
+
+
+
+                                                6
+

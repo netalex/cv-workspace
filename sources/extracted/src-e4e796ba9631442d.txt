@@ -1,0 +1,294 @@
+Alessandro Aprile
+
+Sviluppatore web Front End e Hybrid app
+
+DATI ANAGRAFICI
+
+Nato a Sesto San Giovanni (MI), il 01/07/1977
+
+Residente in Via volontari del sangue, 182 20099 Sesto San Giovanni (MI)
+
+Opero su Milano, Roma, Parigi.
+
+Telefono +39 320 062 5543
+
+E-mail aprile.alessandro@gmail.com
+
+Skype net-alex
+
+[me]
+
+PROFILO
+
+Sviluppatore web Front End
+
+sviluppo in javascript
+
+-   app mobile ibride in tecnologia cordova
+-   front end dinamico
+    -   Single page Application ( SPA ) in
+        -   html5 e javascript
+        -   framework avanzati (AngularJS, Angular)
+-   app nodeJs (fullstack)
+-   chatbot UI e frontend
+-   definizione di API REST
+
+utilizzando quando possibile strumenti quali git, jira e e metodologie di lavoro agile per interagire con il team.
+
+Argomento ATTUALE
+
+Sto utilizzando il framework Angular con particolare attenzione alla versione 6.
+
+altro
+
+Sono attivo sulla scena devOps e meetUp del mondo javascript, in cui mi interesso tra l'altro di intelligenza Artificiale e chatbot.
+
+Ho rafforzato ulteriormente le mie competenze approfondendo scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire redazione di documenti e stesura di documentazione tecnica e non, anche in lingua francese e inglese, gestione della comunicazione diretta e scritta in ambito lavorativo, formazione. In quest'ottica mi sono occupato anche di selezione del personale.
+
+Nel corso della mia attività ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate. Ho affrontato problematiche come gestione e organizzazione di gruppi di lavoro, il contatto diretto coll'utente, la gestione di interventi brevi ma strategici e puntuali, sia in ambiti di analisi e sviluppo che di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving.
+
+Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz'altro attività sul territorio e missioni all'estero: Mi muovo infatti tra Milano e Roma con appoggi a Parigi e ho lavorato presso clienti anche in Giappone (mitsui).
+
+COMPETENZE
+
+Linguistiche
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto asperiores dolorum et molestiae ad fugit voluptates mollitia officia blanditiis modi hic, aperiam, dolores assumenda quia, dicta tempore quos repudiandae?
+
+Professionali
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto asperiores dolorum et molestiae ad fugit voluptates mollitia officia blanditiis modi hic, aperiam, dolores assumenda quia, dicta tempore quos repudiandae?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto asperiores dolorum et molestiae ad fugit voluptates mollitia officia blanditiis modi hic, aperiam, dolores assumenda quia, dicta tempore quos repudiandae?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto asperiores dolorum et molestiae ad fugit voluptates mollitia officia blanditiis modi hic, aperiam, dolores assumenda quia, dicta tempore quos repudiandae?
+
+Altre
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto asperiores dolorum et molestiae ad fugit voluptates mollitia officia blanditiis modi hic, aperiam, dolores assumenda quia, dicta tempore quos repudiandae?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto asperiores dolorum et molestiae ad fugit voluptates mollitia officia blanditiis modi hic, aperiam, dolores assumenda quia, dicta tempore quos repudiandae?
+
+PERCORSO DI STUDI
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+INTERESSI
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+ALTRE INFORMAZIONI
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis accusamus unde ab, consequuntur quos possimus excepturi obcaecati officia alias pariatur veritatis, dolores incidunt quasi facilis sequi sit amet minus quo.
+
+ESPERIENZE PROFESSIONALI SALIENTI
+
+  Questa sezione è divisa in tre periodi:
+
+  -   dal 2013 ad oggi (sviluppatore software)
+  -   dal 2005 al 2013 (operatore SQL)
+  -   dal 2000 al 2005 (tecnico generico) ad indicare altrettanti periodi della mia carriera.
+
+- dal 2013 ad oggi
+
+Sviluppatore software
+
+Sviluppatore JavaScript\TypeScript per varie aziende e come free lance in ritenuta su progetti principalmente frontend e ibridi.
+
+Giugno - Luglio 2018 - Anagrafica Filiali brand assicurativo
+
+web app gestione anagrafica e calcolo rischio per brand assicurativo in angular 6
+
+Descrizione progetto
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga adipisci consectetur harum, totam praesentium iusto ducimus dignissimos. Omnis atque provident aut veniam laboriosam quibusdam ipsam! Neque distinctio sed minima impedit!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cumque at excepturi rerum voluptatibus eveniet possimus neque ratione est assumenda ullam molestiae asperiores quasi totam, voluptates quas numquam saepe? Amet?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda rem, iusto culpa labore suscipit distinctio architecto velit, amet iure eaque sequi itaque dolore quidem molestiae consequuntur, sint consectetur nesciunt nam.
+
+Attività
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+Tecnologie e linguaggi utilizzati
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+- dal 2005 al 2013
+
+Operatore Oracle PL/sql
+
+analisi e troubleshouting in real time delle problematiche net-db in ambito telCo. Presso sedi varie telCo, per AreaTc azienda informatica - Milano
+
+selezione del personale - colloqui tecnici. Presso AreaTc azienda informatica - Milano
+
+Nome Progetto
+
+descrizione breve
+
+Descrizione progetto
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga adipisci consectetur harum, totam praesentium iusto ducimus dignissimos. Omnis atque provident aut veniam laboriosam quibusdam ipsam! Neque distinctio sed minima impedit!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cumque at excepturi rerum voluptatibus eveniet possimus neque ratione est assumenda ullam molestiae asperiores quasi totam, voluptates quas numquam saepe? Amet?
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda rem, iusto culpa labore suscipit distinctio architecto velit, amet iure eaque sequi itaque dolore quidem molestiae consequuntur, sint consectetur nesciunt nam.
+
+Attività
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+Tecnologie e linguaggi utilizzati
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+-   lorem
+
+    lorem
+
+Alessandro Aprile – aprile.alessandro@gmail.com – +39 320 062 5543 Autorizzo l'utilizzo dei dati personali contenuti nel curriculum ai sensi del D.LGS. 196/2003

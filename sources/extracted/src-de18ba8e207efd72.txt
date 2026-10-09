@@ -1,0 +1,17 @@
+oggetti di cui sono competente:
+
+- Cordova\Phonegap
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- JQuery
+- JQueryMobile
+- dotJs
+- mustache
+- underscore
+- Backbone
+- Angular
+- MongoDB
+- JScroll 
+- REST\SOAP

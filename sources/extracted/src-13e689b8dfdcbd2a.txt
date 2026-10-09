@@ -1,0 +1,79 @@
+--- ---
+
+{{ site.data.cv.person.name }}
+
+{{ site.data.cv.person.profession }}
+
+[]
+
+-    {{site.data.cv.person.location}}
+-    {{site.data.cv.person.citizenship}}
+-    {{site.data.cv.person.email }}
+-    {{ site.data.cv.person.site }}
+-    {{site.data.cv.person.phone}}
+-    {{site.data.cv.person.github}}
+-    {{site.data.cv.person.stackoverflow}}
+
+Career
+
+{% for item in site.data.cv.career %}
+
+{{ item.position }}
+
+{{ item.dates }} {{item.company}} ({{item.location}})
+
+{{ item.summary }}
+
+{% if item.accomplishments.size > 0 %} Selected accomplishments: {% endif %}
+
+-   {{itemm.accomplishment}}
+
+{% endfor %}
+
+Technical skills
+
+ Backend
+
+{% for item in site.data.cv.technicalSkills.backend %} {{item.name}}
+
+{% endfor %}
+
+ Frontend
+
+{% for item in site.data.cv.technicalSkills.frontend %} {{item.name}}
+
+{% endfor %}
+
+ Other
+
+{% for item in site.data.cv.technicalSkills.other %} {{item.name}}
+
+{% endfor %}
+
+ Key competencies:
+
+-   {{item.tr}}
+
+Side Projects
+
+{% for item in site.data.cv.sideProjects %}
+
+{% if item.type == 'github' %}  {% elsif item.type == 'site' %}  {% endif %} {{item.name}}
+
+{{item.langs}}
+
+{{item.description}}
+
+{% endfor %}
+
+Education
+
+{% for item in site.data.cv.education %}
+
+{{item.name}}
+
+{{item.degree}} ({{item.dates}})
+
+{{item.link}}, {{item.location}}
+
+{% endfor %}

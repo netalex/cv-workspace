@@ -1,0 +1,598 @@
+Alessandro APRILE
+
+ Sviluppatore web Front End e Hybrid app
+
+DATI ANAGRAFICI
+
+Nato a Sesto San Giovanni (MI), il 01/07/1977
+
+Residente in Via volontari del sangue, 182 20099 Sesto San Giovanni (MI)
+
+Opero su Milano, Roma, Parigi.
+
+Telefono +39 320 062 5543
+
+E-mail aprile.alessandro@gmail.com
+
+Skype net-alex
+
+[]
+
+PROFILO
+
+Sviluppatore web Front End
+
+sviluppo in JavaScript e TypeScript
+
+-   
+
+-   
+
+-   -   
+
+    -   -   
+        -   
+
+-   
+
+-   
+
+-   
+
+utilizzando quando possibile strumenti quali git, jira e e metodologie di lavoro _agile_ per interagire con il team.
+
+Argomento ATTUALE
+
+Sto utilizzando il framework Angular con particolare attenzione alla versione 6.
+
+altro
+
+Sono attivo la scena devOps e meetUp del mondo JavaScript, in cui mi interesso tra l’altro di intelligenza Artificiale e chatbot.
+
+Ho rafforzato ulteriormente le mie competenze approfondendo scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire redazione di documenti e stesura di documentazione tecnica e non, anche in lingua francese e inglese, gestione della comunicazione diretta e scritta in ambito lavorativo, formazione. In quest’ottica mi sono occupato anche di selezione del personale.
+
+Nel corso della mia attività ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate. Ho affrontato problematiche come gestione e organizzazione di gruppi di lavoro, il contatto diretto coll’utente, la gestione di interventi brevi ma strategici e puntuali, sia in ambiti di analisi e sviluppo che di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving.
+
+Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz’altro attività sul territorio e missioni all’estero: Mi muovo infatti tra Milano e Roma con appoggi a Parigi e ho lavorato presso clienti anche in Giappone (mitsui).
+
+COMPETENZE
+
+Linguistiche
+
+-   
+-   
+
+Professionali
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+Altre
+
+-   
+-   
+-   
+-   
+-   
+-   
+
+PERCORSO DI STUDI
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+-   -   
+
+-   
+
+-   -   
+
+-   
+
+-   
+
+-   
+
+ ALTRE INFORMAZIONI
+
+ESPERIENZE PROFESSIONALI SALIENTI
+
+Questa sezione è divisa in tre periodi:
+
+-   
+-   
+-   
+
+ad indicare altrettanti periodi della mia carriera.
+
+-   -   -   
+
+Sviluppatore software
+
+Sviluppatore Js\Ts per varie aziende e come free lance in ritenuta su progetti principalmente frontend e ibridi.
+
+Anagrafica Filiali brand assicurativo 2018
+
+web app gestione anagrafica e calcolo rischio per brand assicurativo in angular 6
+
+Descrizione progetto
+
+interfaccia di registrazione clientela interna al desk delle filiali del gruppo assicurativo. Supporto a progetto già avviato. Sviluppo in house.
+
+Attività
+
+Mi sono occupato di:
+
+-   
+-   
+-   
+-   
+
+Tecnologie e linguaggi utilizzati
+
+-   
+-   
+
+IVD LIS per laboratori clinici 2018
+
+web app di IVD LIS per laboratori clinici
+
+Descrizione progetto
+
+re-implementazione in angular 6 su backend c# del frontend di una soluzione middleware IVD (In vitro diagnostics) per LIS (Laboratory information system) di dispositivi pre-analitici, analitici e post-analitici di laboratori clinici, conforme ISO 13485:2012. L'applicazione era originariamente sviluppata in delphi, il progetto ne è quindi una riscrittura completa.
+
+Attività
+
+Mi sono occupato di:
+
+-   
+
+-   -   
+    -   
+
+-   
+
+-   
+
+-   
+
+Tecnologie e linguaggi utilizzati
+
+-   
+
+Frontend app per Solar farm controller 2018
+
+interfaccia di controller intelligente per solar farm
+
+Descrizione progetto
+
+per una multinazionale, presso la sede di Arezzo e in remoto, all’interno di un progetto IoT per la produzione di un sistema di gestione grid di solar farm, sono stato inserito nel team di sviluppo del cliente dell’interfaccia di controllo in angularJs.
+
+Attività
+
+Mi sono occupato di:
+
+-   
+-   
+
+Tecnologie e linguaggi utilizzati
+
+-   
+-   
+
+Node app di time scheduling risorse aziendali (POC per plugin Wordpess) 2017
+
+Calendario-Scheduler ad uso interno in nodeJs
+
+Descrizione progetto
+
+Realizzazione di una app nodeJs basata sul plugin jquery fullcalendar per la visualizzazione del carico risorse umane aziendali - progetto interno aziendale da integrare nel sito intranet trasformandolo in un plugin per wordpress
+
+Attività
+
+mi sono occupato di:
+
+-   
+-   
+-   
+-   
+
+Tecnologie e linguaggi utilizzati
+
+-   
+
+-   
+
+-   -   
+
+-   
+
+-   -   
+
+ POC ChatBot UI per P.A. 2017
+
+Framework di A.I. Chatbot interno aziendale per POC
+
+ Descrizione progetto
+
+Mi sono occupato della ricerca e selezione dei componenti opensource per la realizzazione di un framework per interfacce dialogiche intelligenti (ChatBot) interno in ambito nodeJs. L’obiettivo è la produzione di un POC di una webchat dotata di intelligenza artificiale da proporre come Proof Of Concept ad un ente di P.A. in sostituzione delle loro FAQ.
+
+ Attività
+
+mi sono occupato di:
+
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati
+
+ho valutato l’impiego di varie tecnologie Node, tra cui
+
+-   
+-   
+-   
+-   
+-   
+-   
+
+Front end development in ambito P.A. (angular) 2016
+
+Riscrittura interfaccia di un prodotto documentale integrato come web app front end based in sostituzione parziale della preesistente interfaccia Backend based in java, per clienti finali nella P.A. e nelle partecipate statali
+
+ Descrizione progetto
+
+A partire da un documento di progetto e relative API lato server in sviluppo parallelo, il progetto consiste in una single page application in forma di dashboard attiva dotata di tutte le funzioni C.R.U.D. per operare sui protocolli documentali, la gestione di funzionalità attraverso l’implementazione del drag&drop all’interno dell’applicazione, la gestione di firma elettronica (PEC), upload e download dei documenti sul server e naturalmente sicurezza e permessi di accesso su più utenze. Il progetto è realizzato come applicazione Angular 1. Il progetto è stato realizzato in modalità remota su un gruppo distribuito utilizzando tecniche di devOp (git, grunt, gulp) e strumenti agile (jira)
+
+ Attività
+
+mi sono occupato di:
+
+-   
+-   
+-   
+-   
+
+Nella successiva fase di produzione mi sono occupato di:
+
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+Front end development in ambito P.A. - progetto gemello (angular) 2016
+
+Prodotto affine al precedente, con soluzioni miste backend e front end gestite in house
+
+ Descrizione progetto
+
+Si è fornito al cliente una soluzione completa di SPA front end inglobata in un backend dedicato autoprodotto (non di mia personale responsabilità) in grado di interfacciarsi alle strutture documentali del cliente in modo trasparente per il front end. Il backend era sviluppato in asp.net e le richieste del cliente prevedevano il passaggio alla versione 4, il frontend è in Angular 1.
+
+ Attività
+
+mi sono occupato di:
+
+-   
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+Front end development in ambito TLC 2016
+
+Realizzazione struttura pagine portali di brand c/o TLC sede
+
+ Descrizione progetto
+
+A partire da brief e psd del team UX cliente, in autonomia, - realizzazione dell’html statico homepage e landing page portale new brand - inserimento successivo su portale SAP Hybris
+
+ Attività
+
+mi sono occupato di:
+
+-   
+-   
+-   
+-   
+-   
+-   
+
+Tecnologie e linguaggi utilizzati
+
+-   
+-   
+-   
+-   
+
+Front end development in ambito automotive 2015
+
+Realizzazione struttura pagine portali di brand per gruppo automotive c/o system integrator
+
+ Descrizione progetto
+
+A partire da brief e psd di agenzia, su template basato su bower, gulp e sass, con framework css inuit, realizzazione dell’html statico da presentare per approvazione e inserimento successivo su portale adobe QS5
+
+ Attività
+
+mi sono occupato di:
+
+-   
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati
+
+-   
+-   
+-   
+
+ Online gambling portal: manutenzione e refactoring front-end 2015
+
+Manutenzione, integrazione, refactoring e ampliamento front end portale di online gambling per la parte html5/js in funzione di accesso web e mobile. Presso concessionaria gambling online, Milano
+
+ Descrizione progetto
+
+All’interno di un portale web di gambling su piattaforma tomcat/LifeRay customizzata con front-end basato su Apache Velocity, deployato e in attività, era necessario seguire
+
+supporto manutentivo
+
+refactoring del codice legacy in previsione di una riscrittura del portale
+
+predisposizione della versione app mobile dei giochi supportati dal portale.
+
+ Attività
+
+mi sono occupato di:
+
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati
+
+-   
+-   
+-   
+-   
+-   
+
+ Cms mobile multipiattaforma su paradigma dell’app ibrida 2014
+
+Sviluppo Js su piattaforma proprietaria di cms mobile multipiattaforma basata sul paradigma dell’app ibrida Presso software House (azienda di prodotto) – Milano
+
+ Descrizione progetto
+
+Realizzazione framework in-house verticalizzabile per la veicolizzazione di contenuti custom clienti, strutturato con un backend java duplicato in locale sui device mobile, sia per quanto riguarda la struttura che per i dati, in modalità ibrida multipiattaforma a partire da framework dalvik/objectiveC proprietario.
+
+ Attività
+
+Ero:
+
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati
+
+-   
+
+Web application tomcat based di gestione portafogli finanziari e rating 2014
+
+Sviluppo Js in team interno per web application tomcat based di gestione portafogli finanziari - modalità Agile, front end developer Presso Information Provider/rating agency - Milano
+
+ Descrizione progetto
+
+Realizzazione applicazione integrata di gestione reportistica di rating finanziario e statistico sul mercato aziendale italiano per clienti privati
+
+ Attività
+
+operavo in qualità di:
+
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati:
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+App di redeem 2013-2014
+
+Attività di sviluppo ibrido in ambito game con accesso alle REST Api dei social network, inserito in un team. presso game studio - Milano
+
+ Descrizione progetto
+
+Realizzazione di un’app per Android e iOS che permetta di ricevere da un server dedicato un elenco di task su social network (like e attività sociali similari per conto di clienti terzi) assegnati all’utente, registrarne l’esecuzione ed assegnare il corrispettivo in punti, permettendo quindi di “spenderli” in cambio di beni o convertirli in denaro su uno store integrato nell’app (funzione redeem).
+
+ Attività
+
+Sono personalmente stato incaricato di:
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati:
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   -   
+    -   
+    -   
+    -   
+
+ App di movimentazione materiale biologico in ambito medicale - 2014
+
+Sviluppo su commessa in ambito web/js su piattaforma Android. Consulenza in ritenuta d’acconto con clientela localizzata sul nord Italia
+
+ Descrizione progetto
+
+Il progetto, gestito in completa autonomia, prevedeva la realizzazione di un’app phonegap per uno specifico device Android in commercio (Galaxy SIIImini). Tale device sarà fornito in dotazione ai trasportatori. Il trasportatore sfrutterà l’app per effettuare l’operazione di spunta della bolla di carico attraverso lettura barcode. L'operazione si effettua sul campo, a partire da una lista di casse ottenuta dal server. L’app permette di navigare attraverso una serie di richieste REST con un livello progressivo di dettaglio all’interno delle attività di ritiro fissate sul territorio nazionale, fino ad ottenere la lista di casse da spuntare in bolla. L’app è in grado di gestire una modalità “offline” in previsione della situazione in cui il ritiro avvenga da celle frigorifere adatte allo stoccaggio di materiale biologico deperibile, in cui non è possibile accedere alla rete.
+
+ Attività
+
+Sono personalmente stato incaricato di:
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   -   
+    -   
+    -   
+
+-   
+
+-   
+
+-   
+
+-   -   
+
+-   
+
+-   
+
+-   
+
+-   -   -   
+
+Operatore Oracle PL/sql
+
+-   
+-   
+
+Sviluppatore Software (riqualificazione professionale)
+
+Blog Feed Reader - 2013
+
+ Descrizione progetto
+
+Progetto aziendale interno del cliente. in previsione dell’allora imminente chiusura del servizio “google feed”, si è pensato di realizzare un’app di feed reading
+
+-   
+
+-   
+
+-   -   
+    -   
+    -   
+
+Il progetto è stato pensato come “benefit” da fornire al - cliente che acquista il servizio di webApp/tecnical blog presso - l’azienda produttrice.
+
+ Attività:
+
+Sono personalmente stato incaricato di:
+
+-   
+-   
+-   
+-   
+-   
+-   
+-   
+
+ Tecnologie e linguaggi utilizzati:
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   
+
+-   -   
+
+    -   
+
+    -   
+
+    -   -   
+        -   
+
+-   -   -   

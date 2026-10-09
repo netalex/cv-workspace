@@ -1,0 +1,183 @@
+Alessandro APRILE
+
+Web Developer / Designer
+
+DATI ANAGRAFICI
+
+Nato a Sesto San Giovanni (MI), il 01 / 07 / 1977
+
+Residente in Via volontari del sangue, 182 - 20099 Sesto San Giovanni (MI) Italy
+
+Telefono 320 / 06.25.543
+
+E-mail
+
+aprile.alessandro at gmail dot com
+
+------------------------------------------------------------------------
+
+PROFILO
+
+Tecnico informatico, Sviluppatore software e web
+
+Mi occupo a vario titolo di informatica a livello professionale da circa 15 anni, a partire da un forte interesse personale.
+ho approfondito gli aspetti più attuali e innovativi dello sviluppo software, in particolare lo sviluppo web/HTML5 e mobile.
+ho partecipato a progetti basati su piattaforme CMS in-house e opensource, occupandomi di volta in volta del testing operativo come della stesura dei documenti di progetto, oltre che delle customizzazioni tecniche.
+Le mie competenze di web design, ma anche comunicative, mi mettono in grado di gestire un progetto web in autonomia.
+Le competenze da sviluppatore invece mi hanno permesso di cogliere il salto concettuale tra html tradizionale e HTML5/Ajax/JS e di far mio il concetto di WebApp come di progetto software a tutto tondo.
+In particolare con il framework Cordova ho affrontato la convergenza e la gestione di tecnologie differenti come java, javascript, la struttura di WebApp ibride e la gestione locale di servizi esterni come le google api, solo per portare qualche esempio.
+Oltre alla formazione continua in un ambito, quello dell web design, che mi è sempre appartenuto anche al di fuori delle necessità lavorative, e a momenti di formazione più tradizionale (dal corso op. multimediale già nei primi anni del web moderno all’ultima formazione personalizzata avanzata su javascript e HTML5) quando possibile sono solito portare un approccio “responsive e web”, come tecnologie e come approccio umano alla condivisione e operatività, anche in ambiti piu tradizionali in cui mi sono trovato ad operare (supporto OracleDB, sviluppo PL/SQL, analisi di progetto, testing, customizzzazione e manutenzione CMS e applicazioni verticali…)
+
+Ho rafforzato ulteriormente le mie competenze approfondendo scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire con competenza attività come la redazione di documenti e la stesura di documentazione tecnica e non, anche in lingua francese e inglese, la gestione della comunicazione diretta e scritta all’interno dell’ambito lavorativo, la formazione. In quest’ottica mi sono occupato anche di selezione del personale.
+
+Nel corso della mia attività ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate.
+Ho affrontato problematiche come gestione e organizzazione di gruppi di lavoro, il contatto diretto coll’utente, la gestione di interventi brevi ma strategici e puntuali, sia in ambiti di analisi e sviluppo che di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving.
+
+Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz’altro attività sul territorio e missioni all’estero.
+
+riferimenti notevoli relativi allo sviluppo di mobile webapp/hybrid app
+
+-   Corso Vanilla JavaScript LOG.ED presso Coworking Login, Milano
+-   Corso base Angular.Js LOG.ED presso Coworking Login, Milano
+-   Corso avanzato Javascript
+    corso di Javascript personalizzato (con docenza personale) Gestito da Prometheo
+-   studio basico del dialetto java nativo di android ( Dalvik) e della programmazione nativa android
+-   esperienza pluriennale nell’analisi di query sql
+-   Corso IFTS di Operatore Multimediale
+
+ESPERIENZE PROFESSIONALI SALIENTI
+
+-   dal 2013
+
+Sviluppatore software
+
+-   Manutenzione, integrazione, refactoring e ampliamento front end portale di online gambling per la parte html5\js in funzione di accesso web e mobile.
+    Presso concessionaria gambling online - Milano
+
+-   Sviluppo Js su piattaforma propietaria di cms mobile multipiattaforma basata sul paradigma dell’app ibrida
+    Presso software House (azienda di prodotto) - Milano
+
+-   Sviluppo Js in team interno per web application tomcat based di gestione portafogli finanziari - modalità Agile, front end developer
+    Presso Information Provider/rating agency - Milano
+
+-   Sviluppo in ambito web/js multipiattaforma Android/iOS per progetti puntuali.
+    Presso azienda informatica - Milano
+
+-   Sviluppo su commessa in ambito web/js su piattaforma Android.
+    Consulenza in ritenuta d’acconto con clientela localizzata sul nord italia
+
+------------------------------------------------------------------------
+
+-   dal 2005 al 2013
+
+Sviluppatore Software
+
+-   Sviluppatore software in ambito web/js su piattaforma Android.
+    Presso azienda informatica - Milano
+
+------------------------------------------------------------------------
+
+-   dal dicembre 2007 all’ottobre 2012
+
+Supervisore del Provisioning tecnico
+
+-   Supervisione delle attività di Provisioning tecnico in OLO;
+    monitoraggio del sistema di Network Inventory, della consistenza della Customer Base, dei tracciati verso Telecom Italia per le attivazioni in centrale;
+    verifica del rispetto degli SLA contrattuali da parte dei Vendor on field, verifica delle configurazioni logiche sugli apparati di accesso.
+    Supporto tecnico PL/SQL di primo livello sull’applicativo di network inventory.
+    In missione presso Fastweb -
+    Milano
+
+------------------------------------------------------------------------
+
+-   dal 2007 al 2008
+
+Consulente informatico
+
+-   Ambito prevalentemente SQL, in missione presso la sede dei clienti: EnelGas,
+    LocatRent, Sky, ALD Automotive, Lombardia Servizi
+    Presso azienda informatica - Milano
+
+------------------------------------------------------------------------
+
+-   dal 2000
+
+tecnico informatico
+
+-   Attività di gestione censimento hardware (gestione gruppi di lavoro) - milano
+
+-   installazioni on-site - lombardia
+
+-   test hardware on site borchie fibra ottica - tokyo
+
+COMPETENZE
+
+Linguistiche
+
+-   Inglese: fluente, scritto e parlato
+-   Francese: a livello scolastico, scritto e parlato
+
+Professionali
+
+-   Realizzazione di WebApp di tipo ibrido in HTML5/CSS3 per il mondo Mobile.
+-   Conoscenza approfondita di HTML, Javascript, SQL; conoscenza di PHP, Java;
+-   conoscenza di tool SQL, come Postgre SQL, Toad, Oracle.
+-   Esperienza nello sviluppo tramite Android Developement tools (ADT), cordova/phonegap, ionic, jquery, Jquery Mobile, ripple emulator, GenyMotion, oracle vmplayer, Bluestack Player
+-   conoscenza basica di CMS L.A.M.P. based( wordpress, joomla!)
+-   esperienza lato frontend di CMS professionali tomcat-based ( LifeRay) e template engine serverside ( Apache Velocity, FreeMarker)
+-   dimestichezza con lo stack M.E.A.N (MongoDB, Express.js, Angular.js, Node.js)
+-   uso di template engine clientside ( mustache, dot.js)
+
+Altre
+
+-   Svulippo in metodologia Agile
+-   competenze di editoria elettronica (EPUB editing e formattazione, conoscenza workflow ebook publishing) Utilizzo dei principali sistemi operativi ( Windows, Linux, OS X ). Conoscenza approfondita del pacchetto Office.
+-   Utilizzo dei principali software per la stesura di sceneggiature in ambito teatrale\cinematografico (es. Scrivener)
+-   Esperienza nella realizzazione di allestimenti fieristici.
+-   Esperienza nella gestione, comunicazione e promozione eventi commerciali, culturali ed artistici
+-   Editing di testi promozionali
+
+PERCORSO SCOLASTICO
+
+Diploma di maturità classica
+
+conseguito presso il Liceo Scientifico “Parco Nord” di Cinisello Balsamo (MI)
+nel 1998.
+
+Corso Regionale di programmazione C in ambiente Unix
+
+presso Centro di Formazione Professionale Pepe - Milano
+
+Corso IFTS n° 22, “Operatore Multimediale” e stage in azienda - Milano
+
+Corso FormaTemp “DB Oracle in ambiente Linux”
+
+Presso azienda informatica, Cernusco Sul Naviglio (MI)
+
+corso di Javascript personalizzato con docenza personale
+
+Presso FOR Institute - Prometheo Milano Centro
+
+Corsi Angular, Javascript - Formazione permanente
+
+Presso Coworking Login e Altri, Milano
+
+INTERESSI
+
+-   Informatica, con particolare interesse per il mondo dell’Open Source
+
+-   -   attualmente interessato ad approfondire il M.E.A.N stack
+
+-   Fotografia, Industrial Design, Arte e Architettura
+
+-   Narrativa, Giochi di Ruolo, Cinema, Fumetto e Animazione
+
+-   Motociclismo, Pattinaggio, Sci
+
+ALTRE INFORMAZIONI
+
+-   Disponibile a trasferte all’estero, anche di lungo periodo.
+
+------------------------------------------------------------------------
+
+  Autorizzo l’utilizzo dei dati personali contenuti nel curriculum ai sensi del D.LGS. 196/2003

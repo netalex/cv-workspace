@@ -6,7 +6,7 @@ Nessun CV allegato alla conversazione è stato letto o importato.
 
 ## Avvio su Windows
 
-Estrarre lo ZIP e aprire la cartella `cv-workspace` in VS Code. Nel terminale
+Clonare il repository (oppure estrarre lo ZIP) e aprire la cartella `cv-workspace` in VS Code. Nel terminale
 PowerShell, dalla radice del progetto:
 
 ```powershell
@@ -23,20 +23,35 @@ Se il comando `python` non è disponibile, usare `py -3` per creare `.venv`.
 Requisiti: Python 3.10+, Pandoc e LibreOffice. Unica dipendenza Python: PyYAML.
 Il progetto non usa Node, API AI, chiavi o servizi a pagamento aggiuntivi.
 
-`doctor` verifica che i programmi siano richiamabili. LibreOffice viene cercato
-anche nella cartella standard Windows. Se necessario, nella sessione PowerShell:
+`doctor` verifica che i programmi siano richiamabili. Su Windows lo script
+preferisce `soffice.com`, l'eseguibile console di LibreOffice. Cerca nel PATH,
+nelle cartelle standard e nelle installazioni Scoop utente/globali, includendo
+`apps/libreoffice/current/LibreOffice/program`. Riconosce anche `SCOOP` e
+`SCOOP_GLOBAL` per percorsi personalizzati.
+
+Se necessario, impostare il percorso esplicito nella sessione PowerShell:
 
 ```powershell
-$env:SOFFICE_PATH = 'C:\Program Files\LibreOffice\program\soffice.exe'
-# Solo se Pandoc non è nel PATH, sostituire con il suo percorso reale:
-# $env:PANDOC_PATH = 'C:\percorso\pandoc.exe'
+$env:SOFFICE_PATH = 'C:\Users\netal\scoop\apps\libreoffice\current\LibreOffice\program\soffice.com'
+# Adattare il percorso alla propria installazione.
+# Per conservarlo nelle sessioni future:
+[Environment]::SetEnvironmentVariable('SOFFICE_PATH', $env:SOFFICE_PATH, 'User')
+# Solo se Pandoc non è nel PATH, impostare PANDOC_PATH al suo eseguibile.
 ```
+
+Un override `SOFFICE_PATH` valido ha precedenza sulla ricerca automatica.
+Se indica `soffice.exe` e accanto esiste `soffice.com`, viene usato quest'ultimo.
+In PowerShell usare `where.exe soffice`, non `where` (alias di `Where-Object`).
+Se `--version` termina correttamente ma non produce testo, doctor e build
+riportano "Versione non disponibile (output vuoto)" senza generare IndexError.
+Gli errori di esecuzione e le conversioni PDF fallite restano bloccanti.
 
 Aprire entrambi i PDF nella cartella stampata dal comando build. Sono presenti
 anche DOCX modificabili, messaggio Markdown e manifest con hash e versioni tool.
 I risultati dimostrativi già generati sono in `examples/rendered-demo/`.
-La generazione è stata provata in Linux: `doctor` e la demo verificano la tua
-installazione Windows, su cui font e impaginazione potrebbero differire.
+La demo è stata eseguita anche su Windows con Python 3.14.8, Pandoc 3.12 e
+LibreOffice tramite `soffice.com`. La ricerca automatica Scoop è coperta da test
+simulati; font e impaginazione vanno verificati nella propria installazione.
 
 ## Come è organizzato
 
@@ -176,3 +191,4 @@ Nessun repository remoto viene creato da questo pacchetto.
 Le verifiche coprono separazione demo, riferimenti non validi, evidenze non
 confermate, blocco delle modifiche dopo il build e mancata sovrascrittura degli
 snapshot. Il rendering effettivo si controlla con la demo e i PDF.
+

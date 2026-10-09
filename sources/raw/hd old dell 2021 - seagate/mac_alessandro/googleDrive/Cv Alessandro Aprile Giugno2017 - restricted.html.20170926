@@ -1,0 +1,1686 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="it-IT" dir="ltr">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+    <title>Alessandro Aprile Resume</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+
+<body>
+    <h1><a name="Alessandro_APRILE__Svilupatore_Front_End_Javascript_0"></a>
+<font face="Arial, sans-serif">Alessandro APRILE - Svilupatore Front
+End Javascript</font></h1>
+    <hr/>
+    <h2 class="western"><a name="DATI_ANAGRAFICI_4"></a><font face="Arial, sans-serif">DATI
+ANAGRAFICI</font></h2>
+    <p><strong><font face="Arial, sans-serif">Nato a</font></strong>
+        <font face="Arial, sans-serif">
+            Sesto San Giovanni (MI), il 01 / 07 / 1977</font>
+    </p>
+    <p><strong><font face="Arial, sans-serif">Residente in</font></strong></p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Via volontari del sangue, 182 &ndash; 20099 Sesto San Giovanni (</font><strong><font face="Arial, sans-serif">MI</font></strong>
+            <font face="Arial, sans-serif">)
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Via Marchionni 12, int 2bis &ndash; 00128 </font><strong><font face="Arial, sans-serif">Roma</font></strong>
+            <font face="Arial, sans-serif">
+                <br/> ITALIA
+            </font>
+        </p>
+    </ul>
+    <p><strong><font face="Arial, sans-serif">Telefono</font></strong>
+        <font face="Arial, sans-serif">
+            320 / 06.25.543</font>
+    </p>
+    <p><strong><font face="Arial, sans-serif">Stato civile</font></strong>
+        <font face="Arial, sans-serif">
+            celibe</font>
+    </p>
+    <p><strong><font face="Arial, sans-serif">E-mail</font></strong>
+        <font face="Arial, sans-serif">
+        </font>
+        <font face="Arial, sans-serif">aprile.alessandro@gmail.com</font>
+    </p>
+    <hr/>
+    <h2 class="western"><a name="PROFILO_23"></a><font face="Arial, sans-serif">PROFILO</font></h2>
+    <h3 class="western"><a name="Tecnico_informatico_Sviluppatore_software_e_web_26"></a>
+<font face="Arial, sans-serif">Tecnico informatico, Sviluppatore
+software e web</font></h3>
+    <h4 class="western"><a name="inizio_di_carriera_28"></a><font face="Arial, sans-serif">inizio
+di carriera</font></h4>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">vari settori IT </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">8 annni in ambito </font><strong><font face="Arial, sans-serif">SQL</font></strong>
+            <font face="Arial, sans-serif">
+                per le </font><strong><font face="Arial, sans-serif">TLC</font></strong>
+            <font face="Arial, sans-serif">
+            </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="attivit_come_progammatore_32"></a><font face="Arial, sans-serif">attivit&agrave;
+come progammatore</font></h4>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">specializzazione in </font><strong><font face="Arial, sans-serif">sviluppo front-end</font></strong>
+            <font face="Arial, sans-serif">
+                in </font><strong><font face="Arial, sans-serif">javascript</font></strong>
+            <font face="Arial, sans-serif">
+                con </font><strong><font face="Arial, sans-serif">applicazioni
+	ibride</font></strong>
+            <font face="Arial, sans-serif"> con il framework </font><strong><font face="Arial, sans-serif">Cordova\Phonegap</font></strong>
+            <font face="Arial, sans-serif">.
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Progetti di vario tipo: </font>
+        </p>
+        <ul>
+            <li/>
+            <p style="margin-bottom: 0cm">
+                <font face="Arial, sans-serif">sia come front-end developer, confrontandomi solitamente con </font><strong><font face="Arial, sans-serif">backend
+		Java-based</font></strong>
+                <font face="Arial, sans-serif"> come
+                </font><strong><font face="Arial, sans-serif">tomcat</font></strong>
+                <font face="Arial, sans-serif">
+                    e </font><strong><font face="Arial, sans-serif">LifeRay</font></strong>
+                <font face="Arial, sans-serif">,
+                </font>
+            </p>
+            <li/>
+            <p>
+                <font face="Arial, sans-serif">Sviluppo di app ibride per smartphone, sia in team che in autonomia. </font>
+            </p>
+        </ul>
+    </ul>
+    <p>
+        <font face="Arial, sans-serif">ambiti diversificati, oltre alle gi&agrave; citate TLC anche in ambito </font><strong><font face="Arial, sans-serif">marketing</font></strong>
+        <font face="Arial, sans-serif">,
+            <br/>
+        </font><strong><font face="Arial, sans-serif">entertainment</font></strong>
+        <font face="Arial, sans-serif">
+            e </font><strong><font face="Arial, sans-serif">finanziario</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">problematiche affrontate: </font><strong><font face="Arial, sans-serif">single
+page application</font></strong>
+        <font face="Arial, sans-serif">
+            (accesso ai dati via </font><strong><font face="Arial, sans-serif">REST</font></strong>
+        <font face="Arial, sans-serif">,
+        </font><strong><font face="Arial, sans-serif">persistenza</font></strong>
+        <font face="Arial, sans-serif">
+            nel browser, ma anche routing interno e implementazione pi&ugrave; o meno organica del </font><strong><font face="Arial, sans-serif">modello
+MVC</font></strong>
+        <font face="Arial, sans-serif">), automazion di front end.</font>
+    </p>
+    <h5 class="western"><a name="Vanilla_Javascript_43"></a><font face="Arial, sans-serif">Vanilla
+Javascript</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Ho sviluppato sia in javascript cosiddetto &quot;</font><strong><font face="Arial, sans-serif">vanilla</font></strong>
+        <font face="Arial, sans-serif">&quot; affrontando direttamente questi problematiche sia sperimentando framework come </font><strong><font face="Arial, sans-serif">underscore.js</font></strong>
+        <font face="Arial, sans-serif">. Questo mi ha portato a interessarmi al &quot;</font><strong><font face="Arial, sans-serif">M.E.A.N.
+Stack</font></strong>
+        <font face="Arial, sans-serif">&quot; e a indirizzarmi professionalmente verso il </font><strong><font face="Arial, sans-serif">full-stack
+development</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <h5 class="western"><a name="Angular_e_i_Framework_47"></a><font face="Arial, sans-serif">Angular
+e i Framework</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Ho approfondito poi in particolare il framework </font><strong><font face="Arial, sans-serif">angular.js</font></strong>
+        <font face="Arial, sans-serif">
+            (versione 1, passaggio ad </font><strong><font face="Arial, sans-serif">angular
+2</font></strong>
+        <font face="Arial, sans-serif"> in corso) e </font><strong><font face="Arial, sans-serif">node.Js</font></strong>
+        <font face="Arial, sans-serif">
+            attraverso lo studio personale e corsi in presenza, come elegante soluzione per le problematiche SPA. Attraverso </font><strong><font face="Arial, sans-serif">mongoDB</font></strong>
+        <font face="Arial, sans-serif">
+            inoltre ho rivisto le mie competenze sui database in ottica </font><strong><font face="Arial, sans-serif">NoSQL</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">Approfondimenti di studio in corso:</font>
+    </p>
+    <p><strong><font face="Arial, sans-serif">Ionic</font></strong>
+        <font face="Arial, sans-serif">, che integra proprio angular e cordova. Inoltre, mi documento sullla programmazione funzionale e sull&rsquo;attuale evoluzione di javascript, </font><strong><font face="Arial, sans-serif">ES2015</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <p><strong><font face="Arial, sans-serif">React</font></strong>
+        <font face="Arial, sans-serif">,
+        </font><strong><font face="Arial, sans-serif">Typescript</font></strong>
+        <font face="Arial, sans-serif">
+            e </font><strong><font face="Arial, sans-serif">Angular 2</font></strong>
+        <font face="Arial, sans-serif">
+            come prossimo obiettivo formativo</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">Sviluppo app web e ibride di media complessit&agrave; utilizzando il framework </font><strong><font face="Arial, sans-serif">angular
+1</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">Utilizzo anche componenti </font><strong><font face="Arial, sans-serif">React</font></strong>
+        <font face="Arial, sans-serif">
+            nella mia attivit&agrave; di redazione di pagine web.</font>
+    </p>
+    <h5 class="western"><a name="interfaccia_con_il_nativo_mobile_61"></a>
+<font face="Arial, sans-serif">interfaccia con il &ldquo;nativo&rdquo;
+mobile</font></h5>
+    <p><strong><font face="Arial, sans-serif">Non</font></strong>
+        <font face="Arial, sans-serif">
+            mi posso definire uno sviluppatore </font><strong><font face="Arial, sans-serif">Java</font></strong>
+        <font face="Arial, sans-serif">, n&eacute; nativo per Dalvik\Android o ObjectiveC\Ios, ma sono abituato a rapportarmi sia in backend che in nativo con gli specialisti e conosco le caratteristiche di tali ambienti.</font>
+    </p>
+    <h5 class="western"><a name="Argomento_ATTUALE_65"></a><font face="Arial, sans-serif">Argomento
+ATTUALE</font></h5>
+    <p>
+        <font face="Arial, sans-serif">nel mio attuale impiego sto sviluppando un POC per una interfaccia chat</font><strong><font face="Arial, sans-serif">Bot</font></strong>
+        <font face="Arial, sans-serif">
+            per la Pubblica amministrazione basata su tecnologie opensource in ambito nodeJs.</font>
+    </p>
+    <h4 class="western"><a name="altro_69"></a><font face="Arial, sans-serif">altro</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Sono attivo la scena devOps e meetUp del mondo javascript, in cui mi interesso tra l&rsquo;altro di
+        </font><em><font face="Arial, sans-serif">intelligenza Artificiale</font></em>
+        <font face="Arial, sans-serif">
+            e </font><strong><font face="Arial, sans-serif">chatbot</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">Quando possibile sono solito portare un approccio &ldquo;responsive e web&rdquo;, come tecnologie e come approccio umano alla condivisione e operativit&agrave;, anche in ambiti pi&ugrave; tradizionali in cui mi sono trovato ad operare (supporto </font><strong><font face="Arial, sans-serif">OracleDB</font></strong>
+        <font face="Arial, sans-serif">, sviluppo </font><strong><font face="Arial, sans-serif">PL/SQL</font></strong>
+        <font face="Arial, sans-serif">, analisi di progetto, </font><strong><font face="Arial, sans-serif">testing</font></strong>
+        <font face="Arial, sans-serif">, customizzzazione e manutenzione </font><strong><font face="Arial, sans-serif">CMS</font></strong>
+        <font face="Arial, sans-serif">
+            e applicazioni verticali&hellip;)</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">Ho rafforzato ulteriormente le mie competenze approfondendo </font><strong><font face="Arial, sans-serif">scrittura
+creativa</font></strong>
+        <font face="Arial, sans-serif">, </font><em><font face="Arial, sans-serif">tecnica</font></em>
+        <font face="Arial, sans-serif">
+            e </font><em><font face="Arial, sans-serif">aziendale</font></em>
+        <font face="Arial, sans-serif">. Oltre alle capacit&agrave; tecniche quindi sono in grado di gestire con competenza attivit&agrave; come la redazione di documenti e la stesura di </font><strong><font face="Arial, sans-serif">documentazione
+tecnica</font></strong>
+        <font face="Arial, sans-serif"> e non, anche in lingua </font><strong><font face="Arial, sans-serif">francese</font></strong>
+        <font face="Arial, sans-serif">
+            e </font><strong><font face="Arial, sans-serif">inglese</font></strong>
+        <font face="Arial, sans-serif">, la gestione della comunicazione diretta e scritta all&rsquo;interno dell&rsquo;ambito lavorativo, la </font><strong><font face="Arial, sans-serif">formazione</font></strong>
+        <font face="Arial, sans-serif">. In quest&rsquo;ottica mi sono occupato anche di </font><strong><font face="Arial, sans-serif">selezione
+del personale</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">Nel corso della mia attivit&agrave; ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate.
+            <br/> Ho affrontato problematiche come gestione e organizzazione di </font><strong><font face="Arial, sans-serif">gruppi
+di lavoro</font></strong>
+        <font face="Arial, sans-serif">, il </font><strong><font face="Arial, sans-serif">contatto
+diretto</font></strong>
+        <font face="Arial, sans-serif"> coll&rsquo;utente, la gestione di interventi brevi ma strategici e puntuali, sia in ambiti di analisi e sviluppo che di gestione sistemistica, di </font><strong><font face="Arial, sans-serif">test</font></strong>
+        <font face="Arial, sans-serif">
+            hw e sw, di </font><strong><font face="Arial, sans-serif">monitoraggio</font></strong>
+        <font face="Arial, sans-serif">
+            e </font><em><font face="Arial, sans-serif">problem solving</font></em>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <p>
+        <font face="Arial, sans-serif">Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attivit&agrave; non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz&rsquo;altro </font><strong><font face="Arial, sans-serif">attivit&agrave;
+sul territorio</font></strong>
+        <font face="Arial, sans-serif"> e
+        </font><strong><font face="Arial, sans-serif">missioni all&rsquo;estero</font></strong>
+        <font face="Arial, sans-serif">: Mi muovo infatti tra </font><strong><font face="Arial, sans-serif">Milano
+e Roma</font></strong>
+        <font face="Arial, sans-serif"> e ho lavorato presso clienti anche in </font><strong><font face="Arial, sans-serif">Giappone</font></strong>
+        <font face="Arial, sans-serif">
+            (mitsui).</font>
+    </p>
+    <hr/>
+    <h3 class="western"><a name="riferimenti_notevoli_relativi_allo_sviluppo_di_mobile_webapphybrid_app_84"></a>
+<font face="Arial, sans-serif">riferimenti notevoli relativi allo
+sviluppo di mobile webapp/hybrid app</font></h3>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Corso avanzato </font><strong><font face="Arial, sans-serif">Angular.Js</font></strong>
+            <font face="Arial, sans-serif">
+                LOG.ED presso Coworking Login, Milano </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Corso
+            </font><strong><font face="Arial, sans-serif">NODEjs</font></strong>
+            <font face="Arial, sans-serif">
+                LOG.ED presso Coworking Login, Milano </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Corso
+            </font><strong><font face="Arial, sans-serif">Vanilla JavaScript</font></strong>
+            <font face="Arial, sans-serif">
+                LOG.ED presso Coworking Login, Milano </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Corso base </font><strong><font face="Arial, sans-serif">Angular.Js</font></strong>
+            <font face="Arial, sans-serif">
+                LOG.ED presso Coworking Login, Milano </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Corso avanzato </font><strong><font face="Arial, sans-serif">Javascript</font></strong>
+            <font face="Arial, sans-serif">
+                <br/> corso di Javascript personalizzato (con docenza personale) Gestito
+                <br/> da Prometheo </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">studio basico del dialetto java nativo di android (</font><strong><font face="Arial, sans-serif">Dalvik</font></strong>
+            <font face="Arial, sans-serif">) e della programmazione nativa android </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">esperienza
+            </font><em><font face="Arial, sans-serif">pluriennale</font></em>
+            <font face="Arial, sans-serif">
+                nell&rsquo;analisi di query </font><strong><font face="Arial, sans-serif">sql</font></strong>
+            <font face="Arial, sans-serif">
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Corso IFTS di Operatore Multimediale </font>
+        </p>
+    </ul>
+    <hr/>
+    <h1><a name="ESPERIENZE_PROFESSIONALI_SALIENTI_99"></a><font face="Arial, sans-serif">ESPERIENZE
+PROFESSIONALI SALIENTI</font></h1>
+    <ul>
+        <li/>
+        <p><strong><font face="Arial, sans-serif">dal 2013</font></strong>
+            <font face="Arial, sans-serif">
+            </font>
+        </p>
+    </ul>
+    <h3 class="western"><a name="Sviluppatore_software_103"></a><font face="Arial, sans-serif">Sviluppatore
+software</font></h3>
+    <h4 class="western"><a name="_POC_ChatBot_UI_per_PA__In_Corso_105"></a>
+<font face="Arial, sans-serif">- POC ChatBot UI per P.A. - In Corso</font></h4>
+    <p>
+        <font face="Arial, sans-serif">framework di A.I Chatbot interno aziendale per POC</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_109"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Attualmente mi occupo della ricerca e selezione dei componenti opensource per la realizzazione di un framework per </font><em><font face="Arial, sans-serif">interfacce
+dialogiche intelligenti</font></em>
+        <font face="Arial, sans-serif">
+            (</font><strong><font face="Arial, sans-serif">ChatBot</font></strong>
+        <font face="Arial, sans-serif">) interno in ambito </font><strong><font face="Arial, sans-serif">nodeJs</font></strong>
+        <font face="Arial, sans-serif">.
+            <br/> L&rsquo;obiettivo &egrave; la produzione ddi un POC di una webchat dotata di intelligenza artificiale da proporre come Proof Of Concept ad un ente di P.A. in sostituzione delle loro FAQ.</font>
+    </p>
+    <h5 class="western"><a name="Attivit_114"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">mi sto occupando di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">selezionare e testare i componenti software necessari </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">creare la competenza tecnica in ambito nodeJs e sul tema delle chatBot UI </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">produrre la POC per la pesentazione al cliente </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_122"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font></h5>
+    <p>
+        <font face="Arial, sans-serif">sto valutando l&rsquo;impiego di varie teconologie Node, tra cui</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">html5\css
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">nodeJs
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">botpress
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">python
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">chatScript
+            </font>
+        </p>
+        <li/>
+        <p>&hellip;
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Front_end_development_in_ambito_PA_angular_133"></a>
+<font face="Arial, sans-serif">- Front end development in ambito P.A.
+(angular)</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Riscrittura interfaccia di un prodotto documentale integrato come </font><em><font face="Arial, sans-serif">web
+app front end based</font></em>
+        <font face="Arial, sans-serif"> in sostituzione parziale della preesistente interfaccia Back end based in java, per clienti finali nella P.A. e nelle partecipate statali</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_137"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">A partire da un documento di progetto e relative API lato server in sviluppo parallelo, il progetto consiste in una single page application in forma di
+        </font><strong><font face="Arial, sans-serif">dashboard</font></strong>
+        <font face="Arial, sans-serif">
+        </font><strong><font face="Arial, sans-serif">attiva</font></strong>
+        <font face="Arial, sans-serif">
+            dotata di tutte le funzioni </font><strong><font face="Arial, sans-serif">C.R.U.D.</font></strong>
+        <font face="Arial, sans-serif">
+            per operare sui protocolli documentali, la gestione di funzionalit&agrave; attraverso l&rsquo;implementazione del </font><strong><font face="Arial, sans-serif">drag&amp;drop</font></strong>
+        <font face="Arial, sans-serif">
+            all&rsquo;interno dell&rsquo;applicazione, la gestione di firma elettronica (</font><strong><font face="Arial, sans-serif">PEC</font></strong>
+        <font face="Arial, sans-serif">), upload e download dei documenti sul server e ovviamente sicurezza e permessi di accesso su piu utenze. Il progetto &egrave; realizzato come applicazione </font><strong><font face="Arial, sans-serif">Angular
+1.</font></strong>
+        <font face="Arial, sans-serif"> Il progetto &egrave; stato realizzato in modalit&agrave; remota su un gruppo distribuito utilizzando tecniche di </font><strong><font face="Arial, sans-serif">devOp</font></strong>
+        <font face="Arial, sans-serif">
+            (</font><strong><font face="Arial, sans-serif">git, grunt, gulp</font></strong>
+        <font face="Arial, sans-serif">) e strumenti agile (</font><strong><font face="Arial, sans-serif">jira</font></strong>
+        <font face="Arial, sans-serif">)</font>
+    </p>
+    <h5 class="western"><a name="Attivit_141"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">mi sono occupato di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">selezionare e testare i componenti angular necessari </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">realizzare personalmente la struttura di massima della prima demo funzionante </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">coordinare gli esperti di html e i grafici </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">tenere i contatti con il lato tecnico del cliente </font>
+        </p>
+    </ul>
+    <p>
+        <font face="Arial, sans-serif">Nella successiva fase di produzione mi sono occupato di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Allineare il gruppo di sviluppo </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">testare le API lato server e seguirne lo sviluppo suggerendo implementazioni
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">oltre alle normali attivit&agrave; specifiche assegnate attraverso regolari riunioni </font><strong><font face="Arial, sans-serif">scrum</font></strong>
+            <font face="Arial, sans-serif">
+                all&rsquo;interno dello </font><strong><font face="Arial, sans-serif">sprint,</font></strong>
+            <font face="Arial, sans-serif">
+                di cui consisteva lo sviluppo in quanto tale. </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_156"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font></h5>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">html5\css
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">js\jquery
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">scss
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Angular 1 </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">gulp\grunt
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">html5 canvas </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">specifiche tecnologie implementate da plugin terzi (drag&amp;drop, canvas&hellip;) </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Front_end_development_in_ambito_PA__progetto_gemello_angular_166"></a>
+<font face="Arial, sans-serif">- Front end development in ambito P.A.
+- progetto gemello (angular)</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Prodotto affine al precedente, con soluzioni miste back end e front end gestite in house</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_170"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Si &egrave; fornito al cliente una soluzione completa di SPA front end inglobata in un back end dedicato autoprodotto (non di mia personale responsabilit&agrave;) in grado di interfacciarsi alle strutture documentali del cliente in modo trasparente per il front end. Il back end era sviluppato in <a href="https://asp.net/">asp.net</a> e le richieste del cliente prevedevano il passaggio alla versione 4, il frontend &egrave; in </font><strong><font face="Arial, sans-serif">Angular
+1</font></strong>
+        <font face="Arial, sans-serif">.</font>
+    </p>
+    <h5 class="western"><a name="Attivit_174"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">mi sono occupato di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">selezionare e testare i componenti angular necessari </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">realizzare personalmente la struttura del front end </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">coordinare gli esperti di html e i grafici </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">tenere i contatti con il lato tecnico del cliente </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_183"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font></h5>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">html5\css
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">js\jquery
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">bootstrap 3.5 </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">scss
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Angular 1 </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">gulp\grunt
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">html5 canvas </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">specifiche tecnologie implementate da plugin terzi (drag&amp;drop, canvas&hellip;) </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Front_end_development_in_ambito_TLC_194"></a>
+<font face="Arial, sans-serif">- Front end development in ambito TLC</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Realizzazione struttura pagine portali di brand c\o TLC sede</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_198"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">A partire da brief e psd del team UX cliente, in autonomia**,**</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">realizzazione dell&rsquo;html statico homepage e landing page portale new brand </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">inserimento successivo su portale </font><strong><font face="Arial, sans-serif">SAP Hybris</font></strong>
+            <font face="Arial, sans-serif">
+            </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Attivit_205"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">mi sono occupato di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">organizzazione gruppo di lavoro con elementi </font><strong><font face="Arial, sans-serif">in
+	remoto</font></strong>
+            <font face="Arial, sans-serif"> (sede cliente
+            </font><strong><font face="Arial, sans-serif">Roma</font></strong>
+            <font face="Arial, sans-serif">)
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">relazioni con il gruppo sviluppo custom cms </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">preparazione materiali da psd forniti </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">stesura html\css da zero </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">integrazione front end cms </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">introduzione progressiva strumenti di integrazione command line (scss) nel flusso di lavoro </font>
+        </p>
+    </ul>
+    <p>
+        <font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">html5\css
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">js\jquery
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">scss
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">javascript\jquery </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Front_end_developement_in_ambito_automotive_223"></a>
+<font face="Arial, sans-serif">- Front end developement in ambito
+automotive</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Realizzazione struttura pagine portali di brand per gruppo automotive
+            <br/> c\o system integrator</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_228"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">A partire da brief e psd di agenzia, su template basato su </font><strong><font face="Arial, sans-serif">bower</font></strong>
+        <font face="Arial, sans-serif">,
+        </font><strong><font face="Arial, sans-serif">gulp</font></strong>
+        <font face="Arial, sans-serif">
+            e </font><strong><font face="Arial, sans-serif">sass</font></strong>
+        <font face="Arial, sans-serif">, con framework css </font><strong><font face="Arial, sans-serif">inuit,</font></strong>
+        <font face="Arial, sans-serif">
+            realizzazione dell&rsquo;html statico da presentare per approvazione e inserimento successivo su portale </font><strong><font face="Arial, sans-serif">adobe
+QS5</font></strong></p>
+    <h5 class="western"><a name="Attivit_232"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">mi sono occupato di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">stesura html snippet </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">verifica workflow gulp </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">pulizia codice css </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">stesura funzionalit&agrave; JS\JQuery e integrazione librerie esterne </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_241"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font></h5>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">toolchain bower-gulp-sass </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">css framework inuit </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">javascript\jquery </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Online_gambling_portal_manutenzione_e_refactoring_frontend_247"></a>
+<font face="Arial, sans-serif">- Online gambling portal: manutenzione
+e refactoring front-end</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Manutenzione, integrazione, refactoring e ampliamento front end portale di online gambling per la parte html5\js in funzione di accesso web e mobile.
+            <br/> Presso concessionaria gambling online, Milano</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_252"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">All&rsquo;interno di un portale web di gambling su piattaforma tomcat/LifeRay customizzata con front-end basato su Apache Velocity, deployato e in attivit&agrave;, era necessario seguire</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">supporto manutentivo </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">refactoring del codice legacy in previsione di una riscrittura del portale </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">predisposizione della versione app mobile dei giochi supportati dal portale </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Attivit_260"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">mi sono occupato di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">refactoring di funzionalit&agrave; javascript del front-end in forma modulare, come falsariga della riscrittura del portale </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">gestione ticket di deploy di aggiornamento quotidiano dei contenuti del portale </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">supporto alla predisposizione del template delle app di gioco previste in sviluppo
+            </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_268"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font></h5>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">javascript
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">jquery
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Apache
+            </font><strong><font face="Arial, sans-serif">Velocity</font></strong>
+            <font face="Arial, sans-serif">
+                template engine </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm"><strong><font face="Arial, sans-serif">sass</font></strong>
+            <font face="Arial, sans-serif">
+                via compass CSS Authoring Framework </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">SVN </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Cms_mobile_multipiattaforma_su_paradigma_dellapp_ibrida_276"></a>
+<font face="Arial, sans-serif">- Cms mobile multipiattaforma su
+paradigma dell&rsquo;app ibrida</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Sviluppo Js su piattaforma proprietaria di cms mobile multipiattaforma basata sul paradigma dell&rsquo;app ibrida
+            <br/> Presso software House (azienda di prodotto) &ndash; Milano</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_281"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Realizzazione framework in-house verticalizzabile per la veicolizzazione di contenuti custom clienti, strutturato con un backend java duplicato in locale sui device mobile, sia per quanto riguarda la struttura che per i dati, in modalit&agrave; ibrida multipiattaforma a partire da framework dalvik\objectiveC proprietario.</font>
+    </p>
+    <h5 class="western"><a name="Attivit_285"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Ero:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">responsabile customizzazioni interfaccia html5 della parte ibrida del framework (in funzione di uno specifico cliente beta) </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">coinvolto nello studio del refactoring del backend java </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_292"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font></h5>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">js puro </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Web_application_tomcat_based_di_gestione_portafogli_finanziari_e_rating_298"></a>
+<font face="Arial, sans-serif">- Web application tomcat based di
+gestione portafogli finanziari e rating</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Sviluppo Js in team interno per web application tomcat based di gestione portafogli finanziari - modalit&agrave; Agile, front end developer
+            <br/> Presso Information Provider/rating agency - Milano</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_303"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Realizzazione applicazione integrata di gestione reportistica di rating
+            <br/> finanziario e statistico sul mercato aziendale italiano per clienti
+            <br/> privati
+        </font>
+    </p>
+    <h5 class="western"><a name="Attivit_309"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">operavo in qualit&agrave; di:</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">front end developer </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">responsabile front-end html5\js </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_316"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati:</font></h5>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">modalit&agrave; Agile </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">HTML5/CSS3
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">JavaScript
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">JQuery
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Twitter Bootstrap (template custom) </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">mongoDB
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">java
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">SQL </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_App_di__redeem__329"></a><font face="Arial, sans-serif">-
+App di </font><em><font face="Arial, sans-serif">redeem</font></em></h4>
+    <p>
+        <font face="Arial, sans-serif">Attivit&agrave; di sviluppo ibrido in ambito </font><strong><font face="Arial, sans-serif">game</font></strong>
+        <font face="Arial, sans-serif">
+            con accesso alle REST Api dei social network, inserito in un team.
+            <br/> presso game studio - Milano</font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_334"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Realizzazione di un&rsquo;app per Android e iOS che permetta di ricevere da un server dedicato un elenco di task su social network (like e attivit&agrave; sociali similari per conto di clienti terzi) assegnati all&rsquo;utente, registrarne l&rsquo;esecuzione ed assegnare il corrispettivo in punti, permettendo quindi di &ldquo;spenderli&rdquo; in cambio di beni o convertirli in denaro su uno store integrato nell&rsquo;app (funzione </font><em><font face="Arial, sans-serif">redeem</font></em>
+        <font face="Arial, sans-serif">).</font>
+    </p>
+    <h5 class="western"><a name="Attivit_338"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Sono personalmente stato incaricato di:
+        </font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Formazione dei componenti del gruppo di lavoro sulla tecnologia </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">adoperata (Phonegap/Cordova) </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Set-up dell&rsquo;ambiente di sviluppo multipiattaforma per progetti </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Phonegap
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Ricerca e verifica dei plugin Cordova necessari </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Analisi di fattibilit&agrave; della gestione HTML5 del video embedding </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">su Android 2.x/4.x e su iOS </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Sviluppo architettura strutturale motore di gestione dati e </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">workflow applicativo </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Sviluppo della gestione del flusso dati JSON ricevuto dal </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">server.
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Sviluppo della meccanica di gestione dei dati in locale </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Sviluppo della gestione delle chiamate verso il server </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Verifica dell&rsquo;interfaccia REST verso il server e contatti con </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">gli sviluppatori lato server </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Contatti tecnici in lingua inglese con fornitore terzo del tool </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">di analisi dati (MobileAppTracking) </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Contatti tecnici con sviluppatore esterno per l&rsquo;interfaccia </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">verso piattaforma Facebook ed integrazione codice prodotto </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_362"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati:</font></h5>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Phonegap per la gestione della portabilit&agrave; multipiattaforma e </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">per l&rsquo;accesso all&rsquo;hardware </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">HTML5 puro per la gestione dell&rsquo;interfaccia grafica </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">JScroll per gestire lo scrolling di pagina dove non </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">implementabile in HTML5 </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">doT.js come template engine </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">JQuery per gestione di AJAX e DOM manipulation </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">tecnologia REST per la trasmissione di dati JSON </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Javascript puro come linguaggio di sviluppo principale </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Ambienti di sviluppo: </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Brackets, Sublime Text, Eclipse with Android Developement Kit in </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">ambiente PC </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Xcode in ambiente MAC. </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">SVN per la condivisione del codice. </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">device fisici per il testing
+            </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_App_di_movimentazione_materiale_biologico_in_ambito_medicale_380"></a>
+<font face="Arial, sans-serif">- App di movimentazione materiale
+biologico in ambito medicale</font></h4>
+    <p>
+        <font face="Arial, sans-serif">Sviluppo su commessa in ambito web/js su piattaforma Android.
+            <br/> Consulenza in ritenuta d&rsquo;acconto con clientela localizzata sul nord
+            <br/> italia
+        </font>
+    </p>
+    <h5 class="western"><a name="Descrizione_progetto_386"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Il progetto, gestito in completa autonomia, prevedeva la realizzazione di un&rsquo;app phonegap per uno specifico device android in commercio (Galaxy SIIImini). Tale device sar&agrave; fornito in dotazione ai trasportatori. Il trasportatore sfrutter&agrave; l&rsquo;app per effettuare l&rsquo;operazione di spunta della bolla di carico attraverso lettura barcode. L&rsquo;operazione avverr&agrave; in esterni, presso il centro di raccolta, a partire da una lista di casse ottenuta dal server aziendale. L&rsquo;app permette di navigare attraverso una serie di richieste REST che propongono un livello progressivo di dettaglio all&rsquo;interno delle attivit&agrave; di ritiro fissate sul territorio nazionale, fino ad ottenere la lista di casse da spuntare in bolla. L&rsquo;app &egrave; in grado di gestire una modalit&agrave; &ldquo;offline&rdquo; in previsione della situazione in cui il ritiro avvenga da celle frigorifere adatte allo stoccaggio di materiale biologico deperibile, in cui non &egrave; possibile accedere alla rete.</font>
+    </p>
+    <h5 class="western"><a name="Attivit_390"></a><font face="Arial, sans-serif">Attivit&agrave;</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Sono personalmente stato incaricato di:
+        </font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Analisi preliminare di fattibilit&agrave; </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">sviluppo workflow applicativo </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Collaborazione a distanza con gli sviluppatori del server per </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">affinare il JSON trasmesso </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">realizzazione completa dell&rsquo;app, dalla gestione della login </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">fino alla gestione della modalit&agrave; offline. </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Gestione della persistenza in locale via Localstorage </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Testing applicativo e debugging a distanza e in presenza con gli </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">sviluppatori del server. </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Progettazione e sviluppo interfaccia di massima in HTML5 e </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">JQueryMobile, seguendo direttive di immagine coordinata fornite </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">dal cliente </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Contatto con sviluppatore HTML, passaggio di consegne immagine </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">coordinata e integrazione codice interfaccia definitivo </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_409"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati</font></h5>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Phonegap per l&rsquo;accesso all&rsquo;hardware
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">plugin specifico di terze parti &ldquo;BarcodeScanner&rdquo; per la</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">gestione della telecamera integrata del device come lettore di</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">codici a barre.</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Javascript come linguaggio di sviluppo principale</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">framework di librerie composto da</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Underscore.js come template engine
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">JqueryMobile e HTML5 per l&rsquo;interfaccia grafica</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">JQuery per gestione di AJAX e DOM manipulation</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">tecnologia REST per la trasmissione di dati JSON</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">tecnologia localStorage di Phonegap
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Ambienti di sviluppo:</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Brackets, Eclipse with Android Developement Kit in ambiente PC</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">SVN per la condivisione del codice.
+            </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">cisco vpn network per accesso remoto</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Oracle sql developer come shell di accesso al DB del server</font>
+        </p>
+        <li/>
+        <p><strong><font face="Arial, sans-serif">dal</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">2005</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">al</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">2013</font></strong></p>
+    </ul>
+    <h3 class="western"><a name="Sviluppatore_Software_430"></a><font face="Arial, sans-serif">Sviluppatore
+Software</font></h3>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Sviluppatore software in ambito web/js su piattaforma Android.
+                <br/> Presso AreaTc azienda informatica - Milano </font>
+        </p>
+    </ul>
+    <h4 class="western"><a name="_Blog_Feed_Reader_435"></a><font face="Arial, sans-serif">-
+Blog Feed Reader</font></h4>
+    <h5 class="western"><a name="Descrizione_progetto_437"></a><font face="Arial, sans-serif">Descrizione
+progetto</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Progetto aziendale interno del cliente. in previsione dell&rsquo;allora imminente chiusura del servizio &ldquo;google feed&rdquo;, si &egrave; pensato di realizzare un&rsquo;app di feed reading inizialmente</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">per piattaforma android </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">legata ad uno specifico blog ma strutturata per essere </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">ampliamente
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">customizzabile in funzione del cliente </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">ampliabile a pi&ugrave; fonti feed </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">in grado di essere veicolo pubblicitario per il cliente </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Il progetto &egrave; stato pensato come &ldquo;benefit&rdquo; da fornire al </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">cliente che acquista il servizio di webApp/tecnical blog presso </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">l&rsquo;azienda produttrice.
+            </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Attivit_450"></a><font face="Arial, sans-serif">Attivit&agrave;:</font></h5>
+    <p>
+        <font face="Arial, sans-serif">Sono personalmente stato incaricato di:
+        </font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Analisi funzionale </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">progettazione
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">scelta delle tecnologie (librerie e linguaggi) </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">design della struttura dati (webSql) </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">progettazione interfaccia grafica applicativo (JqueryMobile) </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Configurazione ambiente Eclipse/ADT per il workflow di sviluppo </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">e testing </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Sviluppo e testing applicazione </font>
+        </p>
+    </ul>
+    <h5 class="western"><a name="Tecnologie_e_linguaggi_utilizzati_463"></a>
+<font face="Arial, sans-serif">Tecnologie e linguaggi utilizzati:</font></h5>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">tecnologie web lato client</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">HTML5/CSS3</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">JavaScript</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">JQuery</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">JqueryMobile</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">webSql</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Framework di programmazione lato client per lo sviluppo di Rich</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Internet Applications (HTML5, jQueryMobile, tecniche Ajax)</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Framework per Hybrid app</font>
+        </p>
+        <ul>
+            <li/>
+            <p style="margin-bottom: 0cm">
+                <font face="Arial, sans-serif">PhoneGap/Cordova v2.x </font>
+            </p>
+            <li/>
+            <p style="margin-bottom: 0cm">
+                <font face="Arial, sans-serif">Architetture REST </font>
+            </p>
+            <li/>
+            <p style="margin-bottom: 0cm">
+                <font face="Arial, sans-serif">Applicazioni sociali e mash-up tramite servizi web </font>
+            </p>
+            <ul>
+                <li/>
+                <p style="margin-bottom: 0cm">
+                    <font face="Arial, sans-serif">in particolare, accesso ai servizi google per la feed syndacation (Google Feed API </font>
+                    <font face="Arial, sans-serif">- </font>
+                    <font face="Arial, sans-serif">ad oggi deprecate)</font>
+                </p>
+            </ul>
+            <li/>
+            <p style="margin-bottom: 0cm">
+                <font face="Arial, sans-serif">Android (v4.1, API 16), Android SDK </font>
+            </p>
+            <li/>
+            <p style="margin-bottom: 0cm">
+                <font face="Arial, sans-serif">chaintool di testing: </font>
+            </p>
+            <ul>
+                <li/>
+                <p style="margin-bottom: 0cm">
+                    <font face="Arial, sans-serif">chromium
+                    </font>
+                </p>
+                <li/>
+                <p style="margin-bottom: 0cm">
+                    <font face="Arial, sans-serif">ripple emulator </font>
+                </p>
+                <li/>
+                <p style="margin-bottom: 0cm">
+                    <font face="Arial, sans-serif">AndroVm (emulatore android ottimizzato x86) </font>
+                </p>
+                <li/>
+                <p style="margin-bottom: 0cm">
+                    <font face="Arial, sans-serif">device fisico </font>
+                </p>
+            </ul>
+        </ul>
+        <li/>
+        <p><strong><font face="Arial, sans-serif">dal dicembre</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">2007</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">all&rsquo;ottobre</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">2012</font></strong></p>
+    </ul>
+    <h3 class="western"><a name="Supervisore_del_Provisioning_tecnico_487"></a>
+<font face="Arial, sans-serif">Supervisore del Provisioning tecnico</font></h3>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Supervisione delle attivit&agrave; di </font><strong><font face="Arial, sans-serif">Provisioning</font></strong>
+            <font face="Arial, sans-serif">
+                tecnico in </font><strong><font face="Arial, sans-serif">OLO</font></strong>
+            <font face="Arial, sans-serif">;</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">monitoraggio del sistema di
+            </font><strong><font face="Arial, sans-serif">Network Inventory</font></strong>
+            <font face="Arial, sans-serif">, della consistenza della Customer Base, dei </font><strong><font face="Arial, sans-serif">tracciati</font></strong>
+            <font face="Arial, sans-serif">
+                verso Telecom Italia per le attivazioni in centrale; verifica del rispetto degli </font><strong><font face="Arial, sans-serif">SLA</font></strong>
+            <font face="Arial, sans-serif">
+                contrattuali da parte dei </font><em><font face="Arial, sans-serif">Vendor
+	on field</font></em>
+            <font face="Arial, sans-serif">, verifica delle configurazioni logiche sugli apparati di accesso.</font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Supporto tecnico PL/SQL di primo livello sull&rsquo;applicativo di network inventory.
+                <br/> In missione presso Fastweb &ndash; Milano</font>
+        </p>
+        <li/>
+        <p><strong><font face="Arial, sans-serif">dal</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">2007</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">al</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">2008</font></strong></p>
+    </ul>
+    <h3 class="western"><a name="Consulente_informatico_496"></a><font face="Arial, sans-serif">Consulente
+informatico</font></h3>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Ambito prevalentemente SQL, in missione presso la sede dei clienti:
+                <br/> EnelGas, LocatRent, Sky, ALD Automotive, Lombardia Servizi
+                <br/> Presso azienda informatica - Milano</font>
+        </p>
+        <li/>
+        <p><strong><font face="Arial, sans-serif">dal</font></strong>
+            <font face="Arial, sans-serif">
+            </font><strong><font face="Arial, sans-serif">2000</font></strong></p>
+    </ul>
+    <h3 class="western"><a name="Tecnico_informatico_504"></a><font face="Arial, sans-serif">Tecnico
+informatico</font></h3>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Attivit&agrave; di gestione censimento hardware (gestione gruppi di lavoro) - milano
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">installazioni on-site Poste S.P.A. - lombardia </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">test hardware on site borchie fibra ottica PIRELLI/</font><em><font face="Arial, sans-serif">MITSUI</font></em>
+            <font face="Arial, sans-serif">
+                -
+                <br/>
+            </font><strong><font face="Arial, sans-serif">tokyo</font></strong>
+            <font face="Arial, sans-serif">
+            </font>
+        </p>
+    </ul>
+    <hr/>
+    <h2 class="western"><a name="COMPETENZE_513"></a><font face="Arial, sans-serif">COMPETENZE</font></h2>
+    <h3 class="western"><a name="Linguistiche_516"></a><font face="Arial, sans-serif">Linguistiche</font></h3>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Inglese: fluente, scritto e parlato </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Francese: a livello scolastico, scritto e parlato </font>
+        </p>
+    </ul>
+    <h3 class="western"><a name="Professionali_521"></a><font face="Arial, sans-serif">Professionali</font></h3>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Realizzazione di </font><strong><font face="Arial, sans-serif">WebApp</font></strong>
+            <font face="Arial, sans-serif">
+                di tipo </font><strong><font face="Arial, sans-serif">ibrido</font></strong>
+            <font face="Arial, sans-serif">
+                in </font><strong><font face="Arial, sans-serif">HTML5/CSS3</font></strong>
+            <font face="Arial, sans-serif">
+                per il mondo Mobile. </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Framework javascript avanzati (</font><strong><font face="Arial, sans-serif">angularJs</font></strong>
+            <font face="Arial, sans-serif">,
+            </font><strong><font face="Arial, sans-serif">ionic</font></strong>
+            <font face="Arial, sans-serif">,
+            </font><strong><font face="Arial, sans-serif">NODE</font></strong>
+            <font face="Arial, sans-serif">)
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Conoscenza approfondita di HTML, Javascript, </font><strong><font face="Arial, sans-serif">SQL</font></strong>
+            <font face="Arial, sans-serif">; conoscenza di PHP, Java; </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">conoscenza di tool SQL, come Postgre SQL, Toad, Oracle. </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Esperienza nello sviluppo tramite </font><strong><font face="Arial, sans-serif">Android
+	Developement tools (ADT)</font></strong>
+            <font face="Arial, sans-serif">, cordova/phonegap, ionic, jquery, Jquery Mobile, ripple emulator, GenyMotion, oracle vmplayer, Bluestack Player** </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">conoscenza basica di CMS </font><strong><font face="Arial, sans-serif">L.A.M.P.</font></strong>
+            <font face="Arial, sans-serif">
+                based(</font><strong><font face="Arial, sans-serif">wordpress</font></strong>
+            <font face="Arial, sans-serif">,</font><strong><font face="Arial, sans-serif">joomla!</font></strong>
+            <font face="Arial, sans-serif">)
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">esperienza lato frontend di CMS professionali </font><strong><font face="Arial, sans-serif">tomcat</font></strong>
+            <font face="Arial, sans-serif">-based (
+            </font><strong><font face="Arial, sans-serif">LifeRay</font></strong>
+            <font face="Arial, sans-serif">) e </font><strong><font face="Arial, sans-serif">template engine
+	server side</font></strong>
+            <font face="Arial, sans-serif"> (</font><strong><font face="Arial, sans-serif">Apache
+	Velocity</font></strong>
+            <font face="Arial, sans-serif">, </font><strong><font face="Arial, sans-serif">FreeMarker</font></strong>
+            <font face="Arial, sans-serif">)
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">dimestichezza con lo stack </font><strong><font face="Arial, sans-serif">M.E.A.N</font></strong>
+            <font face="Arial, sans-serif">
+                (MongoDB, Express.js, Angular.js, Node.js) </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">uso di </font><strong><font face="Arial, sans-serif">template
+	engine clientside</font></strong>
+            <font face="Arial, sans-serif">
+                (</font><strong><font face="Arial, sans-serif">mustache</font></strong>
+            <font face="Arial, sans-serif">,
+            </font><strong><font face="Arial, sans-serif">dot.js</font></strong>
+            <font face="Arial, sans-serif">)
+            </font>
+        </p>
+    </ul>
+    <h3 class="western"><a name="Altre_533"></a><font face="Arial, sans-serif">Altre</font></h3>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Sviluppo in metodologia </font><em><font face="Arial, sans-serif">Agile</font></em>
+            <font face="Arial, sans-serif">
+            </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">competenze di </font><strong><font face="Arial, sans-serif">editoria
+	elettronica</font></strong>
+            <font face="Arial, sans-serif"> (EPUB editing e formattazione, conoscenza workflow ebook publishing) Utilizzo dei principali sistemi operativi ( Windows, Linux, OS X ). Conoscenza approfondita del pacchetto Office. </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Utilizzo dei principali software per la stesura di sceneggiature in ambito teatrale\cinematografico (es. Scrivener) </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Esperienza nella realizzazione di </font><strong><font face="Arial, sans-serif">allestimenti
+	fieristici</font></strong>
+            <font face="Arial, sans-serif">. </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Esperienza nella </font><em><font face="Arial, sans-serif">gestione,
+	comunicazione e promozione di</font></em><strong><font face="Arial, sans-serif">eventi</font></strong>
+            <font face="Arial, sans-serif">
+                commerciali, culturali ed artistici </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Editing di </font><strong><font face="Arial, sans-serif">testi
+	promozionali</font></strong>
+            <font face="Arial, sans-serif"> </font>
+        </p>
+    </ul>
+    <h2 class="western"><a name="PERCORSO_SCOLASTICO_542"></a><font face="Arial, sans-serif">PERCORSO
+SCOLASTICO</font></h2>
+    <h3 class="western"><a name="Diploma_di_maturit_classica_545"></a><font face="Arial, sans-serif">Diploma
+di </font><strong><font face="Arial, sans-serif">maturit&agrave;
+classica</font></strong></h3>
+    <p>
+        <font face="Arial, sans-serif">conseguito presso il Liceo Scientifico &ldquo;Parco Nord&rdquo; di Cinisello Balsamo (MI) nel 1998.
+        </font>
+    </p>
+    <h3 class="western"><a name="Corso_Regionale_di_programmazione_C_in_ambiente_Unix_548"></a>
+<font face="Arial, sans-serif">Corso Regionale di programmazione C in
+ambiente Unix</font></h3>
+    <p>
+        <font face="Arial, sans-serif">presso Centro di Formazione Professionale Pepe - Milano</font>
+    </p>
+    <h3 class="western"><a name="Corso_IFTS_n_22_Operatore_Multimediale_e_stage_in_azienda__Milano_552"></a>
+<font face="Arial, sans-serif">Corso IFTS n&deg; 22, &ldquo;Operatore
+Multimediale&rdquo; e stage in azienda - Milano</font></h3>
+    <h3 class="western"><a name="Corso_FormaTemp_DB_Oracle_in_ambiente_Linux_554"></a>
+<font face="Arial, sans-serif">Corso FormaTemp &ldquo;DB Oracle in
+ambiente Linux&rdquo;</font></h3>
+    <p>
+        <font face="Arial, sans-serif">Presso azienda informatica, Cernusco Sul Naviglio (MI)</font>
+    </p>
+    <h3 class="western"><a name="Corso_di_Javascript_personalizzato_con_docenza_personale_558"></a>
+<font face="Arial, sans-serif">Corso di Javascript personalizzato con
+docenza personale</font></h3>
+    <p>
+        <font face="Arial, sans-serif">Presso FOR Institute - Centro Prometheo, Milano</font>
+    </p>
+    <h3 class="western"><a name="Corsi_Angular_Javascript_NODEjs__Formazione_permanente_562"></a>
+<font face="Arial, sans-serif">Corsi Angular, Javascript, NODEjs -
+Formazione permanente</font></h3>
+    <p>
+        <font face="Arial, sans-serif">Presso Coworking Login e Altri, Milano
+        </font>
+    </p>
+    <h2 class="western"><a name="INTERESSI_566"></a><font face="Arial, sans-serif">INTERESSI</font></h2>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Informatica, con particolare interesse per il mondo dell&rsquo;Open Source </font>
+        </p>
+    </ul>
+    <p>
+        <font face="Arial, sans-serif">attualmente interessato ad approfondire il </font><strong><font face="Arial, sans-serif">M.E.A.N
+stack</font></strong>
+        <font face="Arial, sans-serif"> e le interfacce basate su </font><strong><font face="Arial, sans-serif">intelligenza
+artificiale</font></strong>
+        <font face="Arial, sans-serif"> (</font><strong><font face="Arial, sans-serif">chatbot
+UI</font></strong>
+        <font face="Arial, sans-serif">)</font>
+    </p>
+    <ul>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Fotografia, Industrial Design, Arte e Architettura </font>
+        </p>
+        <li/>
+        <p style="margin-bottom: 0cm">
+            <font face="Arial, sans-serif">Narrativa, Giochi di Ruolo, Cinema, Fumetto e Animazione </font>
+        </p>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Motociclismo, Pattinaggio, Sci </font>
+        </p>
+    </ul>
+    <h2 class="western"><a name="ALTRE_INFORMAZIONI_577"></a><font face="Arial, sans-serif">ALTRE
+INFORMAZIONI</font></h2>
+    <ul>
+        <li/>
+        <p>
+            <font face="Arial, sans-serif">Disponibile a </font><strong><font face="Arial, sans-serif">trasferte
+	nazionali ed estere</font></strong>
+            <font face="Arial, sans-serif">, anche di lungo periodo. </font>
+        </p>
+    </ul>
+    <p><code class="western"><font face="Arial, sans-serif">Autorizzo
+l'utilizzo dei dati personali contenuti nel curriculum ai sensi del
+D.LGS. 196/2003</font></code></p>
+</body>
+
+</html>

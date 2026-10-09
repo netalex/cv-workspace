@@ -1,0 +1,330 @@
+---
+title: |
+  Alessandro\
+  Aprile
+subtitle: Sviluppatore Front End Senior – React e TypeScript
+date: Milano / Roma - 01/07/1977
+lang: it-IT
+---
+
+# PROFILO {.lilla}
+
+***Sviluppatore Front End senior React e TypeScript**, con oltre 25 anni nel settore IT e più di dieci come front end developer professionista su applicazioni web enterprise. Alla competenza React affianco una lunga esperienza in Angular, che mi permette di portare nei progetti React pattern architetturali enterprise collaudati.*
+
+Ho lavorato con piena autonomia su progetti complessi per difesa e pubblica amministrazione (Marina Militare, Comando Interforze del Ministero della Giustizia), banche, fintech e industria. In ambito React ho lavorato per oltre due anni come sviluppatore senior su progetti enterprise (suite di applicazioni web e mobile in React e React Native per Luxottica, CRM per call center NextIP), realizzando interfacce a componenti, migrazioni da applicazioni monolitiche legacy, gestione dello stato con Redux e manutenzione post-rilascio. Mi occupo di architettura front end, componenti riutilizzabili e librerie condivise, integrazione con API REST tipizzate in TypeScript, interfacce data-intensive con tabelle e griglie dati, test automatici e workflow in monorepo Nx con Git, branch e merge request. Ho un forte orientamento alla qualità del codice, al rispetto delle linee guida architetturali di progetto e alla collaborazione in team multidisciplinari, con esperienza di mentoring e documentazione tecnica. Favorisco un uso responsabile e mirato degli harness IA nello sviluppo.
+
+**Competenze in evidenza:** React (architettura a componenti, Redux, React Native), TypeScript, JavaScript; component library e design system condivisi (DevExtreme, PrimeNG); tabelle e griglie dati con gestione di dataset consistenti; integrazione REST; monorepo Nx e dipendenze tra applicazioni e librerie; architetture a Micro Frontend; test automatici front end (Vitest, Jest, Jasmine); Git, Git hooks, build e CI/CD.
+
+# Esperienze lavorative
+
+## Apprendo S.r.l. – Roma [Marzo 2025 – in corso]{.periodo}
+
+### Tinexta Cyber / ICAR
+
+::: incarico
+Maggio 2026 – Agosto 2026
+:::
+
+#### Attività svolte:
+
+Sviluppo e modernizzazione di ICAR, gestionale per prodotti, centri e processi legati alle flotte, nell'ambito del porting da Visual FoxPro/ARCA a .NET 10 e Angular 21 per Tinexta Cyber. Principale sviluppatore front end senior del progetto, ho assunto temporaneamente il ruolo di team leader. Ho sviluppato in TypeScript un front end standalone e zoneless basato sulla component library DevExtreme, realizzando **griglie dati complesse con DevExtreme DataGrid (filtri, ordinamenti, paginazione, colonne configurabili) su dataset gestionali consistenti**, form e validazioni, con integrazione REST, componenti riutilizzabili e test automatici con Vitest, intervenendo anche sul backend C# quando necessario. Ho contribuito alla definizione dei pattern architetturali, alla documentazione tecnica e alla traduzione dei comportamenti legacy nel nuovo stack, con attenzione a SOLID, manutenibilità e coerenza tra front end e backend.
+
+### Simplify – progetto interno Apprendo
+
+::: incarico
+Marzo 2026 – Maggio 2026
+:::
+
+#### Attività svolte:
+
+Contributo all'evoluzione di Simplify, piattaforma paramedicale di telemedicina per il monitoraggio e la gestione remota dei pazienti. Ho configurato e mantenuto ambienti di sviluppo e repository, implementato funzionalità e correzioni su applicazioni Angular in TypeScript e curato l'allineamento tra modelli front end e risposte delle API REST. Ho lavorato nel rispetto dell'architettura condivisa, gestendo branch, merge, integrazioni e verifiche tecniche tra i diversi moduli della piattaforma.
+
+### BFF Bank / What If – Be Shaping the Future / Engineering
+
+::: incarico
+Novembre 2025 – Febbraio 2026
+:::
+
+#### Attività svolte:
+
+Sviluppo front end della funzionalità "What If" per BFF Bank, all'interno di una piattaforma enterprise realizzata per Be Shaping the Future ed Engineering. Mi sono occupato della traduzione di requisiti funzionali complessi in flussi e componenti Angular, dell'integrazione con i servizi backend e del coordinamento con analisti e sviluppatori. Ho gestito l'evoluzione della feature in un contesto caratterizzato da specifiche progressive e scadenze ravvicinate, producendo infine documentazione tecnica e post-mortem utile alla futura ripresa del lavoro.
+
+### Excellence Innovation / WF ISA
+
+::: incarico
+Marzo 2025 – Novembre 2025
+:::
+
+#### Attività svolte:
+
+Coinvolto nello sviluppo del CRM multitenant per il recruiting di private banker, di un CMS customizzabile e del workflow WF ISA per Intesa all'interno delle soluzioni fintech di Excellence Innovation. Ho guidato la modernizzazione del front end, migrando le applicazioni ad Angular 19 e **integrandole in un monorepo Nx con librerie condivise, gestendo le dipendenze tra applicazioni e librerie**. Ho adottato componenti standalone e strict typing TypeScript e ottimizzato i workflow di build e deploy, **analizzando e risolvendo in autonomia gli errori delle pipeline CI/CD (build, dipendenze, configurazione)**. Ho collaborato con il backend PHP Laravel tramite API REST, supportando il team con mentoring, documentazione tecnica e best practice architetturali.
+
+## Volo Consulting / Orangee S.r.l. – Roma [Luglio 2024 – Ottobre 2024]{.periodo}
+
+### ALKEMY / Comando Interforze del Ministero della Giustizia
+
+::: incarico
+Luglio 2024 – Ottobre 2024
+:::
+
+#### Attività svolte:
+
+Ho lavorato su tre applicazioni front end interconnesse dedicate alla gestione delle analisi del DNA per il Comando Interforze del Ministero della Giustizia. Mi sono occupato di implementare modifiche critiche alle funzionalità esistenti, garantendo continuità operativa e coerenza con l'architettura del sistema. Ho risolto bug complessi migliorando stabilità e usabilità, e sviluppato nuove funzionalità in base a requisiti in continua evoluzione. Ho collaborato con team interfunzionali per coordinare rilascio e integrazione tra le varie componenti, mantenendo elevati standard di qualità del codice e performance grazie alle mie competenze avanzate in Angular.
+
+## THINKOPEN – Milano / Remoto [Febbraio 2018 – Giugno 2024]{.periodo}
+
+### ICCREA – remoto
+
+::: incarico
+Febbraio 2024 – Giugno 2024
+:::
+
+#### Attività svolte:
+
+Manutenzione e ottimizzazione di un'applicazione interna per l'import massivo di file CSV con dati contrattuali di mutui e prestiti, con gestione di dataset consistenti. Ho migliorato le prestazioni del front end con refactoring mirati e ottimizzazione del codice, ottenendo un notevole incremento di velocità e stabilità. Ho implementato nuove funzionalità rispettando scadenze molto strette e mantenendo la coerenza dell'interfaccia. Ho introdotto Git hooks per prevenire errori in fase di commit e deployment, contribuendo a una pipeline di rilascio più sicura ed efficiente.
+
+### GFT – Milano
+
+::: incarico
+2023
+:::
+
+#### Attività svolte:
+
+Sviluppo di uno strumento di dashboard centralizzato per le filiali di una grande compagnia assicurativa. Ho realizzato e mantenuto test automatici del front end, raggiungendo una copertura dell'80% su una base di codice di oltre 100.000 righe. Ho fornito mentoring ai colleghi junior tramite pair programming e supporto costante, riducendo significativamente il tempo di onboarding. Ho inoltre integrato l'editor WYSIWYG di PrimeNG in un componente personalizzato avanzato, migliorando l'usabilità dell'interfaccia e l'efficienza degli operatori.
+
+### Engineering / Marina Militare (Ministero della Difesa)
+
+::: incarico
+2022
+:::
+
+#### Attività svolte:
+
+Sviluppo della sezione front end del portale CRM per la Marina Militare italiana. Ho integrato la libreria JavaScript "Ace.js" come componente Angular personalizzato per migliorare l'editing avanzato di testo. Ho contribuito alla definizione del framework Agile del progetto e collaborato con un team interfunzionale composto da sviluppatori front end, back end e specialisti di database. Ho gestito una base di codice di migliaia di righe, ottimizzando l'architettura e garantendo la coerenza dell'applicazione. Ho inoltre supportato l'onboarding degli sviluppatori junior tramite pair programming.
+
+### GFT (Advancement & Maintenance) – remoto
+
+::: incarico
+2022
+:::
+
+#### Attività svolte:
+
+Coinvolto nella fase di avanzamento e manutenzione evolutiva di un software enterprise, con focus sull'implementazione di nuove funzionalità e sul miglioramento delle prestazioni dell'applicazione. Ho risolto bug critici e partecipato attivamente alla stabilizzazione del sistema, garantendo continuità operativa e migliorando la qualità del codice. Ho collaborato con il team di sviluppo per assicurare un'evoluzione fluida del software, mantenendo coerenza con le esigenze del cliente e con gli standard tecnici del progetto.
+
+### NextIP – Milano
+
+::: incarico
+2022
+:::
+
+#### Attività svolte:
+
+**Sviluppo dell'interfaccia front end in React** per un CRM all-in-one destinato a call center. Ho contribuito alla migrazione di una precedente applicazione web monolitica in PHP verso un'architettura moderna a componenti React, migliorando l'organizzazione del codice e la velocità dell'applicazione di circa il 20%. Ho garantito coerenza tra front end e processi operativi del cliente, integrando nuove funzionalità in modo scalabile, riutilizzabile e manutenibile.
+
+### Abstract / Luxottica – remoto
+
+::: incarico
+2020 – 2022
+:::
+
+#### Attività svolte:
+
+**Sviluppo in React e React Native** di una suite di applicazioni web e mobile per il supporto decisionale aziendale. Ho scritto codice per tutte le applicazioni della suite, contribuendo in modo significativo alla loro crescita funzionale (oltre 10.000 righe per ciascuna) con un'architettura a componenti React riutilizzabili. Come membro più anziano del team ho gestito la manutenzione post-rilascio, risolvendo bug e implementando migliorie continue, e ho redatto oltre 50 pagine di documentazione tecnica per facilitare la comprensione del sistema e l'onboarding dei nuovi sviluppatori.
+
+### Engineering / A-Ice – Milano
+
+::: incarico
+2020
+:::
+
+#### Attività svolte:
+
+Sviluppo del front end di un software per la gestione della manutenzione degli aeromobili. Ho contribuito alla trasformazione di un'applicazione legacy in una Single Page Application Angular, migliorandone l'usabilità e aumentando la velocità del 20%. Ho mantenuto coerenza con l'architettura esistente e collaborato con il team per integrare nuove funzionalità richieste dal cliente, garantendo stabilità e facilità di manutenzione del codice.
+
+### Lutech – Milano
+
+::: incarico
+2018
+:::
+
+#### Attività svolte:
+
+Sviluppo di un'applicazione web IVD LIS per laboratori clinici utilizzando Angular e PrimeNG. Ho prodotto la documentazione del progetto (SDS e TP) in conformità agli standard ISO 13485:2012, assicurando tracciabilità e qualità del software. Ho implementato l'interfaccia utente garantendo usabilità, coerenza visiva e integrazione con i flussi clinici specifici del cliente.
+
+### ABB PowerOne – Arezzo
+
+::: incarico
+2017
+:::
+
+#### Attività svolte:
+
+Sviluppo dell'interfaccia front end in AngularJS per un'applicazione di controllo intelligente dedicata a solar farm. Ho progettato e implementato componenti e funzionalità specifiche per la gestione e il monitoraggio degli impianti, garantendo affidabilità e chiarezza dei dati visualizzati. Ho collaborato con il team per integrare il front end con i sistemi di analisi e controllo in tempo reale.
+
+## 3Wlab – Roma [2016 – 2017]{.periodo}
+
+### 3Wlab – Roma / In sede
+
+::: incarico
+2017
+:::
+
+#### Attività svolte:
+
+Sviluppo di un framework di intelligenza artificiale e chatbot per Proof of Concept. Ho ricercato e selezionato componenti open source e realizzato un'interfaccia web basata su Node.js per una chat interattiva con funzionalità AI. Il progetto era orientato alla prototipazione rapida e alla dimostrazione delle potenzialità del sistema, mostrando la mia capacità di integrare tecnologie front end e back end e di lavorare in modo innovativo.
+
+### RFI – Milano / Roma – Remoto
+
+::: incarico
+2016 – 2017
+:::
+
+#### Attività svolte:
+
+Sviluppo del front end in AngularJS per un sistema integrato di gestione documentale destinato al settore del trasporto pubblico. Ho progettato e implementato autonomamente l'architettura della prima demo front end, definendo la struttura dell'applicazione e i flussi principali. Ho coordinato il lavoro con grafici ed esperti HTML per garantire un'interfaccia coerente e usabile. Questa esperienza ha richiesto un'elevata autonomia tecnica e capacità di analisi.
+
+### Avanade – Milano
+
+::: incarico
+2015 – 2016
+:::
+
+#### Attività svolte:
+
+Sviluppo front end di landing page seguendo standard moderni di usabilità, accessibilità e compatibilità cross-browser. Ho lavorato in un contesto strutturato applicando best practice di sviluppo web e garantendo qualità del layout e coerenza visiva per campagne digitali ad alto impatto.
+
+## Winga – Milano [2015]{.periodo}
+
+#### Attività svolte:
+
+Sviluppo front end in Angular per un portale di casinò online basato su architettura a Micro Frontend. Ho eseguito una revisione completa e un refactoring profondo del codice esistente, migliorando l'architettura dell'applicazione e riducendo i tempi di inattività. Ho lavorato su componenti ad alte prestazioni e contribuito alla stabilità del sistema in un contesto con elevati requisiti di disponibilità.
+
+## DS Group – Milano [2014 – 2015]{.periodo}
+
+### DS Group R&D
+
+#### Attività svolte:
+
+Sviluppo di un CMS mobile cross-platform basato su tecnologie ibride. Ho personalizzato un framework HTML5 per distribuire contenuti specifici ai dispositivi mobili, replicando localmente il backend Java per garantire funzionalità offline. Ho progettato interfacce responsive e ottimizzate per diversi device, contribuendo alla fruibilità del sistema e alla portabilità dell'applicazione.
+
+## Cerved – Milano [2014]{.periodo}
+
+#### Attività svolte:
+
+Sviluppo front end in HTML e JavaScript per un'applicazione web dedicata alla gestione del portafoglio finanziario e del rating. Ho realizzato interfacce user-friendly seguendo le linee guida del cliente e garantendo chiarezza nella visualizzazione dei dati. In questo progetto ho appreso per la prima volta la **metodologia Agile**, lavorando in un team già strutturato con **Scrum**, riunioni regolari e il supporto di un Agile Coach dedicato.
+
+## Tecneva – Milano [2013 – 2014]{.periodo}
+
+### FORGE Replay – Milano
+
+::: incarico
+2013 – 2014
+:::
+
+#### Attività svolte:
+
+Sviluppo di un'applicazione ibrida per il riscatto (redeem) in ambito gamification utilizzando PhoneGap/Cordova. Ho gestito l'integrazione con API social e servizi di monetizzazione esterni e configurato un ambiente di sviluppo multipiattaforma per garantire la portabilità dell'app. Ho formato il team sull'utilizzo di PhoneGap, supportando colleghi meno esperti e contribuendo alla diffusione delle competenze interne.
+
+## FREELANCE – Remoto [2013 – 2014]{.periodo}
+
+### Insiel Mercato SpA – Udine
+
+::: incarico
+2013
+:::
+
+#### Attività svolte:
+
+Sviluppo di un'applicazione ibrida per la gestione di materiale biologico in ambito sanitario, destinata a dispositivi Android. Ho ideato e realizzato l'applicazione in completa autonomia utilizzando PhoneGap, includendo funzionalità di checklist e scansione di codici a barre. L'app era progettata per funzionare offline in un ambiente isolato dalla rete, replicando localmente la logica del backend e garantendo affidabilità in contesti critici.
+
+## AreaTC – Milano [2008 – 2013]{.periodo}
+
+### AreaTC – Milano / In sede
+
+::: incarico
+2013
+:::
+
+#### Attività svolte:
+
+Transizione dal backend al front end lavorando su funzionalità JavaScript per applicazioni web aziendali. Ho contribuito allo sviluppo di componenti interattivi e alla risoluzione di bug, imparando le best practice del front end moderno. Questa esperienza ha rappresentato un punto di svolta nella mia carriera, portandomi a specializzarmi nello sviluppo front end a tempo pieno.
+
+### TelCo – Milano
+
+::: incarico
+2008 – 2013
+:::
+
+#### Attività svolte:
+
+Sviluppatore PL/SQL - Analisi e manutenzione in tempo reale di query PL/SQL su sistemi Oracle in produzione nel settore delle telecomunicazioni. Ho individuato e risolto problemi complessi relativi al database net-db, garantendo continuità del servizio e performance ottimali. Ho progettato e implementato query SQL pure e procedure efficienti per migliorare la gestione dei dati. Questa esperienza mi ha fornito solide basi sulla logica backend, sulle performance e sull'analisi di sistemi critici.
+
+## Supporto IT – Remoto / In sede / Estero [2000 – 2010]{.periodo}
+
+### Utenti privati e piccole aziende
+
+::: incarico
+2000 – 2010
+:::
+
+#### Attività svolte:
+
+Attività di supporto tecnico hardware e software per utenti e piccole aziende, con interventi sia in presenza che da remoto. Mi sono occupato di installazione, configurazione e manutenzione di sistemi informatici, gestione di reti locali, backup e risoluzione di problemi tecnici complessi. Nel 2000, ho lavorato **a Tokyo per un mese** come **tester di borchie in fibra ottica**, affiancando un ingegnere elettronico di **Pirelli Cavi e Sistemi**. Questo incarico internazionale mi ha permesso di operare in un contesto altamente tecnologico, sviluppando precisione, adattamento e capacità di collaborazione sul campo.
+
+Questa fase ha consolidato le basi della mia autonomia tecnica e della capacità di problem solving in ambienti diversificati.
+
+# Formazione
+
+## Facoltà di Disegno Industriale – Indirizzo Prodotto (Politecnico di Milano) [1999]{.periodo}
+
+Un anno di formazione su progettazione, design del prodotto e pensiero visivo; competenze poi applicate alla progettazione di interfacce e all'attenzione all'usabilità nel front end.
+
+## Corsi avanzati con Fabio Biondi (Google Developer Expert, Microsoft MVP) [2018 – 2019]{.periodo}
+
+- Architetture Enterprise in Angular 9 & NgRx 9 – online (2019)
+- Mastering Angular – Roma, 2 giorni (2018)
+- Angular & TypeScript Core Concepts – online e in sede, Firenze, 2 giorni (2018)
+
+## LinkMe / "Mean Milan" – Corsi AngularJS [2015]{.periodo}
+
+Percorsi formativi su AngularJS (intermedio e quickstart), con workshop pratici per la realizzazione di applicazioni single-page.
+
+## Istituto FOR / Prometheo – Corso JavaScript One-to-One [2013]{.periodo}
+
+Corso intensivo individuale (20h) focalizzato su JavaScript moderno, basi solide per lo sviluppo front end.
+
+# Lingue
+
+::: lingue
+**Inglese** - fluente
+
+**Francese** - fluente
+:::
+
+::: competenze
+#### Hard Skill
+
+- **React:** React (oltre due anni su progetti enterprise), Redux, React Native, architettura a componenti riutilizzabili, migrazione da monoliti legacy a React
+- **Linguaggi:** TypeScript, JavaScript (ES6+), HTML5, CSS3
+- **Altri framework:** Angular (v2–21), AngularJS, RxJS, Ionic, PhoneGap/Cordova
+- **Architettura e strumenti:** monorepo Nx (librerie condivise, dipendenze tra progetti), Micro Frontend, componenti riutilizzabili, strict typing, Git (branch, merge request, Git hooks), CI/CD (analisi e risoluzione errori di build, dipendenze e configurazione), documentazione tecnica
+- **UI e component library:** DevExtreme (DataGrid: filtri, ordinamenti, paginazione), PrimeNG, Angular Material, Bootstrap, Ace.js, editor WYSIWYG, WebRTC
+- **Testing front end:** Vitest, Jest, Jasmine; copertura dell'80% su una codebase di oltre 100.000 righe
+- **Back-end e integrazione:** REST API, Node.js, Express.js, PHP Laravel, C# / .NET (base), OAuth2, JWT, Keycloak
+- **Database:** SQL, Oracle PL/SQL, MongoDB, WebSQL
+- **Metodologie:** Agile/Scrum, pair programming, mentoring, migrazioni tecnologiche, refactoring architetturale
+
+#### Soft Skill
+
+- Mentoring e formazione dei colleghi junior
+- Visione architetturale e sistemica del software
+- Condivisione della conoscenza e documentazione tecnica
+- Cura del dettaglio e qualità del codice
+- Problem solving in contesti complessi
+- Collaborazione in team multidisciplinari
+- Gestione del tempo e delle priorità
+- Proattività e autonomia
+- Adattabilità, anche in contesti internazionali
+:::

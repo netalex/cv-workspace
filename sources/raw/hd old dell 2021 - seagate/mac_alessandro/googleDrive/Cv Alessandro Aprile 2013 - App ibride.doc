@@ -1,0 +1,193 @@
+<h1 id="alessandro-aprile">Alessandro APRILE</h1>
+<h2 id="dati-anagrafici">DATI ANAGRAFICI</h2>
+<p><strong>Nato a</strong> Sesto San Giovanni (MI), il 01 / 07 / 1977 <strong>Residente in</strong> Via volontari del sangue, 182 – 20099 Sesto San Giovanni (MI) <strong>Telefono</strong> 320 / 06.25.543 Stato civile celibe <strong>E-mail</strong> aprile.alessandro@gmail.com</p>
+<hr />
+<h2 id="profilo">PROFILO</h2>
+<h3 id="tecnicoinformaticosviluppatoresoftwareeweb">Tecnico informatico, Sviluppatore software e web</h3>
+<p>Mi occupo a vario titolo di informatica a livello professionale da circa 12 anni, a partire da un forte interesse personale. ho approfondito gli aspetti più attuali e innovativi dello sviluppo software, in particolare lo sviluppo web/HTML5 e mobile. ho partecipato a progetti basati su piattaforme CMS in-house e opensource, occupandomi di volta in volta del testing operativo come della stesura dei documenti di progetto, oltre che delle customizzazioni tecniche. Le mie competenze di web design, ma anche comunicative, mi mettono perfettamente in grado di gestire un progetto web in autonomia. Le competenze da sviluppatore invece mi hanno permesso di cogliere il salto concettuale tra html tradizionale e HTML5/Ajax/JS e di far mio il concetto di WebApp come di progetto software a tutto tondo. In particolare con il framework Cordova ho affrontato la convergenza e la gestione di tecnologie differenti come java, javascript, la struttura di WebApp e la gestione locale di servizi esterni come le google api, solo per portare qualche esempio. Oltre alla formazione continua in un ambito, quello dell web design, che mi è sempre appartenuto anche al di fuori delle necessità lavorative, e a momenti di formazione più tradizionale (dal corso op. multimediale già nei primi anni del web moderno all’ultima formazione personalizzata avanzata su javascript e HTML5) quando possibile sono solito portare un approccio “responsive e web”, come tecnologie e come approccio umano alla condivisione e operatività, anche in ambiti piu tradizionali in cui mi sono trovato ad operare (supporto OracleDB, sviluppo PL/SQL, analisi di progetto, testing, customizzzazione e manutenzione CMS e applicazioni verticali…)</p>
+<p>Ho recentemente rafforzato ulteriormente le mie competenze approfondendo scrittura creativa, tecnica e aziendale. Oltre alle capacità tecniche quindi sono in grado di gestire con competenza attività come la redazione di documenti e la stesura di documentazione tecnica e non, anche in lingua francese e inglese, la gestione della comunicazione diretta e scritta all'interno dell'ambito lavorativo, la formazione. In quest'ottica mi sono occupato anche di selezione del personale.</p>
+<p>Nel corso della mia attività ho sperimentato e gestito situazioni lavorative e tecniche varie e diversificate. Ho affrontato problematiche come gestione e organizzazione di gruppi di lavoro, il contatto diretto coll'utente, la gestione di interventi brevi ma strategici e puntuali, sia in ambiti di analisi e sviluppo che di gestione sistemistica, di test hw e sw, di monitoraggio e problem solving.</p>
+<p>Sono sempre stato alla ricerca di occasioni di crescita e di nuove competenze, prediligendo attività non ripetitive e stimolanti dal punto di vista tecnico e personale, incluse senz'altro attività sul territorio e missioni all'estero.</p>
+<hr />
+<h1 id="dettaglio-di-alcuni-progetti-realizzati">Dettaglio di alcuni progetti realizzati</h1>
+<h2 id="blog-feed-reader">Blog Feed Reader</h2>
+<h3 id="scopo-del-progetto">scopo del progetto</h3>
+<p>in previsione dell'allora imminente chiusura del servizio &quot;google feed&quot;, si è pensato di realizzare un'app di feed reading inizialmente</p>
+<ul>
+<li>per piattaforma android</li>
+<li>legata ad uno specifico blog</li>
+</ul>
+<p>ma strutturata per essere ampliamente</p>
+<ul>
+<li>customizzabile in funzione del cliente</li>
+<li>ampliabile a più fonti feed</li>
+<li>in grado di essere veicolo pubblicitario per il cliente</li>
+</ul>
+<p>Il progetto è stato pensato come &quot;benefit&quot; da fornire al cliente che acquista il servizio di webApp/tecnical blog presso l'azienda produttrice.</p>
+<h3 id="attività">Attività:</h3>
+<ul>
+<li>Analisi funzionale</li>
+<li>progettazione</li>
+<li>scelta delle tecnologie (librerie e linguaggi)</li>
+<li>design della struttura dati (webSql)</li>
+<li>progettazione interfaccia grafica applicativo (JqueryMobile)</li>
+<li>Configurazione ambiente Eclipse/ADT per il workflow di sviluppo e testing</li>
+<li>Sviluppo e testing applicazione</li>
+</ul>
+<h3 id="tecnologie-e-linguaggi-utilizzati">Tecnologie e linguaggi utilizzati:</h3>
+<ul>
+<li>tecnologie web lato client
+<ul>
+<li>HTML5/CSS3</li>
+<li>JavaScript</li>
+<li>jQuery</li>
+<li>JqueryMobile</li>
+<li>webSql</li>
+</ul></li>
+<li>Framework di programmazione lato client per lo sviluppo di Rich Internet Applications (HTML5, jQueryMobile, tecniche Ajax)</li>
+<li>Framework per Hybrid app
+<ul>
+<li>PhoneGap/Cordova v2.x</li>
+</ul></li>
+<li>Architetture REST</li>
+<li>Applicazioni sociali e mash-up tramite servizi web
+<ul>
+<li>in particolare, accesso ai servizi google per la feed syndacation (Google Feed API - https://developers.google.com/feed/)</li>
+</ul></li>
+<li>Android (v4.1, API 16), Android SDK</li>
+<li>chaintool di testing:
+<ul>
+<li>chromium</li>
+<li>ripple emulator</li>
+<li>AndroVm (emulatore android ottimizzato x86)</li>
+<li>device fisico</li>
+</ul></li>
+</ul>
+<h2 id="attività-in-corso">Attività in corso</h2>
+<h3 id="scopo-del-progetto-1">scopo del progetto</h3>
+<p>si tratta di un client per device mobili android di un sistema di spunta colli per autostrasporto calato sulle specifiche esigenze del cliente. in questo caso la toolchain di sviluppo è predefinita nei requisiti. Il sistema si basa pesantemente su un insieme di chiamate REST e sul server dedicato che le genera, entrambi definiti e prodotti dal cliente. Attraverso chiamate a queste API RESTful l'app client gestisce la visualizzazione dei dati di carico e l'invio delle informazioni sull'attività dell'autista (spunta dei colli, conferma consegna.) Il progetto prevede</p>
+<ul>
+<li>forte predisposizione all'internazionalizzazione (consegna progetto in lingua italiana, ma gestione di tutto il testo a video attraverso un sistema di internazionalizzazione bassato su file esterni di dizionario in futuro sostituibili)</li>
+<li>predisposizione alla gestione dell'hw del dispositivo (si prevede ampliamento delle funzionalità alla lettura codici a barre attraverso la camera del telefono)</li>
+<li>sincronia garantita tra local storage e server REST.</li>
+</ul>
+<h3 id="attività-1">Attività:</h3>
+<ul>
+<li>analisi e verifica dei casi d'uso forniti</li>
+<li>stretta collaborazione con il team sviluppo server</li>
+<li>design interfaccia grafica applicativo in html5 (JqueryMobile)</li>
+<li>progettazione con strutturazione secondo pattern MVC della logica applicativa
+<ul>
+<li>gestione struttura dati JSON fornita dal server</li>
+</ul></li>
+<li>Configurazione ambiente Eclipse/ADT per il workflow di sviluppo e testing</li>
+<li>Configurazione ambiente NODE.JS per il workflow di sviluppo e testing</li>
+<li>Sviluppo e testing applicazione</li>
+</ul>
+<p>Progetto ancora in corso, l'elenco attività indiccato potrebbe essere parziale e differente rispetto alla consegna.</p>
+<h3 id="tecnologie-e-linguaggi-utilizzati-1">Tecnologie e linguaggi utilizzati:</h3>
+<ul>
+<li>Tecnologie definite da specifica di progetto:
+<ul>
+<li>Phonegap/Cordova</li>
+<li>Jquery</li>
+<li>Backbone</li>
+</ul></li>
+<li>Framework di programmazione lato client per lo sviluppo di Rich Internet Applications (HTML5, jQueryMobile, tecniche Ajax)</li>
+<li>Framework per Hybrid app
+<ul>
+<li>PhoneGap/Cordova v3.x</li>
+</ul></li>
+<li>Accesso ad architetture REST
+<ul>
+<li>custom API del cliente</li>
+</ul></li>
+<li>Android (v4.1, API 16), Android SDK</li>
+<li>chaintool di sviluppo e testing:
+<ul>
+<li>NODE.JS</li>
+<li>cordova CLI tools</li>
+<li>chrome</li>
+<li>serve package on NODE.JS</li>
+<li>brackets.io</li>
+<li>ripple emulator</li>
+<li>AndroVm (emulatore android ottimizzato x86)</li>
+<li>device fisico</li>
+<li>eclipse/ADT IDE</li>
+</ul></li>
+</ul>
+<table>
+<col width="87%" />
+<tbody>
+<tr class="odd">
+<td align="left"># Altri riferimenti notevoli relativi allo sviluppo di mobile webapp/hybrid app # ### Corso avanzato Javascript ## corso di Javascript personalizzato (con docenza personale) Gestito da Prometheo ### studio del dialetto java nativo di android (Dalvik) e della programmazione nativa android ### ### esperienza pluriennale nell'analisi di query sql ### ### Corso IFTS di Operatore Multimediale ###</td>
+</tr>
+</tbody>
+</table>
+<h2 id="esperienze-professionali">ESPERIENZE PROFESSIONALI</h2>
+<ul>
+<li>dal 2013</li>
+</ul>
+<h3 id="sviluppatore-software">Sviluppatore software</h3>
+<p>Sviluppo su commessa in ambito web/js su piattaforma Android. Consulenza in ritenuta d’acconto.</p>
+<ul>
+<li>dal 2005 al 2013</li>
+</ul>
+<h3 id="sviluppatore-software-1">Sviluppatore Software</h3>
+<p>Sviluppatore software in ambito web/js su piattaforma Android. Presso azienda informatica - Milano</p>
+<ul>
+<li>dal dicembre 2007 all’ottobre 2012</li>
+</ul>
+<h3 id="supervisore-del-provisioning-tecnico">Supervisore del Provisioning tecnico</h3>
+<p>In missione presso Fastweb – Milano</p>
+<p>Supervisione delle attivita' di Provisioning tecnico in OLO; monitoraggio del sistema di Network Inventory, della consistenza della Customer Base, dei tracciati verso Telecom Italia per le attivazioni in centrale; verifica del rispetto degli SLA contrattuali da parte dei Vendor on field, verifica delle configurazioni logiche sugli apparati di accesso. Supporto tecnico PL/SQL di primo livello sull'applicativo di network inventory.</p>
+<ul>
+<li>dal 2007 al 2008</li>
+</ul>
+<h3 id="consulente-informatico">Consulente informatico</h3>
+<p>Ambito prevalentemente SQL, in missione presso la sede dei clienti: EnelGas, LocatRent, Sky, ALD Automotive, Lombardia Servizi Presso azienda informatica - Milano</p>
+<ul>
+<li>per tutto il 2005</li>
+</ul>
+<h3 id="consulente-informatico-1">Consulente informatico</h3>
+<p>Presso Getronics - Buccinasco (MI) Operatore telefonico responsabile dell'assistenza dei clienti Corporate tramite strumenti di controllo remoto.</p>
+<h2 id="competenze">COMPETENZE</h2>
+<h3 id="linguistiche">Linguistiche</h3>
+<ul>
+<li>Inglese: fluente, scritto e parlato</li>
+<li>Francese: a livello scolastico, scritto e parlato</li>
+</ul>
+<h3 id="professionali">Professionali</h3>
+<ul>
+<li><p>Realizzazione di WebApp in HTML5/CSS3 per il mondo Mobile.</p></li>
+<li><p>Conoscenza approfondita di HTML, Javascript, PHP, SQL, Java, Visual Basic; Postgre SQL, Toad, Oracle.</p></li>
+<li><p>Esperienza nello sviluppo tramite Android Developement tools (ADT),(jquery),cordova/phonegap, jquery, Jquery Mobile, Jasmine.js, ripple emulator, androVM, oracle vmplayer, Bluestack Player.</p></li>
+<li><p>competenze di editoria elettronica (EPUB editing e formattazione, conoscenza workflow ebook publishing) Utilizzo dei principali sistemi operativi ( Windows, Linux, OS X ). Conoscenza approfondita del pacchetto Office ( Excel, Power Point, Word, Access, Visio ).</p></li>
+<li><p>Utilizzo dei principali software per la stesura di sceneggiature in ambito teatrale ( es. Scrivener ).</p></li>
+</ul>
+<h3 id="altre">Altre</h3>
+<ul>
+<li>Esperienza nella realizzazione di allestimenti fieristici.</li>
+</ul>
+<h2 id="percorso-scolastico">PERCORSO SCOLASTICO</h2>
+<h3 id="diploma-di-maturità-classica">Diploma di maturità classica</h3>
+<p>conseguito presso il Liceo Scientifico &quot;Parco Nord&quot; di Cinisello Balsamo (MI) nel 1998.</p>
+<h3 id="corso-regionale-di-programmazione-c-in-ambiente-unix">Corso Regionale di programmazione C in ambiente Unix</h3>
+<p>presso Centro di Formazione Professionale Pepe - Milano</p>
+<h3 id="corso-ifts-n-22-operatore-multimediale-e-stage-in-azienda---milano">Corso IFTS n° 22, “Operatore Multimediale” e stage in azienda - Milano</h3>
+<h3 id="corso-formatemp-db-oracle-in-ambiente-linux">Corso FormaTemp “DB Oracle in ambiente Linux”</h3>
+<p>Presso azienda informatica, Cernusco Sul Naviglio (MI)</p>
+<h3 id="corso-di-javascript-personalizzato-con-docenza-personale">corso di Javascript personalizzato con docenza personale</h3>
+<p>Presso FOR Institute - Prometheo Milano Centro</p>
+<h2 id="hobby">HOBBY</h2>
+<ul>
+<li>Informatica, con particolare interesse per il mondo dell’Open Source</li>
+<li>Fotografia, Industrial Design, Arte e Architettura</li>
+<li>Narrativa, Giochi di Ruolo, Cinema, Fumetto e Animazione</li>
+<li>Motociclismo, Pattinaggio, Sci</li>
+</ul>
+<h2 id="altre-informazioni">ALTRE INFORMAZIONI</h2>
+<ul>
+<li>Disponibile a trasferte all’estero, anche di lungo periodo.</li>
+</ul>
+<p>Autorizzo l'utilizzo dei dati personali contenuti nel curriculum ai sensi del D.LGS. 196/2003</p>

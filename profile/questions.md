@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q07 risolte; Q08–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q07 risolte; Q08 parzialmente risolta (tecnologia, architettura e contributi confermati; durata e quantità da precisare); Q09–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -153,6 +153,24 @@ La rev2 distingue il pattern Redux implementato direttamente dall’uso della li
 
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 32: «React / React-native, Typescript, RxJs, Java, MongoDB.»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 93: «Gestione dello stato con il pattern Redux implementato direttamente, senza librerie dedicate.»
+
+**Conferma dell’utente del 10 ottobre 2026 — Luxottica:**
+
+- **Tecnologia dell’attività personale:** React. Non attribuire lavoro in React Native sulla base dell’elenco di tecnologie della fonte precedente.
+- **Gestione dello stato:** pattern Redux implementato direttamente senza la libreria Redux, per scelta di design del team, mantenuta attraverso PR sistematiche.
+- **Sistema:** suite di piccole applicazioni autonome con una libreria di componenti comuni. Le applicazioni rappresentavano ed esponevano dati di business intelligence a livelli successivi di drill-down, dalla vista CEO alle aree geografiche fino al singolo negozio.
+- **Contributi personali:** scrittura di componenti specifici della libreria condivisa; implementazione di applicazioni complete e di parti di applicazioni. Non dedurre da “app autonome” un’architettura microfrontend o specifici strumenti di orchestrazione.
+
+Dichiarazione originale:
+> si confermo, per scelta di design del team, rafforzato attraverso PR sistematiche
+>
+> l'attività era su react
+>
+> il sistema era una suite di piccole app autonome con una libreria di componenti comuni studiate per rappresentare ed esporre dati di business intelligence differenti a successivi livelli di drill down: ceo, aree geografiche, giu giu fino al singolo negozio.
+>
+> Mi sono occupato sia della scrittura di componenti specifici della libreria sia dell'implementazione di app complete e parti di app
+
+**Esito parziale:** confermati framework, scelta di gestione dello stato, struttura funzionale della suite e contributi personali. Restano da precisare durata dell’incarico e natura/perimetro dei dati “10.000 righe per app” e “oltre 50 pagine di documentazione”.
 
 ## Q09 — Quali responsabilità ICAR e competenze backend vuoi confermare?
 

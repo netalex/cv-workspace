@@ -1,8 +1,11 @@
 # CV workspace
 
 Archivio professionale e candidature su misura, gestiti con file leggibili.
-Il profilo reale è vuoto. `examples/demo` contiene esclusivamente dati fittizi.
-Nessun CV allegato alla conversazione è stato letto o importato.
+Il profilo reale è consolidato con le conferme del 10 ottobre 2026.
+`examples/demo` contiene esclusivamente dati fittizi. I CV importati sono inventariati
+in `sources/inventory.yaml`; le evidenze sono in `profile/evidence.md`.
+I record `to_verify` restano esclusi dalle evidenze utilizzabili nelle candidature.
+Contatti e località del profilo sono ancora da completare.
 
 ## Avvio su Windows
 

@@ -1,8 +1,9 @@
 # Prima revisione delle fonti
 
 Lotto acquisito dal branch data, commit e8c8523, il 9 ottobre 2026.
-Il profilo principale rimane vuoto: l'archivio è interrogabile, ma i fatti non
-sono ancora stati approvati dal candidato.
+Questa è la revisione storica del lotto iniziale. Il 10 ottobre 2026 le risposte
+Q01–Q11 sono state consolidate in profile/profile.yaml; per lo stato corrente
+consultare profile/evidence.md. Le tabelle seguenti descrivono il lotto iniziale.
 
 ## Copertura tecnica
 
@@ -63,3 +64,10 @@ Il confronto semantico è una prima revisione mirata delle fonti prioritarie,
 non una lettura umana riga per riga di tutti i 198 testi. Prima di consolidare
 ogni esperienza si controlleranno i relativi originali e le risposte del candidato.
 Nessun aggiornamento automatico di profile.yaml, nessuna cancellazione di duplicati.
+
+## Aggiornamento del 10 ottobre 2026
+
+Importato solo il testo della nuova versione Leonardo `src-20510e4bba7a5595` e conservate le conferme dirette.
+Il profilo distingue i record confirmed dai dettagli di sola fonte to_verify.
+Le nuove aggiunte del CV (web worker NextIP, CMS DS Group, Talent Garden) sono
+tracciate; Talent Garden è stato confermato direttamente, le altre rimangono da verificare.

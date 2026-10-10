@@ -1,11 +1,622 @@
 schema_version: 1
 identity:
-  name: ""
-  email: ""
-  location: ""
-sources: []
-experiences: []
-projects: []
-skills: []
-education: []
-languages: []
+  name: Alessandro Aprile
+  email: ''
+  location: ''
+sources:
+- id: src-confirmations-20261010
+  path: sources/confirmations/2026-10-10.md
+  note: Conferme dirette datate; Q01–Q11. Nessuna mail privata integrale.
+- id: src-20510e4bba7a5595
+  path: sources/extracted/src-20510e4bba7a5595.txt
+  note: Ultimo CV Leonardo dichiarato; non rende automaticamente confermati i suoi contenuti.
+- id: src-7b8606e22b543740
+  path: sources/extracted/src-7b8606e22b543740.txt
+  note: Rev2 precedente; estratto collegato agli originali tramite inventory.yaml.
+- id: src-a201c479e6c03b86
+  path: sources/extracted/src-a201c479e6c03b86.txt
+  note: CV storico ThinkOpen; estratto collegato agli originali tramite inventory.yaml.
+experiences:
+- id: exp-apprendo
+  label: Rapporto di lavoro con Apprendo Srl
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  employer: Apprendo Srl
+  relationship: assunzione diretta
+  source_locator: Q02, Q09
+- id: exp-thinkopen
+  label: Incarichi tramite ThinkOpen
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  employer: ThinkOpen
+  relationship: incarichi tramite ThinkOpen; forma contrattuale non precisata nelle conferme
+  source_locator: Q05, Q08
+- id: exp-3wlab
+  label: Contratto 3WLab
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  employer: 3WLab
+  contract_date: '2015-10-20'
+  source_locator: Q07
+- id: exp-areatc
+  label: Collaborazione AreaTC
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  employer: AreaTC
+  start: '2008'
+  source_locator: Q07
+projects:
+- id: proj-excellence
+  label: Excellence Innovation
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-apprendo
+  end: 2025-10
+  closure_contact: '2025-11-03'
+  notes: Il contatto per chiusura materiali non estende la durata dell’incarico.
+  source_locator: Q01
+- id: proj-what-if
+  label: What If per BFF Bank
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-apprendo
+  client: BFF Bank
+  delivery_chain:
+  - Apprendo Srl
+  - Be Shaping the Future
+  - Engineering
+  - BFF Bank
+  context: Clearing dei pagamenti sui mutui
+  requirements:
+  - metric: copertura dei test
+    minimum_percent: 80
+    kind: requirement
+    achieved: not_confirmed
+  metrics:
+  - metric: righe di codice
+    value: 100000
+    kind: estimate
+    scope: non precisato
+    use_in_cv: false
+  notes: Be Shaping the Future descritta dal candidato come brand di Engineering.
+  source_locator: Q02, Q03
+- id: proj-icar
+  label: ICAR / Unipol
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-apprendo
+  start: 2026-05
+  end: 2026-08
+  delivery_chain:
+  - Apprendo
+  - Digitality
+  - Tinexta
+  - I-CAR / Unipol
+  role: Sviluppatore frontend e FE lead
+  contribution:
+  - Coordinamento operativo temporaneo del gruppo Digitality FE/BE, interlocuzione con Tinexta e stime concordate
+    con Digitality.
+  - Trasferimento task Jira alla dashboard Azure e assegnazione ai colleghi.
+  - Implementazione personale e condivisa di harness e knowledge base AI per sviluppo e documentazione continuamente
+    aggiornata.
+  - Sistema AI di generazione ed esecuzione test da export Jira e repository Git reale.
+  - Aggiornamento configurazione replica inverso allo stato delle tabelle backend e scrittura di alcune funzioni
+    C# assistita da Claude.
+  technologies:
+  - Playwright
+  - Playwright MCP
+  - Vitest
+  - C#
+  - Claude
+  - Jira
+  - Git
+  coordination_until: circa metà giugno 2026
+  objectives:
+  - Accelerare onboarding anche di colleghi junior.
+  notes: Coordinamento di fatto, non nomina formale PM. C# circoscritto e assistito da AI; nessuna copertura totale
+    dei test dichiarata.
+  source_locator: Q09
+- id: proj-gft-2022
+  label: GFT gestione prestiti in React
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-thinkopen
+  start: '2022'
+  end: '2022'
+  client: GFT
+  context: Sistema di gestione prestiti
+  technologies:
+  - React
+  source_locator: Q05
+- id: proj-emmelibri
+  label: EmmeLibri
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-thinkopen
+  client: EmmeLibri
+  context: Progetto interno ThinkOpen per cliente diretto EmmeLibri
+  source_locator: Q05
+- id: proj-intesi
+  label: Intesi / Deutsche Bank
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-thinkopen
+  delivery_chain:
+  - ThinkOpen
+  - Intesi
+  - Deutsche Bank
+  client: Deutsche Bank
+  role: Sviluppatore responsabile frontend
+  contribution:
+  - Stesura documenti funzionali in accordo con gli architetti, nel ruolo iniziale funzionale/architetturale.
+  - Responsabilità frontend nel team di tre sviluppatori Angular.
+  - Formazione dei colleghi su Angular.
+  technologies:
+  - Angular
+  team_size_fe: 3
+  source_locator: Q05
+- id: proj-spindox
+  label: Spindox / Amplifon
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-thinkopen
+  delivery_chain:
+  - ThinkOpen
+  - Spindox
+  - Amplifon
+  client: Amplifon
+  context: E-commerce di apparecchi acustici per il mercato APAC
+  source_locator: Q05
+- id: proj-vittoria
+  label: Vittoria Assicurazioni
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-thinkopen
+  client: Vittoria Assicurazioni
+  contribution:
+  - Supporto all’ammodernamento del frontend del CRM interno.
+  source_locator: Q05
+- id: proj-luxottica
+  label: Suite BI Luxottica
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-thinkopen
+  delivery_chain:
+  - ThinkOpen
+  - Abstract
+  - Luxottica
+  start: '2020'
+  end: '2022'
+  context: Suite di piccole app autonome con libreria di componenti comuni e drill-down BI da CEO ad aree geografiche
+    fino al singolo negozio.
+  technologies:
+  - React
+  - pattern Redux senza libreria Redux
+  contribution:
+  - Scrittura di componenti della libreria condivisa.
+  - Implementazione di app complete e parti di app.
+  - Documentazione personale sull’uso dei componenti e sull’implementazione del pattern Redux.
+  practices:
+  - Scelta di design del team mantenuta attraverso PR sistematiche.
+  metrics:
+  - metric: righe per app
+    value: 10000
+    kind: estimate
+    scope: dimensione app, non contributo personale
+  - metric: pagine documentazione
+    value: 50
+    kind: estimate
+    scope: documentazione scritta personalmente
+  notes: Attività personale in React, non React Native. Usare circa per entrambe le quantità.
+  source_locator: Q08
+- id: proj-aice
+  label: A-ICE modulo sbrinamento
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  context: Applicazione modulare per sbrinamento degli aeromobili
+  team_contribution:
+  - Struttura di base del modulo di sbrinamento.
+  - Basi del sistema di librerie dell’applicazione modulare, frontend e backend.
+  metrics:
+  - metric: miglioramento prestazioni
+    value: 20
+    unit: percent
+    kind: personal_estimate
+    usage: solo se pertinente, qualificare esplicitamente come stima
+  notes: Risultati descritti al plurale come lavoro del team; non attribuire implementazione personale del backend
+    o completamento dell’intera applicazione.
+  source_locator: Q04
+- id: proj-nextip-estimate
+  label: Stima miglioramento NextIP
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  metrics:
+  - metric: miglioramento prestazioni
+    value: 20
+    unit: percent
+    kind: personal_estimate
+    usage: solo se pertinente, qualificare esplicitamente come stima
+  source_locator: Q04
+- id: proj-winga
+  label: Winga microfrontend Liferay
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  context: Microfrontend in Liferay con applicazioni AngularJS
+  technologies:
+  - Liferay
+  - AngularJS
+  notes: Non Angular moderno; non dedurre Module Federation.
+  source_locator: Q06
+- id: proj-areatc-plsql
+  label: Attività PL/SQL AreaTC
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  experience_id: exp-areatc
+  start: '2010'
+  technologies:
+  - PL/SQL
+  source_locator: Q07
+- id: pending-dates-emmelibri
+  label: Periodo EmmeLibri
+  status: to_verify
+  source_ids:
+  - src-a201c479e6c03b86
+  - src-7b8606e22b543740
+  reported_claim: '2020'
+- id: pending-dates-intesi
+  label: Periodo Intesi
+  status: to_verify
+  source_ids:
+  - src-a201c479e6c03b86
+  - src-7b8606e22b543740
+  reported_claim: 2018–2020
+- id: pending-dates-spindox
+  label: Periodo Spindox
+  status: to_verify
+  source_ids:
+  - src-a201c479e6c03b86
+  - src-7b8606e22b543740
+  reported_claim: '2019'
+- id: pending-dates-vittoria
+  label: Periodo Vittoria
+  status: to_verify
+  source_ids:
+  - src-a201c479e6c03b86
+  - src-7b8606e22b543740
+  reported_claim: '2018'
+- id: pending-dates-3wlab-end
+  label: Fine 3WLab
+  status: to_verify
+  source_ids:
+  - src-a201c479e6c03b86
+  - src-7b8606e22b543740
+  reported_claim: '2017'
+- id: pending-dates-areatc-end
+  label: Fine AreaTC e attività PL/SQL
+  status: to_verify
+  source_ids:
+  - src-a201c479e6c03b86
+  - src-7b8606e22b543740
+  reported_claim: '2013'
+- id: pending-whatif-dates-stack
+  label: Date e stack What If
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Novembre 2025–febbraio 2026; Angular/Module Federation da fonte, non confermati in Q02
+- id: pending-excellence-details
+  label: Altri dettagli Excellence
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Inizio marzo 2025; Angular 19, Nx e Laravel presenti nel CV
+- id: pending-simplify
+  label: Simplify
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Telemedicina, marzo–maggio 2026
+- id: pending-alkemy
+  label: Alkemy
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Progetto DNA, luglio–ottobre 2024; denominazione cliente da verificare
+- id: pending-iccrea
+  label: ICCREA
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Import CSV mutui/prestiti, febbraio–giugno 2024
+- id: pending-gft-2023
+  label: GFT 2023
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Dashboard assicurativa; non trasferire qui requisito 80% di What If
+- id: pending-marina
+  label: Marina Militare
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: CRM, Engineering, 2022
+- id: pending-nextip
+  label: NextIP
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: React, migrazione PHP e web worker, 2022
+- id: pending-aice-dates-stack
+  label: A-ICE date e stack
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: 2020, Angular; sospensione riportata da CV storico
+- id: pending-lutech
+  label: Lutech
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: IVD LIS, PrimeNG, 2018
+- id: pending-abb
+  label: ABB PowerOne
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Solar farm AngularJS, 2017
+- id: pending-rfi
+  label: RFI / 3WLab
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Gestione documentale AngularJS, 2016–2017
+- id: pending-3wlab-chatbot
+  label: 3WLab chatbot
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: PoC Node.js, 2017
+- id: pending-avanade
+  label: Avanade
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Landing page 2015–2016
+- id: pending-dsgroup
+  label: DS Group R&D
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: CMS ibrido vanilla JavaScript/Java, 2014–2015
+- id: pending-cerved
+  label: Cerved
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: HTML/JavaScript, 2014
+- id: pending-tecneva
+  label: Tecneva / FORGE Replay
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: PhoneGap/Cordova, 2013–2014
+- id: pending-insiel
+  label: Insiel Mercato
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: App Android ibrida, 2013
+- id: pending-support
+  label: Supporto IT
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  reported_claim: Attività storiche 2000–2010
+skills:
+- id: skill-react
+  label: React
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-luxottica
+  - proj-gft-2022
+  source_locator: Q05, Q08
+- id: skill-angular
+  label: Angular
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-intesi
+  source_locator: Q05
+- id: skill-angularjs
+  label: AngularJS
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-winga
+  source_locator: Q06
+- id: skill-liferay
+  label: Liferay microfrontend
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-winga
+  source_locator: Q06
+- id: skill-redux-pattern
+  label: Pattern Redux senza libreria Redux
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-luxottica
+  source_locator: Q08
+- id: skill-playwright
+  label: Playwright e Playwright MCP
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-icar
+  source_locator: Q09
+- id: skill-vitest
+  label: Vitest
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-icar
+  source_locator: Q09
+- id: skill-ai-development
+  label: Sviluppo assistito da AI e Claude
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-icar
+  source_locator: Q09
+- id: skill-ai-harness
+  label: Harness e knowledge base AI
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-icar
+  source_locator: Q09
+- id: skill-csharp-scoped
+  label: C# per interventi circoscritti assistiti da AI
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-icar
+  source_locator: Q09
+- id: skill-mentoring
+  label: Formazione Angular ai colleghi
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-intesi
+  source_locator: Q05
+- id: skill-documentation
+  label: Documentazione tecnica
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-luxottica
+  - proj-icar
+  source_locator: Q08, Q09
+- id: skill-coordination
+  label: Coordinamento operativo temporaneo FE/BE
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-icar
+  source_locator: Q09
+- id: skill-plsql
+  label: PL/SQL
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  usage: professional
+  context_ids:
+  - proj-areatc-plsql
+  source_locator: Q07
+education:
+- id: edu-diploma
+  label: Diploma classico
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  institution: Liceo Leopardi
+  qualification: Diploma classico
+  end: '1997'
+  completion: completed
+  source_locator: Q11
+- id: edu-design
+  label: Un anno di Disegno industriale
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  institution: Politecnico di Milano
+  qualification: Frequenza senza laurea
+  start: '1999'
+  duration: un anno
+  specialization: Disegno industriale, indirizzo Prodotto
+  completion: not_graduated
+  source_locator: Q11
+- id: edu-biondi
+  label: Architetture Enterprise in Angular 9 & NgRx 9
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  institution: Fabio Biondi
+  end: '2019'
+  notes: Anno dichiarato dal candidato; calendario del corso non verificato indipendentemente.
+  source_locator: Q11
+- id: edu-talent-garden
+  label: AI Management & Prompt Engineering
+  status: confirmed
+  source_ids:
+  - src-confirmations-20261010
+  institution: Talent Garden
+  end: 2026-09
+  completion: completed
+  completion_detail: prime due settimane di settembre 2026
+  notes: Non attribuire un titolo universitario o attestato non fornito.
+  source_locator: Q11
+languages:
+- id: lang-english
+  label: Inglese
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  level: fluente
+  basis: dichiarazione nel CV; non ancora confermata nel consolidamento
+- id: lang-french
+  label: Francese
+  status: to_verify
+  source_ids:
+  - src-20510e4bba7a5595
+  level: fluente
+  basis: dichiarazione nel CV; non ancora confermata nel consolidamento
+consolidated_on: '2026-10-10'
+notes:
+- Le conferme Q01–Q11 prevalgono sui CV. I record pending non sono utilizzabili come evidenze confermate.
+- Contatti e località da completare prima della candidatura. Nessun invio o approvazione layout/contenuto impliciti.

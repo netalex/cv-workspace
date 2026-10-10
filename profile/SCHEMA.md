@@ -24,3 +24,20 @@ Le note negoziali possono essere conservate in private/ (esclusa da Git).
 status (`draft`, `ready`, `sent`, `interview`, `closed`), evidence_ids,
 content_approved, layout_checked. job_url, captured_on, channel, next_action,
 next_action_on sono campi informativi facoltativi. Lo stato non invia nulla.
+
+## Campi del consolidamento
+
+- `source_locator`: sezione Q della fonte di conferma.
+- `relationship`, `delivery_chain`, `client`: rapporto e catena, senza inferire forma contrattuale.
+- `contract_date`, `closure_contact`, `coordination_until`: date distinte dalle date dell’esperienza; le approssimazioni restano testuali.
+- `contribution` e `team_contribution`: contributi personali e del team separati.
+- `requirements`: vincoli del progetto, non risultati.
+- `metrics`: oggetti con metric, value, kind (estimate/personal_estimate), scope/unit/usage facoltativi. La precisione e le qualificazioni vanno preservate.
+- `objectives`: finalità, non risultati misurati.
+- `completion`, `duration`, `specialization`, `completion_detail`: formazione e stato del percorso.
+- `reported_claim`: contenuto della fonte in un record to_verify, non un fatto confermato.
+- `notes`, `practices`, `consolidated_on`: contesto editoriale e data del consolidamento.
+
+I campi facoltativi restano soggetti a revisione editoriale. Un record confirmed
+contiene solo il sottoinsieme confermato: i dettagli non confermati sono record
+to_verify separati, non campi utilizzabili del record confirmed.

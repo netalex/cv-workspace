@@ -1,0 +1,192 @@
+Alessandro
+Aprile
+Sviluppatore Front End Senior – React e TypeScript
+Milano / Roma – 01/07/1977
+PROFILO
+Sviluppatore Front End senior React e TypeScript, con oltre 25 anni nel settore IT e più di dieci come sviluppatore front end professionista su applicazioni web enterprise, anche per difesa e pubblica amministrazione (Marina Militare, Comando Interforze del Ministero della Giustizia). Lavoro in piena autonomia, dall’analisi dei requisiti all’architettura dei componenti fino al rilascio.
+Su React ho lavorato per oltre due anni su progetti enterprise web e mobile (Luxottica, NextIP), anche come membro più esperto del team. La lunga esperienza parallela in Angular enterprise mi ha dato una solida padronanza di architetture a componenti, tipizzazione stretta e monorepo, che applico allo stesso modo nei progetti React.
+Competenze chiave
+Front end React e TypeScript: applicazioni enterprise web e mobile, architettura a componenti riutilizzabili, gestione dello stato, migrazione di applicazioni legacy.
+Interfacce data-intensive: griglie dati, dashboard e gestione di dataset consistenti, con attenzione a prestazioni e usabilità.
+Architettura e tooling: monorepo e librerie condivise, Micro Frontend, Git e CI/CD, definizione di pattern e linee guida di progetto.
+Qualità del codice: test unitari ed E2E, tipizzazione stretta, documentazione tecnica, mentoring e uso responsabile degli strumenti di IA nello sviluppo.
+Esperienze lavorative
+Apprendo S.r.l. – Roma	Marzo 2025 – in corso
+Tinexta Cyber / ICAR
+Maggio 2026 – Agosto 2026
+Attività svolte:
+Porting di un gestionale per prodotti, centri e processi delle flotte da Visual FoxPro/ARCA a .NET 10 e front end TypeScript moderno, per Tinexta Cyber.
+Principale sviluppatore front end senior del progetto, con il ruolo di team leader ad interim in assenza della figura dedicata.
+Realizzazione di griglie dati complesse con DevExtreme DataGrid: filtri, ordinamenti, paginazione e colonne configurabili su dataset gestionali consistenti.
+Front end standalone e zoneless in TypeScript con form, validazioni, componenti riutilizzabili e integrazione REST.
+Test automatici: unitari con Vitest, E2E con Playwright e automazioni tramite MCP.
+Definizione dei pattern architetturali, documentazione tecnica e traduzione dei comportamenti legacy nel nuovo stack, con interventi sul backend C# quando necessario.
+Simplify – Apprendo
+Marzo 2026 – Maggio 2026
+Attività svolte:
+Piattaforma paramedicale di telemedicina per il monitoraggio e la gestione remota dei pazienti.
+Configurazione e manutenzione di ambienti di sviluppo e repository, con gestione di branch, merge e integrazioni tra i moduli della piattaforma.
+Funzionalità e correzioni front end in TypeScript, con allineamento tra modelli front end e API REST.
+Introduzione in azienda di procedure di sviluppo assistito da LLM per automatizzare il lavoro ripetitivo, mantenendo controllo e revisione del codice.
+BFF Bank / What If – Be Shaping the Future / Engineering
+Novembre 2025 – Febbraio 2026
+Attività svolte:
+Funzionalità di proiezione mutui per BFF Bank, su piattaforma enterprise di Be Shaping the Future ed Engineering.
+Traduzione di requisiti funzionali complessi in flussi e componenti front end.
+Integrazione con i servizi backend e coordinamento con analisti e sviluppatori.
+Gestione della feature con specifiche progressive e scadenze ravvicinate, chiusa con documentazione tecnica e post-mortem.
+Excellence Innovation / WF ISA
+Marzo 2025 – Novembre 2025
+Attività svolte:
+CRM multitenant per il recruiting di private banker, CMS customizzabile e workflow WF ISA per Intesa.
+Guida della modernizzazione front end: migrazione ad Angular 19 e consolidamento in un monorepo Nx con librerie condivise, gestendo le dipendenze tra applicazioni e librerie.
+Analisi e risoluzione autonoma degli errori delle pipeline CI/CD (build, dipendenze, configurazione) e ottimizzazione dei workflow di build e deploy.
+Componenti standalone e strict typing TypeScript, integrazione REST con backend PHP Laravel.
+Mentoring, documentazione tecnica e best practice architetturali per il team.
+Volo Consulting / Orangee S.r.l. – Roma	Luglio 2024 – Ottobre 2024
+ALKEMY / Comando Interforze del Ministero della Giustizia
+Luglio 2024 – Ottobre 2024
+Attività svolte:
+Tre applicazioni front end interconnesse per la gestione delle analisi del DNA.
+Modifiche critiche a funzionalità esistenti, garantendo continuità operativa e coerenza architetturale.
+Risoluzione di bug complessi e nuove funzionalità su requisiti in continua evoluzione.
+Coordinamento di rilascio e integrazione tra le applicazioni con team interfunzionali.
+THINKOPEN – Milano / Remoto	Febbraio 2018 – Giugno 2024
+ICCREA – remoto
+Febbraio 2024 – Giugno 2024
+Attività svolte:
+Applicazione interna per l’import massivo di file CSV con dati contrattuali di mutui e prestiti.
+Gestione di dataset consistenti e ottimizzazione delle prestazioni front end con refactoring mirati.
+Nuove funzionalità con scadenze molto strette, mantenendo la coerenza dell’interfaccia.
+Introduzione di Git hooks per prevenire errori in fase di commit e deployment.
+GFT – Milano
+2023
+Attività svolte:
+Dashboard centralizzata per le filiali di una grande compagnia assicurativa.
+Test automatici front end con copertura dell’80% su una codebase di oltre 100.000 righe.
+Componente personalizzato avanzato basato sull’editor WYSIWYG di PrimeNG.
+Mentoring dei colleghi junior con pair programming, riducendo i tempi di onboarding.
+Engineering / Marina Militare (Ministero della Difesa)
+2022
+Attività svolte:
+Front end del portale CRM della Marina Militare.
+Integrazione della libreria Ace.js come componente personalizzato per l’editing avanzato di testo.
+Ottimizzazione dell’architettura e della coerenza dell’applicazione.
+Definizione del framework Agile del progetto in un team con front end, back end e database, con onboarding dei colleghi junior.
+GFT (Advancement & Maintenance) – remoto
+2022
+Attività svolte:
+Manutenzione evolutiva di un software enterprise: nuove funzionalità, miglioramento delle prestazioni, risoluzione di bug critici e stabilizzazione del sistema.
+NextIP – Milano
+2022
+Attività svolte:
+CRM all-in-one per call center sviluppato in React.
+Migrazione di un’applicazione web monolitica in PHP verso un’architettura a componenti React con uso intenso di web workers.
+Velocità dell’applicazione migliorata di circa il 20% e codice meglio organizzato.
+Nuove funzionalità integrate in modo scalabile, riutilizzabile e manutenibile, in linea con i processi operativi del cliente.
+Abstract / Luxottica – remoto
+2020 – 2022
+Attività svolte:
+Suite di applicazioni web e mobile in React e React Native per il supporto decisionale aziendale.
+Sviluppo su tutte le applicazioni della suite, oltre 10.000 righe ciascuna, con architettura a componenti React riutilizzabili.
+Gestione dello stato con il pattern Redux implementato direttamente, senza librerie dedicate.
+Manutenzione post-rilascio come membro più esperto del team.
+Oltre 50 pagine di documentazione tecnica per l’onboarding dei nuovi sviluppatori.
+Engineering / A-Ice – Milano
+2020
+Attività svolte:
+Software per la manutenzione degli aeromobili: trasformazione di un’applicazione legacy in Single Page Application moderna, con usabilità migliorata e velocità aumentata del 20%.
+Lutech – Milano
+2018
+Attività svolte:
+Applicazione web IVD LIS per laboratori clinici con PrimeNG, con documentazione SDS e TP conforme allo standard ISO 13485:2012.
+ABB PowerOne – Arezzo
+2017
+Attività svolte:
+Interfaccia in AngularJS per il controllo e il monitoraggio di solar farm, integrata con sistemi di analisi in tempo reale.
+3Wlab – Roma	2016 – 2017
+3Wlab – Roma / In sede
+2017
+Attività svolte:
+Framework di intelligenza artificiale e chatbot per Proof of Concept, con interfaccia web su Node.js.
+RFI – Milano / Roma – Remoto
+2016 – 2017
+Attività svolte:
+Front end AngularJS di un sistema di gestione documentale per il trasporto pubblico: progettazione autonoma dell’architettura della prima demo e coordinamento con grafici ed esperti HTML.
+Avanade – Milano
+2015 – 2016
+Attività svolte:
+Landing page per campagne digitali secondo standard di usabilità, accessibilità e compatibilità cross-browser.
+Winga – Milano	2015
+Attività svolte:
+Sviluppo front end di verticali per un portale di casinò online con architettura a Micro Frontend: revisione e refactoring profondo del codice, componenti ad alte prestazioni in un contesto ad alta disponibilità.
+DS Group – Milano	2014 – 2015
+DS Group R&D
+Attività svolte:
+CMS mobile cross-platform su tecnologie ibride, con funzionalità offline e interfacce responsive, from scratch e non basato su framework noti (javascript vanilla e java)
+Cerved – Milano	2014
+Attività svolte:
+Applicazione web in HTML e JavaScript per la gestione del portafoglio finanziario e del rating, primo progetto in un team Scrum con Agile Coach dedicato.
+Tecneva – Milano	2013 – 2014
+FORGE Replay – Milano
+2013 – 2014
+Attività svolte:
+App ibrida PhoneGap/Cordova per la gamification, con integrazione di API social e servizi di monetizzazione e formazione del team.
+FREELANCE – Remoto	2013 – 2014
+Insiel Mercato SpA – Udine
+2013
+Attività svolte:
+App Android ibrida per la gestione di materiale biologico, realizzata in autonomia, funzionante offline con checklist e scansione di codici a barre.
+AreaTC – Milano	2008 – 2013
+In sede
+2013
+Attività svolte:
+Transizione dal backend al front end su funzionalità JavaScript per applicazioni web aziendali.
+TelCo – Milano
+2008 – 2013
+Attività svolte:
+Sviluppatore PL/SQL: analisi e manutenzione in tempo reale di query e procedure su sistemi Oracle in produzione nel settore delle telecomunicazioni.
+Supporto IT – Remoto / In sede / Estero	2000 – 2010
+Varie aziende IT
+2000 – 2010
+Attività svolte:
+Supporto tecnico hardware, software e reti per grandi e piccole aziende, in presenza e da remoto, anche in un gruppo di help desk premiato a livello internazionale per produttività e tempestività. Nel 2000, un mese a Tokyo come tester di borchie in fibra ottica per Pirelli Cavi e Sistemi.
+Formazione
+Facoltà di Disegno Industriale – Indirizzo Prodotto (Politecnico di Milano)	1999
+Un anno di formazione su progettazione, design del prodotto e pensiero visivo, poi applicata alla progettazione di interfacce e all’usabilità nel front end.
+AI Management & Prompt Engineering Master - Talent Garden 	2026
+Corsi avanzati con Fabio Biondi (Google Developer Expert, Microsoft MVP)	2018 – 2019
+Architetture Enterprise in Angular 9 & NgRx 9 – online (2019)
+Mastering Angular – Roma, 2 giorni (2018)
+Angular & TypeScript Core Concepts – online e in sede, Firenze, 2 giorni (2018)
+LinkMe / “Mean Milan” – Corsi AngularJS	2015
+Percorsi formativi su AngularJS (intermedio e quickstart), con workshop pratici per la realizzazione di applicazioni single-page.
+Istituto FOR / Prometheo – Corso JavaScript One-to-One	2013
+Corso intensivo individuale (20h) focalizzato su JavaScript moderno.
+Lingue
+Inglese – fluente
+Francese – fluente
+Competenze
+Hard Skill
+Soft Skill
+React: React, React Native, pattern Redux, architettura a componenti riutilizzabili, migrazione da monoliti legacy
+Linguaggi: TypeScript, JavaScript (ES6+), HTML5, CSS3
+Tabelle e Data Grid: DevExtreme DataGrid (filtri, ordinamenti, paginazione, colonne configurabili), gestione di dataset consistenti
+Architettura e strumenti: monorepo Nx (librerie condivise, dipendenze tra progetti), Micro Frontend, Git (branch, merge request, Git hooks), CI/CD
+UI e component library: DevExtreme, PrimeNG, Angular Material, Bootstrap
+Testing: Vitest, Jest, Jasmine, Playwright (E2E)
+Altri framework: Angular (v2–21), AngularJS, RxJS, Ionic, PhoneGap/Cordova
+Back-end e integrazione: REST API, Node.js, Express.js, PHP Laravel, C# / .NET (base), OAuth2, JWT, Keycloak
+Database: SQL, Oracle PL/SQL, MongoDB
+Metodologie: Agile/Scrum, pair programming, refactoring architetturale, migrazioni tecnologiche
+Autonomia completa nello svolgimento delle attività
+Visione architetturale e sistemica del software
+Cura del dettaglio e qualità del codice
+Problem solving in contesti complessi
+Collaborazione in team multidisciplinari
+Mentoring e formazione dei colleghi junior
+Condivisione della conoscenza e documentazione tecnica
+Gestione del tempo e delle priorità
+Adattabilità, anche in contesti internazionali
+Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi del Regolamento UE 2016/679 (GDPR) e del D.Lgs. 196/2003.
+Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi del Regolamento UE 2016/679 (GDPR) e del D.Lgs. 196/2003.

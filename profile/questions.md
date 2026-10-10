@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q08 risolte; Q09 parzialmente risolta (responsabilità e attività confermate; sigla Playwright e runner unitario da chiarire); Q10–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q08 risolte; Q09 parzialmente risolta (responsabilità e attività confermate; runner unitario da chiarire); Q10–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -211,12 +211,12 @@ Confermare periodo maggio–agosto 2026, durata e ambito del ruolo ad interim, i
 
 - **Termine del coordinamento:** circa metà giugno 2026; non attribuire un giorno esatto.
 - **Interventi backend:** aggiornamento della configurazione denominata “replica inverso” per allinearla allo stato delle tabelle implementate nel backend; scrittura di alcune funzioni C# con l’assistenza di Claude, descritta dall’utente come “vibe coding”. Conservare il nome della configurazione come fornito, senza dedurne altri dettagli tecnici. Si tratta di interventi circoscritti assistiti da AI, non di una dichiarazione di competenza backend autonoma estesa.
-- **Automazione dei test:** realizzazione personale di un sistema basato su AI che utilizza l’export Jira e il repository Git effettivo come input per generare ed eseguire test E2E e unitari. L’utente indica Playwright e “playwright mco”; quest’ultima sigla resta da chiarire prima di normalizzarla in MCP. Anche il runner dei test unitari resta da specificare.
+- **Automazione dei test:** realizzazione personale di un sistema basato su AI che utilizza l’export Jira e il repository Git effettivo come input per generare ed eseguire test E2E e unitari. L’utente conferma Playwright e **Playwright MCP**, correggendo esplicitamente il precedente refuso “playwright mco” il 10 ottobre 2026. Il runner dei test unitari resta da specificare.
 - **Perimetro dei risultati:** la generazione ed esecuzione dei test è una funzionalità dichiarata del sistema; non implica copertura totale, assenza di difetti o superamento di tutti i test.
 
-**Ulteriore formulazione professionale utilizzabile:** “Realizzazione di un sistema di generazione ed esecuzione automatica di test assistito da AI, basato su requisiti esportati da Jira e codice del repository Git, con Playwright per il testing E2E. Interventi mirati sul backend C# con il supporto di Claude.”
+**Ulteriore formulazione professionale utilizzabile:** “Realizzazione di un sistema di generazione ed esecuzione automatica di test assistito da AI, basato su requisiti esportati da Jira e codice del repository Git, con Playwright e Playwright MCP per il testing E2E. Interventi mirati sul backend C# con il supporto di Claude.”
 
-**Esito parziale:** confermati periodo, catena di lavoro, coordinamento fino a circa metà giugno, interventi backend e automazione AI dei test. Restano da chiarire la sigla “playwright mco” e il framework/runner usato per i test unitari. La presente registrazione contiene esclusivamente la sintesi professionale autorizzata.
+**Esito parziale:** confermati periodo, catena di lavoro, coordinamento fino a circa metà giugno, interventi backend e automazione AI dei test. Resta da chiarire il framework/runner usato per i test unitari. La presente registrazione contiene esclusivamente la sintesi professionale autorizzata.
 
 ## Q10 — Quale data di revisione attribuire al CV denominato Luglio2026?
 

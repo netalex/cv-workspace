@@ -7,8 +7,8 @@ status: draft
 job_url: ''
 captured_on: '2026-10-10'
 channel: WhatsApp
-next_action: Revisione CV; concordare RAL desiderata, preavviso e contatti da stampare;
-  finalizzare messaggio prima dell’invio
+next_action: Confermare stack Angular recenti e date; approvare fascia RAL; aggiungere
+  contatti e rigenerare CV completo
 next_action_on: ''
 evidence_ids:
 - proj-icar
@@ -24,11 +24,13 @@ evidence_ids:
 - edu-biondi
 - edu-design
 - edu-diploma
+- proj-aice
 content_approved: false
 layout_checked: false
 submission_ready: false
 open_items:
 - RAL desiderata non concordata
-- Preavviso non verificato
 - Email e telefono da aggiungere al CV se desiderati
 - Date dei progetti senza periodo nel CV restano da confermare
+- Conferma mirata stack e attività recenti in cv-review.md
+availability: 30 giorni dichiarati dal candidato; possibile anticipo da confermare

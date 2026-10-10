@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q06 risolte; Q07–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q07 risolte; Q08–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -134,6 +134,18 @@ Separare durata del rapporto con l’azienda e durata del singolo progetto. Le v
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 108: «3Wlab – Roma	2016 – 2017»
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 130: «2010/2013 Junior PL/SQL Developer»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 141: «AreaTC – Milano	2008 – 2013»
+
+**Conferma dell’utente del 10 ottobre 2026:**
+
+- **3WLab:** contratto datato **20 ottobre 2015** (`2015-10-20`). Registrare questa data come data del contratto; non dedurre un giorno distinto di effettiva decorrenza dell’attività.
+- **AreaTC:** collaborazione iniziata nel **2008**; attività **PL/SQL iniziata nel 2010**. Separare il periodo del rapporto da quello dell’attività specifica.
+
+Dichiarazione originale:
+> il contratto 3WLab è del 20 ottobre 2015
+>
+> AreaTC: collaborazione iiziata nel 2008, attività PL/SQL iniziata nel 2010
+
+**Esito:** Q07 risolta per le divergenze sulle date iniziali. Nei CV mantenere la distinzione AreaTC 2008–2013 / attività PL/SQL dal 2010 e il riferimento al 2015 per 3WLab. Gli anni finali 2017 (3WLab) e 2013 (AreaTC/PLSQL) restano quelli riportati nelle fonti; questa risposta non fornisce nuove date di fine.
 
 ## Q08 — Per Luxottica quali tecnologie e responsabilità sono confermate?
 

@@ -60,7 +60,9 @@ Il 20% è attribuito sia a NextIP sia ad A-Ice nelle versioni recenti; la versio
 
 Dichiarazione originale: «una mia stima, in aggiunta durante la riscrittura.»
 
-**Esito:** chiarita l’origine della percentuale. Omettere il 20% dai CV personalizzati in assenza di una base di misura documentata; conservare qui la stima e la sua provenienza. Non sostituirla automaticamente con affermazioni qualitative di miglioramento delle prestazioni non ancora confermate. Resta da precisare quali attività fossero state effettivamente completate per A-Ice prima della sospensione nella fase iniziale riportata dalla fonte ThinkOpen.
+**Precisazione dell’utente del 10 ottobre 2026:** «no, non evitarlo se appropriato alla richiesta: è un valore indicativo credibile».
+
+**Esito e regola editoriale aggiornata:** chiarita l’origine della percentuale. Il 20% può essere utilizzato quando pertinente alla candidatura, qualificandolo esplicitamente come stima personale indicativa, non come risultato di un benchmark o misura verificata. Esempio di formulazione: “Miglioramento delle prestazioni stimato intorno al 20%”. Questa indicazione sostituisce la precedente regola di omissione automatica. Non trasferire la stima ad altri progetti o indicatori. Resta da precisare quali attività fossero state effettivamente completate per A-Ice prima della sospensione nella fase iniziale riportata dalla fonte ThinkOpen.
 
 ## Q05 — Confermi il progetto GFT 2022 in React e i progetti omessi?
 

@@ -8,7 +8,9 @@ sources:
   path: sources/confirmations/2026-10-10.md
   note: Conferme dirette datate; Q01–Q11. Nessuna mail privata integrale.
 - id: src-20510e4bba7a5595
-  path: sources/extracted/src-20510e4bba7a5595.txt
+  path: sources/raw/chat-2026-10-10/AAprile_CV_Leonardo_React_10-2026_rev2.docx
+  extracted_path: sources/extracted/src-20510e4bba7a5595.txt
+  sha256: 20510e4bba7a55955c390d983c308cabbb8cd9facc3ef4616df66300d65fc33e
   note: Ultimo CV Leonardo dichiarato; non rende automaticamente confermati i suoi contenuti.
 - id: src-7b8606e22b543740
   path: sources/extracted/src-7b8606e22b543740.txt

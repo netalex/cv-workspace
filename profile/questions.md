@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q04 risolte; Q05–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q04 risolte; Q05 parzialmente risolta (GFT confermato); Q06–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -79,6 +79,12 @@ Recuperare GFT loan management in React, EmmeLibri 2020, Intesi 2018–2020, Spi
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 40: «2018/2020 - PSD2 Bank access management interface - Front-end Developer - ThinkOpen/Intesi (Presence)»
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 46: «2019 - Web interface for medical devices integrated retail sales system - Front-end Developer - ThinkOpen/Spindox (Presence)»
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 57: «2018 - - Front-end Developer - ThinkOpen/Vittoria Assicurazioni (Presence)»
+
+**Conferma dell’utente del 10 ottobre 2026 — GFT:** confermati anno **2022**, rapporto tramite **ThinkOpen**, progetto **GFT** su un sistema di **gestione prestiti**, tecnologia **React**.
+
+Alla domanda «confermi il progetto GFT del 2022, tramite ThinkOpen, su un sistema di gestione prestiti sviluppato in React?» l’utente ha risposto: «si».
+
+**Esito parziale:** GFT confermato nei termini della domanda. La risposta non conferma i restanti progetti elencati in Q05, né mesi precisi o ulteriori dettagli contrattuali. Restano da confermare EmmeLibri 2020, Intesi 2018–2020, Spindox 2019 e Vittoria Assicurazioni 2018.
 
 ## Q06 — Qual era lo stack effettivo di Winga e come descrivere l’architettura?
 

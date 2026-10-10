@@ -1,8 +1,23 @@
 schema_version: 1
 id_basis: sha256 bytes; identical files share ID; edited bytes receive new ID
-files: 472
-unique_contents: 362
+files: 473
+unique_contents: 363
 records:
+- id: src-20510e4bba7a5595
+  sha256: 20510e4bba7a55955c390d983c308cabbb8cd9facc3ef4616df66300d65fc33e
+  paths:
+  - sources/raw/chat-2026-10-10/AAprile_CV_Leonardo_React_10-2026_rev2.docx
+  size_bytes: 38098
+  category: document_candidate
+  status: extracted
+  date: 2026-10
+  date_basis: latest CV sent to Leonardo a few days before 2026-10-10, declared by
+    candidate
+  method: office-xml
+  characters: 12555
+  text_sha256: 0c374add8618f3012b4b2dcf193e9a4f0a2fd8fc22fcb6cb49e35fe8b4948093
+  flags: []
+  extracted_path: sources/extracted/src-20510e4bba7a5595.txt
 - id: src-0054f2a39d6f5184
   sha256: 0054f2a39d6f51849ec28b3e7aaa48c56e997d0d517038d80613bc35857ab6fa
   paths:

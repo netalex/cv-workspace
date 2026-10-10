@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q10 risolte; Q11 parzialmente risolta (assenza di laurea, un anno di Disegno industriale ed erogatore dei corsi confermati). Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q11 risolte sulla base delle conferme dell’utente. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -252,7 +252,7 @@ Registrare diploma, anno universitario frequentato senza attribuire una laurea, 
 
 **Dati presenti nell’ultimo allegato, da distinguere dalle conferme dirette:** Politecnico di Milano, Disegno Industriale – indirizzo Prodotto, 1999; corsi con Fabio Biondi nel 2018–2019; “AI Management & Prompt Engineering Master - Talent Garden 2026”. L’allegato non specifica la natura del titolo: non attribuire un master universitario. Lo stato di completamento è chiarito dalla successiva conferma diretta riportata sotto.
 
-**Esito parziale:** chiariti assenza di laurea, durata della frequenza universitaria ed erogatore dei corsi. Restano da confermare diploma/anno, istituto e anno della frequenza universitaria, data del corso Angular 9 & NgRx 9 ; il completamento del percorso Talent Garden è confermato sotto.
+**Consolidamento:** assenza di laurea, frequenza universitaria, diploma ed erogatore/anno del corso sono confermati nelle risposte riportate in questa sezione. Il completamento del percorso Talent Garden è confermato sotto.
 
 
 **Conferma Talent Garden del 10 ottobre 2026:** percorso “AI Management & Prompt Engineering Master” completato nelle prime due settimane di **settembre 2026**. Registrare il completamento a precisione mensile (`2026-09`), conservando la precisazione temporale senza inventare un giorno esatto.
@@ -260,3 +260,12 @@ Registrare diploma, anno universitario frequentato senza attribuire una laurea, 
 Dichiarazione originale: «completato registrato le prime due settimane di settembre».
 
 Il termine “registrato” è conservato nella dichiarazione senza dedurne il rilascio di un attestato o una specifica modalità di frequenza. Formulazione utilizzabile: “AI Management & Prompt Engineering — Talent Garden, completato a settembre 2026”.
+
+
+**Conferma finale dell’utente del 10 ottobre 2026:**
+
+- **Politecnico di Milano — Disegno industriale, indirizzo Prodotto, 1999:** un anno frequentato, senza conseguimento della laurea.
+- **Liceo Leopardi — diploma classico, 1997.**
+- Alla richiesta che comprendeva anche l’anno **2019** del corso **“Architetture Enterprise in Angular 9 & NgRx 9”** con **Fabio Biondi**, l’utente ha risposto «confermo tutto». Registrare l’anno come dichiarato dall’utente, non come verifica indipendente del calendario del corso.
+
+**Esito finale:** Q11 risolta. Tutte le domande iniziali Q01–Q11 hanno ricevuto risposta. Le conferme sono raccolte in questo documento; il loro trasferimento nel profilo strutturato resta una fase distinta e non è implicato dalla chiusura delle domande.

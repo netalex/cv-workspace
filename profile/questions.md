@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q08 risolte; Q09 parzialmente risolta (periodo, catena, coordinamento e attività AI confermati; durata del coordinamento, C# e Playwright da precisare); Q10–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q08 risolte; Q09 parzialmente risolta (responsabilità e attività confermate; sigla Playwright e runner unitario da chiarire); Q10–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -201,13 +201,22 @@ Confermare periodo maggio–agosto 2026, durata e ambito del ruolo ad interim, i
 - **Periodo:** maggio–agosto 2026.
 - **Catena di lavoro:** professionista → Apprendo → Digitality → Tinexta → I-CAR / Unipol. La denominazione finale è mantenuta come dichiarata dall’utente.
 - **Responsabilità frontend:** sviluppo frontend e ruolo di FE lead.
-- **Coordinamento operativo temporaneo:** gestione del gruppo Digitality FE/BE, interpretazione delle richieste di Tinexta, elaborazione delle stime temporali dei task in accordo con Digitality e assegnazione delle attività ai colleghi. Gestione del trasferimento dei task tra Jira e la dashboard Azure. Si tratta di responsabilità di fatto, non di una nomina formale a Project Manager; la durata esatta resta da precisare.
+- **Coordinamento operativo temporaneo:** gestione del gruppo Digitality FE/BE, interpretazione delle richieste di Tinexta, elaborazione delle stime temporali dei task in accordo con Digitality e assegnazione delle attività ai colleghi. Gestione del trasferimento dei task tra Jira e la dashboard Azure. Si tratta di responsabilità di fatto, non di una nomina formale a Project Manager; il coordinamento è proseguito fino a circa metà giugno 2026, secondo la successiva conferma dell’utente.
 - **Sviluppo assistito da AI:** utilizzo intensivo dell’AI e implementazione personale e condivisa di harness e knowledge base AI per supportare lo sviluppo e la produzione di documentazione dettagliata, costantemente aggiornata.
 - **Documentazione e onboarding:** organizzazione della conoscenza del progetto per facilitare e accelerare l’inserimento dei colleghi, anche junior. La riduzione dei tempi di onboarding è descritta come obiettivo, senza attribuire una misura verificata o un risultato di “tempi zero”.
 
 **Formulazione professionale utilizzabile:** “Sviluppatore frontend e FE lead, con responsabilità temporanee di coordinamento operativo del team FE/BE, interlocuzione con Tinexta, stima e assegnazione delle attività. Implementazione personale e condivisa di harness e knowledge base AI per lo sviluppo e la documentazione tecnica continuamente aggiornata, a supporto dell’onboarding anche di sviluppatori junior.”
 
-**Esito parziale:** confermati periodo, catena di lavoro, responsabilità operative e attività AI. Restano da precisare la durata del coordinamento, gli interventi personali in C# e le attività con Playwright. La presente registrazione contiene esclusivamente la sintesi professionale autorizzata.
+**Ulteriori conferme professionali del 10 ottobre 2026:**
+
+- **Termine del coordinamento:** circa metà giugno 2026; non attribuire un giorno esatto.
+- **Interventi backend:** aggiornamento della configurazione denominata “replica inverso” per allinearla allo stato delle tabelle implementate nel backend; scrittura di alcune funzioni C# con l’assistenza di Claude, descritta dall’utente come “vibe coding”. Conservare il nome della configurazione come fornito, senza dedurne altri dettagli tecnici. Si tratta di interventi circoscritti assistiti da AI, non di una dichiarazione di competenza backend autonoma estesa.
+- **Automazione dei test:** realizzazione personale di un sistema basato su AI che utilizza l’export Jira e il repository Git effettivo come input per generare ed eseguire test E2E e unitari. L’utente indica Playwright e “playwright mco”; quest’ultima sigla resta da chiarire prima di normalizzarla in MCP. Anche il runner dei test unitari resta da specificare.
+- **Perimetro dei risultati:** la generazione ed esecuzione dei test è una funzionalità dichiarata del sistema; non implica copertura totale, assenza di difetti o superamento di tutti i test.
+
+**Ulteriore formulazione professionale utilizzabile:** “Realizzazione di un sistema di generazione ed esecuzione automatica di test assistito da AI, basato su requisiti esportati da Jira e codice del repository Git, con Playwright per il testing E2E. Interventi mirati sul backend C# con il supporto di Claude.”
+
+**Esito parziale:** confermati periodo, catena di lavoro, coordinamento fino a circa metà giugno, interventi backend e automazione AI dei test. Restano da chiarire la sigla “playwright mco” e il framework/runner usato per i test unitari. La presente registrazione contiene esclusivamente la sintesi professionale autorizzata.
 
 ## Q10 — Quale data di revisione attribuire al CV denominato Luglio2026?
 

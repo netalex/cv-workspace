@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q09 risolte; Q10–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q10 risolte; Q11 aperta. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -224,6 +224,12 @@ Il nome contiene Luglio2026 ma il testo reca CV Aggiornato 10/2025 e include att
 
 - [src-b956b8438beec18a](../sources/extracted/src-b956b8438beec18a.txt), riga 4: «CV Aggiornato 10/2025»
 - [src-b956b8438beec18a](../sources/extracted/src-b956b8438beec18a.txt), riga 17: «Maggio 2026 – Agosto 2026»
+
+**Conferma dell’utente del 10 ottobre 2026:** il CV è stato aggiornato a **luglio 2026** (`2026-07`).
+
+Alla domanda sulla data effettiva di aggiornamento, l’utente ha risposto: «luglio 2026».
+
+**Esito:** Q10 risolta per la data di revisione dichiarata. Usare luglio 2026 come riferimento, senza attribuire un giorno preciso; l’intestazione “CV Aggiornato 10/2025” non rappresenta la data di revisione confermata. Conservare l’originale invariato. Il riferimento interno ad agosto 2026 resta un’incongruenza cronologica della fonte: non dedurre se fosse una previsione o una modifica successiva. Il periodo ICAR maggio–agosto 2026 è stato confermato separatamente dall’utente in Q09.
 
 ## Q11 — Confermi formazione e denominazioni dei corsi?
 

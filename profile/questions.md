@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q08 risolte; Q09–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q08 risolte; Q09 parzialmente risolta (periodo, catena, coordinamento e attività AI confermati; durata del coordinamento, C# e Playwright da precisare); Q10–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -195,6 +195,19 @@ Confermare periodo maggio–agosto 2026, durata e ambito del ruolo ad interim, i
 
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 20: «Principale sviluppatore front end senior del progetto, con il ruolo di team leader ad interim in assenza della figura dedicata.»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 24: «Definizione dei pattern architetturali, documentazione tecnica e traduzione dei comportamenti legacy nel nuovo stack, con interventi sul backend C# quando necessario.»
+
+**Sintesi professionale confermata dall’utente il 10 ottobre 2026, con pubblicazione espressamente autorizzata nella stessa data:**
+
+- **Periodo:** maggio–agosto 2026.
+- **Catena di lavoro:** professionista → Apprendo → Digitality → Tinexta → I-CAR / Unipol. La denominazione finale è mantenuta come dichiarata dall’utente.
+- **Responsabilità frontend:** sviluppo frontend e ruolo di FE lead.
+- **Coordinamento operativo temporaneo:** gestione del gruppo Digitality FE/BE, interpretazione delle richieste di Tinexta, elaborazione delle stime temporali dei task in accordo con Digitality e assegnazione delle attività ai colleghi. Gestione del trasferimento dei task tra Jira e la dashboard Azure. Si tratta di responsabilità di fatto, non di una nomina formale a Project Manager; la durata esatta resta da precisare.
+- **Sviluppo assistito da AI:** utilizzo intensivo dell’AI e implementazione personale e condivisa di harness e knowledge base AI per supportare lo sviluppo e la produzione di documentazione dettagliata, costantemente aggiornata.
+- **Documentazione e onboarding:** organizzazione della conoscenza del progetto per facilitare e accelerare l’inserimento dei colleghi, anche junior. La riduzione dei tempi di onboarding è descritta come obiettivo, senza attribuire una misura verificata o un risultato di “tempi zero”.
+
+**Formulazione professionale utilizzabile:** “Sviluppatore frontend e FE lead, con responsabilità temporanee di coordinamento operativo del team FE/BE, interlocuzione con Tinexta, stima e assegnazione delle attività. Implementazione personale e condivisa di harness e knowledge base AI per lo sviluppo e la documentazione tecnica continuamente aggiornata, a supporto dell’onboarding anche di sviluppatori junior.”
+
+**Esito parziale:** confermati periodo, catena di lavoro, responsabilità operative e attività AI. Restano da precisare la durata del coordinamento, gli interventi personali in C# e le attività con Playwright. La presente registrazione contiene esclusivamente la sintesi professionale autorizzata.
 
 ## Q10 — Quale data di revisione attribuire al CV denominato Luglio2026?
 

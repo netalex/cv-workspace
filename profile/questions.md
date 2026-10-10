@@ -183,6 +183,12 @@ Dichiarazione originale:
 
 **Esito:** Q08 risolta. Confermati periodo, framework, architettura funzionale, contributi personali e documentazione. Quando pertinenti alla candidatura, le quantità possono essere utilizzate come stime, con formule come “circa 10.000 righe per app” e “circa 50 pagine di documentazione tecnica”. Non trasformare la stima delle pagine in un limite inferiore certo (“oltre 50”).
 
+**Catena di lavoro confermata dall’utente il 10 ottobre 2026:** Alessandro Aprile → ThinkOpen → Abstract → Luxottica (cliente finale).
+
+Dichiarazione originale: «la catena di lavoro per luxottica era io -> thinkopen -> abstract -> luxottica».
+
+Conservare Abstract come intermediario nella ricostruzione dell’incarico; non presentare il rapporto come diretto con Luxottica.
+
 ## Q09 — Quali responsabilità ICAR e competenze backend vuoi confermare?
 
 Confermare periodo maggio–agosto 2026, durata e ambito del ruolo ad interim, interventi C# e attività Playwright. Distinguere sviluppo backend autonomo da interventi circoscritti.

@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01 risolta; Q02–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -10,6 +10,12 @@ Le versioni indicano ottobre oppure novembre 2025. Distinguere eventuale termine
 
 - [src-dcdf3c0b0866f539](../sources/extracted/src-dcdf3c0b0866f539.txt), riga 37: «***Marzo 2025 – Ottobre 2025***»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 40: «Marzo 2025 – Novembre 2025»
+
+**Risposta confermata dall’utente il 10 ottobre 2026:** fine incarico a **ottobre 2025**. L’ultimo contatto per la chiusura dei materiali è avvenuto **lunedì 3 novembre 2025**.
+
+Dichiarazione originale: «ottobre, l'ultimo contatto per la chiusura dei materiali è di lunedì 3 novembre 2025».
+
+**Esito:** Q01 risolta. Nel CV usare ottobre 2025 come mese di fine incarico (`2025-10`), senza attribuire un giorno preciso. Conservare separatamente il contatto di chiusura (`2025-11-03`), che non modifica la data di fine incarico. Questa risposta non conferma le date di What If.
 
 ## Q02 — Che cosa faceva esattamente What If e qual era il cliente finale?
 

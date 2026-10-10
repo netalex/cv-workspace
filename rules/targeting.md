@@ -12,3 +12,13 @@
 
 Gli ID consentono controlli di esistenza e stato, non dimostrano semanticamente
 che ogni frase sia corretta. Questo controllo rimane editoriale e umano.
+
+## Confronto economico dell’offerta
+
+Leggere profile/compensation-baseline.md e riportare in analysis.md il confronto
+tra fisso proposto e base documentata, incremento assoluto e percentuale, variabile,
+benefit e condizioni operative. Verificare la data di riferimento della base.
+Se la fascia economica manca, segnalarla come da chiarire, senza inventarla.
+Gli esempi aritmetici della scheda non sono benchmark o soglie di accettazione.
+Non riportare automaticamente retribuzione attuale o note negoziali nei testi
+esterni; richiedono una scelta esplicita del candidato.

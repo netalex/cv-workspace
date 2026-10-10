@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q02 risolte; Q03–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q03 risolte; Q04–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -42,6 +42,12 @@ Separare requisito di progetto, risultato misurato e perimetro della misura. Con
 
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 9: «Writing FE Unit tests (minimum 80% coverage)»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 12: «Integrazione e qualità: API REST con modelli TypeScript tipizzati, component library condivise, test unitari ed E2E (Vitest, Jest, Playwright), copertura dell’80% su oltre 100.000 righe.»
+
+**Risposta confermata dall’utente il 10 ottobre 2026:** l’80% era un **requisito minimo di What If**, non un risultato misurato confermato. Le 100.000 righe sono una **stima di massima**.
+
+Dichiarazione originale: «requisito minimo di what if. le righe sono una stima di massima».
+
+**Esito:** Q03 risolta ai fini editoriali. Descrivere l’80% esclusivamente come requisito minimo di copertura dei test nel progetto What If. Non affermare che sia stato raggiunto né associare la percentuale alle 100.000 righe come misura verificata. Conservare il numero di righe come stima, con perimetro e metodo di conteggio non precisati; ometterlo dai CV finché non sia utile e sufficientemente contestualizzato. Non attribuire quelle righe al contributo personale dell’utente.
 
 ## Q04 — Da dove provengono gli incrementi di velocità del 20%?
 

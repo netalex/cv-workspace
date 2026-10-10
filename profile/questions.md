@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q05 risolte; Q06–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q06 risolte; Q07–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -119,6 +119,12 @@ Le fonti riportano JavaScript/jQuery/Velocity/LifeRay, AngularJS, oppure Angular
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 6: «Back-end Development (indirect knowledge): SQL - Oracle - Node - PHP - Laravel - Professional tomcat-based CMS (LifeRay) and server-side template engine (Apache Velocity, FreeMarker) - M.E.A.N Stack - MongoDB - Express.js - Agile methodology»
 - [src-bc9944151bb7aa63](../sources/extracted/src-bc9944151bb7aa63.txt), riga 15: «Angular/AngularJs - React - React-native - Redux/RxJs - TypeScript/JavaScriptwebRtc - Ionic/PhoneGap/Cordova -»
 - [src-751eabd3f2bd89e7](../sources/extracted/src-751eabd3f2bd89e7.txt), riga 202: «Sviluppo front end in Angular per un portale di casinò online basato su architettura a Micro Frontend. Ho eseguito una revisione completa e un refactoring profondo del codice esistente, migliorando l'architettura dell'applicazione e riducendo i tempi di inattività. Ho lavorato su componenti ad alte prestazioni e contribuito alla stabilità del sistema in un contesto con elevati requisiti di disponibilità.»
+
+**Conferma dell’utente del 10 ottobre 2026:** Winga era un **microfrontend in Liferay con applicazioni AngularJS**.
+
+Dichiarazione originale: «era un microfrontend in liferay con app in angularJs».
+
+**Esito:** Q06 risolta per architettura e framework. Formulazione utilizzabile: “Sviluppo frontend per Winga su architettura microfrontend in Liferay con applicazioni AngularJS”. Usare AngularJS, non Angular moderno. Non dedurre Module Federation, versioni specifiche o modalità di integrazione non descritte. La risposta non conferma né esclude l’uso di jQuery e Velocity nel progetto; non ricavarlo dai soli elenchi generali di competenze citati sopra.
 
 ## Q07 — Quali sono gli anni corretti di 3Wlab e dell’attività PL/SQL?
 

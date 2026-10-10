@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q03 risolte; Q04 parzialmente risolta (origine del 20% chiarita; attività A-Ice da precisare); Q05–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q04 risolte; Q05–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -62,7 +62,13 @@ Dichiarazione originale: «una mia stima, in aggiunta durante la riscrittura.»
 
 **Precisazione dell’utente del 10 ottobre 2026:** «no, non evitarlo se appropriato alla richiesta: è un valore indicativo credibile».
 
-**Esito e regola editoriale aggiornata:** chiarita l’origine della percentuale. Il 20% può essere utilizzato quando pertinente alla candidatura, qualificandolo esplicitamente come stima personale indicativa, non come risultato di un benchmark o misura verificata. Esempio di formulazione: “Miglioramento delle prestazioni stimato intorno al 20%”. Questa indicazione sostituisce la precedente regola di omissione automatica. Non trasferire la stima ad altri progetti o indicatori. Resta da precisare quali attività fossero state effettivamente completate per A-Ice prima della sospensione nella fase iniziale riportata dalla fonte ThinkOpen.
+**Esito e regola editoriale aggiornata:** chiarita l’origine della percentuale. Il 20% può essere utilizzato quando pertinente alla candidatura, qualificandolo esplicitamente come stima personale indicativa, non come risultato di un benchmark o misura verificata. Esempio di formulazione: “Miglioramento delle prestazioni stimato intorno al 20%”. Questa indicazione sostituisce la precedente regola di omissione automatica. Non trasferire la stima ad altri progetti o indicatori. Le attività realizzate per A-ICE sono precisate nella conferma seguente.
+
+**Conferma sulle attività A-ICE del 10 ottobre 2026:** il team aveva implementato la struttura di base del modulo di sbrinamento degli aeromobili e gettato le basi del sistema di librerie dell’intera applicazione modulare, sia frontend sia backend.
+
+Dichiarazione originale: «riguardo a A-ICE, avevamo implementato la struttura di base del modulo di sbrinamento delle areonavi, e gettato le basi del sistema di librerie di tutta l'applicazione modulare, sia per fe che be».
+
+**Stato finale:** Q04 risolta. Descrivere lo stato di avanzamento come struttura di base del modulo e impostazione del sistema di librerie, senza attribuire il completamento o il rilascio dell’intera applicazione. La formulazione collettiva dell’utente conferma attività del team; non implica che abbia personalmente implementato entrambe le parti frontend e backend.
 
 ## Q05 — Confermi il progetto GFT 2022 in React e i progetti omessi?
 

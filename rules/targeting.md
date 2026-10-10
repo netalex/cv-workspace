@@ -22,3 +22,8 @@ Se la fascia economica manca, segnalarla come da chiarire, senza inventarla.
 Gli esempi aritmetici della scheda non sono benchmark o soglie di accettazione.
 Non riportare automaticamente retribuzione attuale o note negoziali nei testi
 esterni; richiedono una scelta esplicita del candidato.
+
+Leggere anche profile/preferences.md: valutare in analysis.md ogni desideratum e
+obiettivo nell’ordine dichiarato, separando compatibilità tecnica e personale.
+Esplicitare compromessi, evidenze e domande aperte senza inventare pesi o soglie.
+Non copiare automaticamente preferenze e note negoziali nei testi destinati alle aziende.

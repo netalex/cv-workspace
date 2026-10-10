@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q04 risolte; Q05 parzialmente risolta (GFT confermato); Q06–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q05 risolte; Q06–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -84,7 +84,33 @@ Recuperare GFT loan management in React, EmmeLibri 2020, Intesi 2018–2020, Spi
 
 Alla domanda «confermi il progetto GFT del 2022, tramite ThinkOpen, su un sistema di gestione prestiti sviluppato in React?» l’utente ha risposto: «si».
 
-**Esito parziale:** GFT confermato nei termini della domanda. La risposta non conferma i restanti progetti elencati in Q05, né mesi precisi o ulteriori dettagli contrattuali. Restano da confermare EmmeLibri 2020, Intesi 2018–2020, Spindox 2019 e Vittoria Assicurazioni 2018.
+**Precisazioni dell’utente del 10 ottobre 2026 sugli altri progetti:**
+
+- **EmmeLibri:** cliente diretto di ThinkOpen; progetto interno a ThinkOpen per il cliente EmmeLibri, non prodotto interno di ThinkOpen.
+- **Intesi / Deutsche Bank:** cliente finale Deutsche Bank. Ruolo iniziale funzionale/architetturale, con stesura dei documenti funzionali in accordo con gli architetti. Sviluppatore responsabile del frontend in un team di tre sviluppatori frontend Angular; formazione dei colleghi su Angular. Non dedurre un titolo formale di architetto o responsabilità gerarchiche.
+- **Spindox / Amplifon:** cliente finale Amplifon; prodotto e-commerce per il mercato APAC relativo ad apparecchi acustici. L’utente descrive gli apparecchi come all’avanguardia e Amplifon come leader mondiale del settore; conservare queste qualificazioni come descrizioni dell’utente, senza renderle necessarie nella formulazione del CV.
+- **Vittoria Assicurazioni:** supporto all’ammodernamento del frontend del CRM interno.
+
+Passaggi originali della risposta:
+> Emmelibri era cliente diretto di thinkopen, quindi progetto interno
+>
+> ho avuto ruolo iniziale funzionale\\architetturale (stesura documenti funzionali in accordo con gli architetti)
+>
+> ho svolto il ruolo di sviluppatore responsabile del Front end in un team di tre FE dev angular
+>
+> ho formato i colleghi su angular
+>
+> il cleinte era Deutsche Bank
+>
+> il cliente era Amplifon, leader mondiale del settore
+>
+> gli apparati erano apparecchi acustici all'avanguardia
+>
+> il prodtto era l'ecomerce per il mercato **APAC**
+>
+> Vittoria: supporto all'ammodernamento del FE del loro CRM interno
+
+**Esito:** Q05 risolta per il recupero dei progetti e la descrizione delle attività. Conservare gli anni riportati nelle fonti (EmmeLibri 2020, Intesi 2018–2020, Spindox 2019, Vittoria 2018); la risposta dettaglia attività e clienti senza fornire nuove date o mesi precisi. GFT resta confermato nei termini della domanda precedente.
 
 ## Q06 — Qual era lo stack effettivo di Winga e come descrivere l’architettura?
 

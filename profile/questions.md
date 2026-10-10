@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q07 risolte; Q08 parzialmente risolta (tecnologia, architettura e contributi confermati; durata e quantità da precisare); Q09–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q08 risolte; Q09–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -170,7 +170,18 @@ Dichiarazione originale:
 >
 > Mi sono occupato sia della scrittura di componenti specifici della libreria sia dell'implementazione di app complete e parti di app
 
-**Esito parziale:** confermati framework, scelta di gestione dello stato, struttura funzionale della suite e contributi personali. Restano da precisare durata dell’incarico e natura/perimetro dei dati “10.000 righe per app” e “oltre 50 pagine di documentazione”.
+**Ulteriore conferma dell’utente del 10 ottobre 2026:**
+
+- **Periodo:** 2020–2022, senza mesi precisi dichiarati.
+- **Dimensione delle applicazioni:** circa 10.000 righe per app, stima indicativa, non conteggio verificato né misura del solo codice scritto personalmente.
+- **Documentazione:** circa 50 pagine, stima indicativa. Scritte personalmente dall’utente, riguardavano l’uso dei componenti e l’implementazione del pattern Redux.
+
+Dichiarazione originale:
+> 10.000 e 50 sono stime
+>
+> le pagine riguardavano l'uso dei componenti e l'implementazione del pattern redux, scritte da me. Il periodo è dal 2020 al 2022
+
+**Esito:** Q08 risolta. Confermati periodo, framework, architettura funzionale, contributi personali e documentazione. Quando pertinenti alla candidatura, le quantità possono essere utilizzate come stime, con formule come “circa 10.000 righe per app” e “circa 50 pagine di documentazione tecnica”. Non trasformare la stima delle pagine in un limite inferiore certo (“oltre 50”).
 
 ## Q09 — Quali responsabilità ICAR e competenze backend vuoi confermare?
 

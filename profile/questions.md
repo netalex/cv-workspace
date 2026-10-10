@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01 risolta; Q02 parzialmente risolta (catena dei fornitori da confermare); Q03–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q02 risolte; Q03–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -28,7 +28,13 @@ Una versione parla di clearing dei pagamenti, una di proiezione mutui per BFF Ba
 
 Dichiarazione originale: «cliente finale BFF Bank, what if gestiva entrambe le cose, clearing dei pagamenti sui mutui».
 
-**Esito:** confermati cliente finale e ambito funzionale. Descrizione sintetica utilizzabile: “What If, funzionalità per il clearing dei pagamenti sui mutui per BFF Bank”. Non dedurre ulteriori dettagli sulle simulazioni o sui calcoli. Resta da confermare la catena dei fornitori, inclusi i ruoli di Apprendo, Be Shaping the Future ed Engineering.
+**Esito:** confermati cliente finale e ambito funzionale. Descrizione sintetica utilizzabile: “What If, funzionalità per il clearing dei pagamenti sui mutui per BFF Bank”. Non dedurre ulteriori dettagli sulle simulazioni o sui calcoli. Catena confermata dall’utente il 10 ottobre 2026:
+
+Alessandro Aprile → Apprendo Srl (datore di lavoro diretto) → Be Shaping the Future (indicata dall’utente come “a brand of Engineering”) → Engineering → BFF Bank (cliente finale).
+
+Dichiarazione originale: «la catena era `io -> apprendo srl (azienda per cui ho assunzione diretta) -> be shaping the future (a brand of engineering) -> engineering -> BFF bank`».
+
+**Stato finale:** Q02 risolta. Conservare distinti datore di lavoro, intermediari e cliente finale; la descrizione del rapporto tra Be Shaping the Future ed Engineering è una dichiarazione dell’utente, non una verifica societaria indipendente.
 
 ## Q03 — L’80% era un requisito minimo o una copertura effettivamente raggiunta?
 

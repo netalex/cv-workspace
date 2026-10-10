@@ -13,3 +13,8 @@ ad analysis.md confronto del fisso, incremento percentuale, variabile e benefit
 separati, condizioni e informazioni mancanti. Non trasferire automaticamente
 questi dati in cv.md, cover-letter.md o message.md. La RAL desiderata resta da
 concordare: non ricavarla dagli esempi aritmetici.
+
+Leggere anche profile/preferences.md: valutare in analysis.md ogni desideratum e
+obiettivo nell’ordine dichiarato, separando compatibilità tecnica e personale.
+Esplicitare compromessi, evidenze e domande aperte senza inventare pesi o soglie.
+Non copiare automaticamente preferenze e note negoziali nei testi destinati alle aziende.

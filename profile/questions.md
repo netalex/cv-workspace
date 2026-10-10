@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q03 risolte; Q04–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q03 risolte; Q04 parzialmente risolta (origine del 20% chiarita; attività A-Ice da precisare); Q05–Q11 aperte. Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -55,6 +55,12 @@ Il 20% è attribuito sia a NextIP sia ad A-Ice nelle versioni recenti; la versio
 
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 34: «Design and rewrite in SPA technology (angular) of a legacy aircraft management application for airports. Modular structure, starting from the de-icing module. Project suspended in the initial phase due to COVID.»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 86: «Velocità dell’applicazione migliorata di circa il 20% e codice meglio organizzato.»
+
+**Risposta confermata dall’utente il 10 ottobre 2026:** il miglioramento del 20% era una **stima personale aggiunta durante la riscrittura del CV**, non una misura verificata.
+
+Dichiarazione originale: «una mia stima, in aggiunta durante la riscrittura.»
+
+**Esito:** chiarita l’origine della percentuale. Omettere il 20% dai CV personalizzati in assenza di una base di misura documentata; conservare qui la stima e la sua provenienza. Non sostituirla automaticamente con affermazioni qualitative di miglioramento delle prestazioni non ancora confermate. Resta da precisare quali attività fossero state effettivamente completate per A-Ice prima della sospensione nella fase iniziale riportata dalla fonte ThinkOpen.
 
 ## Q05 — Confermi il progetto GFT 2022 in React e i progetti omessi?
 

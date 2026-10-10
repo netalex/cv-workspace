@@ -1,6 +1,6 @@
 # Domande per il consolidamento
 
-Stato: Q01–Q10 risolte; Q11 aperta. Nessuna risposta dedotta dalle riscritture dei CV.
+Stato: Q01–Q10 risolte; Q11 parzialmente risolta (assenza di laurea, un anno di Disegno industriale ed erogatore dei corsi confermati). Nessuna risposta dedotta dalle riscritture dei CV.
 Gli estratti seguenti sono evidenze testuali delle fonti, non fatti già confermati.
 Le righe sono quelle dei file UTF-8 in sources/extracted, non le pagine degli originali.
 
@@ -231,6 +231,10 @@ Alla domanda sulla data effettiva di aggiornamento, l’utente ha risposto: «lu
 
 **Esito:** Q10 risolta per la data di revisione dichiarata. Usare luglio 2026 come riferimento, senza attribuire un giorno preciso; l’intestazione “CV Aggiornato 10/2025” non rappresenta la data di revisione confermata. Conservare l’originale invariato. Il riferimento interno ad agosto 2026 resta un’incongruenza cronologica della fonte: non dedurre se fosse una previsione o una modifica successiva. Il periodo ICAR maggio–agosto 2026 è stato confermato separatamente dall’utente in Q09.
 
+**Versione più recente dichiarata il 10 ottobre 2026:** l’utente identifica come CV più aggiornato quello inviato a Leonardo pochi giorni prima e allegato come `AAprile_CV_Leonardo_React_10-2026_rev2 (1).docx`. La data esatta dell’invio non è specificata. Questo aggiorna la priorità delle versioni, senza modificare la data di luglio 2026 attribuita all’altro CV.
+
+L’allegato ha SHA-256 `20510e4bba7a55955c390d983c308cabbb8cd9facc3ef4616df66300d65fc33e` ed è diverso dalla rev2 già censita come `src-7b8606e22b543740`. Il confronto testuale mostra una revisione delle competenze iniziali, l’aggiunta dell’uso di web worker in NextIP, dettagli sul CMS DS Group e la voce Talent Garden 2026. Le nuove indicazioni della fonte non sostituiscono le correzioni confermate durante il consolidamento.
+
 ## Q11 — Confermi formazione e denominazioni dei corsi?
 
 Registrare diploma, anno universitario frequentato senza attribuire una laurea, date e titoli esatti dei corsi. Le versioni recenti non devono cancellare il diploma presente in quella inglese.
@@ -238,3 +242,14 @@ Registrare diploma, anno universitario frequentato senza attribuire una laurea, 
 - [src-a201c479e6c03b86](../sources/extracted/src-a201c479e6c03b86.txt), riga 183: «Diploma in Classical Studies - Liceo Classico Leopardi (1990 - 1997)»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 157: «Un anno di formazione su progettazione, design del prodotto e pensiero visivo, poi applicata alla progettazione di interfacce e all’usabilità nel front end.»
 - [src-7b8606e22b543740](../sources/extracted/src-7b8606e22b543740.txt), riga 159: «Architetture Enterprise in Angular 9 & NgRx 9 – online (2019)»
+
+
+**Conferme dell’utente del 10 ottobre 2026:**
+
+- Non possiede una laurea.
+- Ha frequentato soltanto un anno di Disegno industriale. Presentare questa esperienza come frequenza universitaria senza conseguimento del titolo.
+- Il corso citato era erogato da **Fabio Biondi**. Per descrivere la formazione dell’utente è sufficiente il nome del formatore; le qualifiche del docente non sono certificazioni possedute dall’utente.
+
+**Dati presenti nell’ultimo allegato, da distinguere dalle conferme dirette:** Politecnico di Milano, Disegno Industriale – indirizzo Prodotto, 1999; corsi con Fabio Biondi nel 2018–2019; “AI Management & Prompt Engineering Master - Talent Garden 2026”. La nuova voce Talent Garden non specifica stato di completamento o natura del titolo: non attribuire un master universitario.
+
+**Esito parziale:** chiariti assenza di laurea, durata della frequenza universitaria ed erogatore dei corsi. Restano da confermare diploma/anno, istituto e anno della frequenza universitaria, data del corso Angular 9 & NgRx 9 e stato del percorso Talent Garden 2026.

@@ -250,6 +250,13 @@ Registrare diploma, anno universitario frequentato senza attribuire una laurea, 
 - Ha frequentato soltanto un anno di Disegno industriale. Presentare questa esperienza come frequenza universitaria senza conseguimento del titolo.
 - Il corso citato era erogato da **Fabio Biondi**. Per descrivere la formazione dell’utente è sufficiente il nome del formatore; le qualifiche del docente non sono certificazioni possedute dall’utente.
 
-**Dati presenti nell’ultimo allegato, da distinguere dalle conferme dirette:** Politecnico di Milano, Disegno Industriale – indirizzo Prodotto, 1999; corsi con Fabio Biondi nel 2018–2019; “AI Management & Prompt Engineering Master - Talent Garden 2026”. La nuova voce Talent Garden non specifica stato di completamento o natura del titolo: non attribuire un master universitario.
+**Dati presenti nell’ultimo allegato, da distinguere dalle conferme dirette:** Politecnico di Milano, Disegno Industriale – indirizzo Prodotto, 1999; corsi con Fabio Biondi nel 2018–2019; “AI Management & Prompt Engineering Master - Talent Garden 2026”. L’allegato non specifica la natura del titolo: non attribuire un master universitario. Lo stato di completamento è chiarito dalla successiva conferma diretta riportata sotto.
 
-**Esito parziale:** chiariti assenza di laurea, durata della frequenza universitaria ed erogatore dei corsi. Restano da confermare diploma/anno, istituto e anno della frequenza universitaria, data del corso Angular 9 & NgRx 9 e stato del percorso Talent Garden 2026.
+**Esito parziale:** chiariti assenza di laurea, durata della frequenza universitaria ed erogatore dei corsi. Restano da confermare diploma/anno, istituto e anno della frequenza universitaria, data del corso Angular 9 & NgRx 9 ; il completamento del percorso Talent Garden è confermato sotto.
+
+
+**Conferma Talent Garden del 10 ottobre 2026:** percorso “AI Management & Prompt Engineering Master” completato nelle prime due settimane di **settembre 2026**. Registrare il completamento a precisione mensile (`2026-09`), conservando la precisazione temporale senza inventare un giorno esatto.
+
+Dichiarazione originale: «completato registrato le prime due settimane di settembre».
+
+Il termine “registrato” è conservato nella dichiarazione senza dedurne il rilascio di un attestato o una specifica modalità di frequenza. Formulazione utilizzabile: “AI Management & Prompt Engineering — Talent Garden, completato a settembre 2026”.

@@ -58,3 +58,8 @@ Verificare se precisare le date dei progetti selezionati ancora senza periodo.
 Il corso Angular 9 & NgRx 9 mantiene l’anno 2019 confermato dal candidato, da controllare su attestato se disponibile.
 La lettera è facoltativa: per WhatsApp sono previsti CV e messaggio, non un invio aggiuntivo.
 Approvazioni contenuti e layout lasciate false; nessun invio effettuato.
+
+
+## Revisione del 10 ottobre dopo il caricamento degli output
+
+Vedere cv-review.md e follow-up-guide.md. Preavviso: 30 giorni dichiarati dal candidato, possibile anticipo non garantito. Fascia 45–50k proposta dall’assistente, non approvata. Aggiunta evidenza proj-aice per il contributo del team all’architettura modulare. CV Markdown aggiornato, PDF/DOCX precedenti preservati e non allineati alla revisione.

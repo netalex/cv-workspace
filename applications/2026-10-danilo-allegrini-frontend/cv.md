@@ -41,9 +41,9 @@ Sviluppatore frontend con esperienza in applicazioni enterprise, servizi bancari
 
 ## Altri progetti e responsabilità
 
-**Intesi / Deutsche Bank · tramite ThinkOpen**
+**Intesi / Deutsche Bank — Angular · tramite ThinkOpen**
 
-Ruolo iniziale funzionale e architetturale con stesura dei documenti funzionali in accordo con gli architetti. Sviluppatore responsabile frontend in un team di tre sviluppatori Angular e formazione dei colleghi sul framework.
+Sviluppatore responsabile del frontend Angular in un team di tre sviluppatori, con formazione dei colleghi sul framework. Nella fase iniziale, analisi funzionale e stesura dei documenti in accordo con gli architetti.
 
 **What If / BFF Bank · Apprendo → Be Shaping the Future → Engineering**
 
@@ -57,9 +57,13 @@ Progetto e-commerce di apparecchi acustici per il mercato APAC.
 
 Supporto all’ammodernamento del frontend del CRM interno.
 
-**Winga**
+**Winga — AngularJS e Liferay**
 
 Esperienza su un’architettura microfrontend in Liferay con applicazioni AngularJS.
+
+**A-ICE — architettura modulare**
+
+Contributo del team alla struttura di base del modulo di sbrinamento degli aeromobili e alle fondamenta del sistema di librerie frontend/backend dell’applicazione modulare.
 
 ## Formazione
 
